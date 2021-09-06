@@ -1,10 +1,12 @@
+## script for downloading Google-Ngram Corpus.
+## requirements:
+##     proxy for linking to google if you can not connect google server.
 import os
 import json
 import wget
 import requests
 import subprocess
 from lxml import etree
-
 
 class Spider:
     def get_source(self,url):
@@ -40,7 +42,7 @@ class Spider:
         
         # print(p)
 
-def download(title="English All"):
+def download(title="English All",to_server=False):
     with open("./data/download_link.json","r") as rf:
         data = json.load(rf)
     download_link = data[title]
@@ -56,8 +58,9 @@ def download(title="English All"):
             print(link)
             wget.download(link,cur_dir+"/"+link.split("/")[-1],)
             src_file = cur_dir+"/"+link.split("/")[-1]
-            scp_file_to_remote(src_file)
-            os.remove(src_file)
+            if to_server:
+                scp_file_to_remote(src_file)
+                os.remove(src_file)
 
 def scp_file_to_remote(localsource,user="",ip="",password="",remotedest="",port=22):
     SCP_CMD_BASE = r"""

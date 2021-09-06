@@ -3,7 +3,7 @@ import json
 import gzip
 import requests
 import random
-# from nltk.stem import WordNetLemmatizer
+from nltk.stem import WordNetLemmatizer
 
 def save_item(wf,item_dict):
     res = sorted(item_dict.items())
@@ -15,6 +15,14 @@ def save_item(wf,item_dict):
             pass
 
 def parse_file():
+    """
+    Function:
+        extract adjective-noun pair from Google N-Grams corpus.
+        Corpus download link: http://commondatastorage.googleapis.com/books/syntactic-ngrams/index.html
+        craw_data.py is our python script for downloading corpus.
+    Output:
+        serveral txt files saving (adjective,noun,cooccurence times) pairs.
+    """
     dst_dir = "./data/adj_noun"
     if not os.path.exists(dst_dir):
         os.makedirs(dst_dir)
@@ -51,6 +59,12 @@ def parse_file():
                 save_item(wf,res)
 
 def remove_num():
+    """
+    Function:
+        filter out numbers in (adjective,noun,cooccurence) pairs.
+    Output:
+        several txt file saving (adjective,noun,cooccurence).
+    """
     dst_dir = "./data/adj_letter"
     if not os.path.exists(dst_dir):
         os.makedirs(dst_dir)
@@ -128,6 +142,12 @@ def translate(word):
     return None
 
 def build_word_pos():
+    """
+    Function:
+        collect all Pos-of-Tag information for each adjective and noun.
+    Output:
+        word_pos.json saving word Pos-of-Tag information.
+    """
     if os.path.exists("./data/word_pos.json"):
         word_pos = json.load(open("./data/word_pos.json","r"))
         None_set = json.load(open("./data/no_pos.json","r"))
@@ -160,6 +180,12 @@ def build_word_pos():
         json.dump(None_set,open("./data/no_pos.json","w"))
      
 def filter_by_pos():
+    """
+    Function:
+        filtering adjective and noun by Pos-of-Tag information.
+    Output:
+        several txt files saving (adjective,noun) pairs.
+    """
     word_pos = json.load(open("./data/word_pos.json","r"))
     dst_dir = "./data/adj_pos"
     if not os.path.exists(dst_dir):
@@ -182,6 +208,12 @@ def filter_by_pos():
                 wf.write(line.strip()+"\n")
  
 def merge_all():
+    """
+    Function:
+        merging all txt files.
+    Output:
+        all.txt saving (adjective,noun) pairs.
+    """
     src_dir = "./data/adj_pos"
     res = dict()
     for filename in os.listdir(src_dir):
@@ -198,6 +230,12 @@ def merge_all():
 
 ## filter noun not in concepts       
 def prepare_for_mdl():
+    """
+    Function:
+        Transforming all.txt to mdl_data.json
+    Output:
+        mdl_data.json saving (adjective,noun) pairs.
+    """
     if not os.path.exists("./data/all.txt"):
         merge_all()
     instances = json.load(open("./mdl/data/all_instance.json","r"))
@@ -247,6 +285,12 @@ def filter_by_freq(filename,thresh=30):
     json.dump(res,open("./data/test_data_{}.json".format(str(thresh)),"w"))
 
 def filter_by_model(thresh=0.5):
+    """
+    Function:
+        filtering unreasonable (adjective,noun) pair through classifier.
+    Output:
+        mdl_prob_data.json
+    """
     import classifier.run_classify_prob as rb
     if not os.path.exists("./classifier/data/mdl_prob_data.csv"):
         import create_data as cd
@@ -277,7 +321,6 @@ def filter_by_model(thresh=0.5):
     print(filter_count)
     json.dump(res,open("./data/mdl_prob_data.json","w"))
 
-
 if __name__ == '__main__':
     parse_file()
     remove_num()
@@ -288,6 +331,6 @@ if __name__ == '__main__':
     prepare_for_mdl()
 
     # filter_by_freq("./data/mdl_data.json",thresh=30)
-    filter_by_model()
+    # filter_by_model()
 
 
