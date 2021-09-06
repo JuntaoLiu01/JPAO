@@ -45,7 +45,7 @@
 
   - before doing so, you should：
     - collect concept tree from [Microsoft Concept Graph](https://concept.research.microsoft.com/Home/Introduction)， see `mdl` directory for details.
-      - download BERT model from [here](https://github.com/google-research/bert) ， and put it at `semantic/bert/models` directory.
+    - download BERT model from [here](https://github.com/google-research/bert) ， and put it at `semantic/bert/models` directory.
 
 
 ### Data Resources
