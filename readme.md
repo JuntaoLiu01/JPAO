@@ -9,13 +9,13 @@
 
 ### Steps
 
-- python packages
+- Python packages
   - tensorflow-1.14.0
   - bert4keras-0.9.1
   - Keras-2.3.1
   - For other missing packages, download by `pip install XXX`
 
-- download [Google-N-grams corpus](http://commondatastorage.googleapis.com/books/syntactic-ngrams/index.html)
+- Download [Google-N-grams corpus](http://commondatastorage.googleapis.com/books/syntactic-ngrams/index.html)
 
   ```shell
   python crawl_data.py
@@ -23,7 +23,7 @@
 
   - proxy for linking to Google if you can not connect Google server
 
-- data preprocessing and filtering module
+- Data preprocessing and filtering module
 
   ```shell
   python clean_data.py
@@ -31,7 +31,7 @@
 
   - or you can download our processed file: https://drive.google.com/file/d/1-VTO-_rO70IRgwvBfbHzIa5YKxuHC6pp/view?usp=sharing
   
-- clustering module
+- Clustering module
 
   ```shell
   python cluster_data.py
