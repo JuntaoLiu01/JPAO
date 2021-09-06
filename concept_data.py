@@ -544,7 +544,7 @@ def make_concept(mode="2P",thresh=40,alpha=0.6,normal_num=1.0,beta=0.5,hold_mult
         file_cache.empty()
 
         start = time.time()
-        print("处理 {} sample:".format(adj))
+        print("dealing {} sample:".format(adj))
         dirname = "./result/adjss/{}/".format(adj)
         test_txts = ["normal"]
         for tn in test_txts:
@@ -568,9 +568,9 @@ def make_concept(mode="2P",thresh=40,alpha=0.6,normal_num=1.0,beta=0.5,hold_mult
             res["res"] = list(res["res"])
             json.dump(res,open(dirname+"{}_sample_pmi.json".format(tn),"w"),indent=2,ensure_ascii=False)
             json.dump(file_cache.cache,open(dirname+"{}_sample_pmi_score.json".format(tn),"w"),indent=2,ensure_ascii=False)
-            print("{} 类结果已经处理完毕，共 {} 条结果。".format(tn,str(len(res)-1)))
+            print("{} has beed processed, {} results.".format(tn,str(len(res)-1)))
         end = time.time()
-        print("处理 {} 用时 {} 分钟\n".format(adj,str((end-start)/60)))
+        print("dealing {} costs {} minutes\.n".format(adj,str((end-start)/60)))
 
 def make_concept_npmi(thresh=40,topk=2,normal_num=1.0,beta=0.5,parse=False):
     # adjs = ["beautiful","cute","dangerous","expensive","famous","poor","popular","strong","successful","traditional"]
@@ -586,7 +586,7 @@ def make_concept_npmi(thresh=40,topk=2,normal_num=1.0,beta=0.5,parse=False):
         load_file_cache(os.path.join("./result/adjss/{}".format(adj),"normal_sample_pmi_score.json"))
 
         start = time.time()
-        print("处理 {} sample:".format(adj))
+        print("dealing {} sample:".format(adj))
         dirname = "./result/adjss/{}/".format(adj)
         test_txts = ["normal"]
         for tn in test_txts:
@@ -609,9 +609,9 @@ def make_concept_npmi(thresh=40,topk=2,normal_num=1.0,beta=0.5,parse=False):
             res["res"] = list(res["res"])
             json.dump(res,open(dirname+"{}_npmi_sample.json".format(tn),"w"),indent=2,ensure_ascii=False)
             json.dump(file_cache.cache,open(dirname+"{}_sample_npmi_score.json".format(tn),"w"),indent=2,ensure_ascii=False)
-            print("{} 类结果已经处理完毕，共 {} 条结果。".format(tn,str(len(res)-1)))
+            print("{} has been processed, {} results.".format(tn,str(len(res)-1)))
         end = time.time()
-        print("处理 {} 用时 {} 分钟\n".format(adj,str((end-start)/60)))
+        print("dealing {} costs {} minutes.\n".format(adj,str((end-start)/60)))
 
 def make_concept_bayes(thresh=40,topk=3,normal_num=1.0,beta=0.5,parse=False):
     adjs = ["beautiful","cute","dangerous","expensive","famous","poor","popular","strong","successful","traditional"]
@@ -627,7 +627,7 @@ def make_concept_bayes(thresh=40,topk=3,normal_num=1.0,beta=0.5,parse=False):
         load_file_cache(os.path.join("./result/adjs/{}".format(adj),"normal_sample_npmi_score.json"))
 
         start = time.time()
-        print("处理 {} sample:".format(adj))
+        print("dealing {} sample:".format(adj))
         dirname = "./result/adjs/{}/".format(adj)
         test_txts = ["normal"]
         for tn in test_txts:
@@ -650,9 +650,9 @@ def make_concept_bayes(thresh=40,topk=3,normal_num=1.0,beta=0.5,parse=False):
             res["res"] = list(res["res"])
             json.dump(res,open(dirname+"{}_bayes_sample.json".format(tn),"w"),indent=2,ensure_ascii=False)
             json.dump(file_cache.cache,open(dirname+"{}_bayes_sample_score.json".format(tn),"w"),indent=2,ensure_ascii=False)
-            print("{} 类结果已经处理完毕，共 {} 条结果。".format(tn,str(len(res)-1)))
+            print("{} has been processed, {} results.".format(tn,str(len(res)-1)))
         end = time.time()
-        print("处理 {} 用时 {} 分钟\n".format(adj,str((end-start)/60)))
+        print("dealing {} costs {} minutes.\n".format(adj,str((end-start)/60)))
 
 if __name__ == '__main__':
     make_concept()
