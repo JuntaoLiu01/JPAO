@@ -6,7 +6,7 @@ import copy
 import numpy as np
 from functools import reduce
 
-os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "0"
 
 from mdl.probase_mdl import Search,CT
 from mdl.probase_mdl import NPMI
