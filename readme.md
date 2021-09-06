@@ -21,7 +21,7 @@
   python crawl_data.py
   ```
 
-  - proxy for linking to google if you can not connect google server
+  - proxy for linking to Google if you can not connect Google server
 
 - data preprocessing and filtering module
 
@@ -29,7 +29,23 @@
   python clean_data.py
   ```
 
-  - or you can download our processed file: 
+  - or you can download our processed file: https://drive.google.com/file/d/1-VTO-_rO70IRgwvBfbHzIa5YKxuHC6pp/view?usp=sharing
+  
+- clustering module
+
+  ```shell
+  python cluster_data.py
+  ```
+
+- Conceptualization and  evaluation module
+
+  ```shell
+  python concept_data.py
+  ```
+
+  - before doing so, you should：
+    - collect concept tree from [Microsoft Concept Graph](https://concept.research.microsoft.com/Home/Introduction)， see `mdl` directory for details.
+      - download BERT model from [here](https://github.com/google-research/bert) ， and put it at `semantic/bert/models` directory.
 
 
 ### Data Resources

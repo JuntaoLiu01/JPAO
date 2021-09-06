@@ -50,6 +50,12 @@ def weight_sample(nouns,weights,num=10):
         return [x[0] for x in nw]
 
 class AO(Search):
+    """
+    Function:
+        our main methods for conceptualize nouns and evaluation.
+    Output:
+        (adjective,concept) pairs.
+    """
     def __init__(self,adj,instances,normal_num=1.0,beta=0.5,thresh=120,mode="2P",alpha=0.5,**kwargs):
         self.adj = adj
         self.beta = beta
@@ -296,6 +302,12 @@ def load_file_cache(filename):
     del tmp
 
 class NPMIAO(NPMI):
+    """
+    Function:
+        NPMI based baselines.
+    Output:
+        (adjective,concept) pairs.
+    """
     def __init__(self,adj,instances,thresh=40,topk=2,normal_num=1.0,beta=0.5,parse=False):
         super(NPMIAO,self).__init__(instances,thresh,topk)
         self.adj = adj
@@ -410,6 +422,12 @@ class NPMIAO(NPMI):
             self.score = 0
 
 class BayesAO(Bayes):
+    """
+    Function:
+        Basyes Classification based baselines.
+    Output:
+        (adjective,concept) pairs.
+    """
     def __init__(self,adj,instances,thresh=40,topk=3,normal_num=1.0,beta=0.5,parse=False):
         super(BayesAO,self).__init__(instances,thresh,topk)
         self.adj = adj
