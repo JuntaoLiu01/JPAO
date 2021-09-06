@@ -21,7 +21,7 @@
   python crawl_data.py
   ```
 
-  - proxy for linking to Google if you can not connect Google server
+  - need proxy for linking to Google if you can not connect Google server.
 
 - Data preprocessing and filtering module
 
