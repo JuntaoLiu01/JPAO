@@ -314,6 +314,12 @@ noun_set = {}
 dist_dict = {}
 
 def matrix_main():
+    """
+    Function:
+        multi-process for building jacard distance between nouns
+    Output:
+        *.npy for all adjectives saving jacard distance between nouns
+    """
     print("parent process %s" % os.getpid())
     all_adjs = list(mdl_data.keys())
     step = int(len(all_adjs)/4) + 1
@@ -330,6 +336,12 @@ def matrix_main():
     print("all proceess have been done")
 
 def cluster_main():
+    """
+    Function:
+        multi-process for clustering nouns
+    Output:
+        */normal_iter_result.txt saving clustering results
+    """
     all_adjs = []
     clustered_adjs = set()
     with open("./clustered.txt","r") as rf:
