@@ -14,7 +14,7 @@ def filter_root_concept(concept_tree):
     for node in concept_tree:
         if is_root_concept(concept_tree[node]):
             concepts.append(node)
-    json.dump(concepts,open("all_root_concept.json","w"),indent=4)
+    json.dump(concepts,open("./data/all_root_concept.json","w"),indent=4)
     return concepts
 
 def filter_instance(concept_tree):
@@ -22,7 +22,7 @@ def filter_instance(concept_tree):
     for node in concept_tree:
         if is_instance(concept_tree[node]):
             instances.append(node)
-    json.dump(instances,open("all_instance.json","w"),indent=4)
+    json.dump(instances,open("./data/all_instance.json","w"),indent=4)
     return instances
 
 def compute_prob(concept_tree):
@@ -39,7 +39,7 @@ def compute_prob(concept_tree):
             concept_tree[node]["parents"][parent] = [value,value/count_p]
     for node in concept_tree:
         concept_tree[node]["prob"] = concept_tree[node]["count"]/all_count
-    json.dump(concept_tree,open("concepts_tree.json","w"),indent=4)
+    json.dump(concept_tree,open("./data/concepts_tree.json","w"),indent=4)
 
 def parse_file(filename):
     concept_tree = dict()
