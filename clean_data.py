@@ -284,7 +284,7 @@ def filter_by_freq(filename,thresh=30):
         # print(len(res[case])/len(test_data[case]))
     json.dump(res,open("./data/test_data_{}.json".format(str(thresh)),"w"))
 
-def filter_by_model(thresh=0.5):
+def filter_by_model(model_path,thresh=0.5):
     """
     Function:
         filtering unreasonable (adjective,noun) pair through classifier.
@@ -298,7 +298,7 @@ def filter_by_model(thresh=0.5):
     else:
         mdl_prob_data = rb.load_data("run_all","./classifier/data/mdl_prob_data.csv")
     print("data have been prepared! start predicting!")
-    pred = rb.predict(mdl_prob_data,"./classifier/model/prob_elu_encoder12Wq_model_37_0.51_0.77.h5",wf=False)
+    pred = rb.predict(mdl_prob_data,model_path,wf=False)
     print("predicting have been done! start filtering!")
     pred_index = 0
     res = {}
@@ -331,6 +331,6 @@ if __name__ == '__main__':
     prepare_for_mdl()
 
     # filter_by_freq("./data/mdl_data.json",thresh=30)
-    # filter_by_model()
+    # filter_by_model(model_path="",thresh_hold=0.5)
 
 

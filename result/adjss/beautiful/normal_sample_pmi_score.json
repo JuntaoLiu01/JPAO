@@ -1,0 +1,3938 @@
+{
+  "duration": {
+    "concept_score": 0.3391610691682038,
+    "instance_score": 0.3571179004070615
+  },
+  "timescale": {
+    "concept_score": 0.3568058860076987,
+    "instance_score": 0.3525281564901874
+  },
+  "time interval": {
+    "concept_score": 0.3582300844025357,
+    "instance_score": 0.3497946715283434
+  },
+  "time period": {
+    "concept_score": 0.3514818327268607,
+    "instance_score": 0.34560332830094687
+  },
+  "interval": {
+    "concept_score": 0.33882440453984086,
+    "instance_score": 0.34618600410701733
+  },
+  "diversity": {
+    "concept_score": 0.34051288367221916,
+    "instance_score": 0.34676368345356257
+  },
+  "humanity": {
+    "concept_score": 0.3399419692971253,
+    "instance_score": 0.33897160185515246
+  },
+  "difference": {
+    "concept_score": 0.33403300132873154,
+    "instance_score": 0.3406970836133957
+  },
+  "identity": {
+    "concept_score": 0.34024129182953844,
+    "instance_score": 0.3397071810217226
+  },
+  "factor": {
+    "concept_score": 0.33882921155394324,
+    "instance_score": 0.3392294631910274
+  },
+  "population": {
+    "concept_score": 0.33328853702141087,
+    "instance_score": 0.34523905562830415
+  },
+  "group": {
+    "concept_score": 0.3387039046804466,
+    "instance_score": 0.3474069763397215
+  },
+  "subpopulation": {
+    "concept_score": 0.35293894781019264,
+    "instance_score": 0.3489362185784725
+  },
+  "sub-populations": {
+    "concept_score": 0.35676274774530653,
+    "instance_score": 0.35151836998437436
+  },
+  "vulnerable group": {
+    "concept_score": 0.3557526261590052,
+    "instance_score": 0.3432642347214996
+  },
+  "state": {
+    "concept_score": 0.3395160298431729,
+    "instance_score": 0.3434860124890853
+  },
+  "climate": {
+    "concept_score": 0.3378055378294338,
+    "instance_score": 0.34240246944204217
+  },
+  "jurisdiction": {
+    "concept_score": 0.3373241196528691,
+    "instance_score": 0.34468638390419326
+  },
+  "u.s. state": {
+    "concept_score": 0.36769922712534464,
+    "instance_score": 0.3435555028750048
+  },
+  "border state": {
+    "concept_score": 0.35723148186239134,
+    "instance_score": 0.34138269426711704
+  },
+  "characteristic": {
+    "concept_score": 0.3405080629617393,
+    "instance_score": 0.34010125516814615
+  },
+  "attribute": {
+    "concept_score": 0.3424511867941697,
+    "instance_score": 0.338425107673196
+  },
+  "property": {
+    "concept_score": 0.3384211114515701,
+    "instance_score": 0.3476821284237024
+  },
+  "cue": {
+    "concept_score": 0.338798646986625,
+    "instance_score": 0.3468095223723101
+  },
+  "morphology": {
+    "concept_score": 0.33179128434519645,
+    "instance_score": 0.3493433939512321
+  },
+  "building": {
+    "concept_score": 0.33965275837800935,
+    "instance_score": 0.33893822915994054
+  },
+  "cultural facility": {
+    "concept_score": 0.3564972563715943,
+    "instance_score": 0.34628413217588866
+  },
+  "facility": {
+    "concept_score": 0.33916614141608276,
+    "instance_score": 0.34819102472600394
+  },
+  "space": {
+    "concept_score": 0.33960399555147314,
+    "instance_score": 0.3407846942705956
+  },
+  "outing": {
+    "concept_score": 0.3396316092870457,
+    "instance_score": 0.3456321910374014
+  },
+  "horse": {
+    "concept_score": 0.3393800345934251,
+    "instance_score": 0.3540094830134026
+  },
+  "breed": {
+    "concept_score": 0.340272809459751,
+    "instance_score": 0.352416489824818
+  },
+  "horse breed": {
+    "concept_score": 0.3563299871613712,
+    "instance_score": 0.3540054643162137
+  },
+  "type": {
+    "concept_score": 0.3411576127165043,
+    "instance_score": 0.3438304803804703
+  },
+  "animal": {
+    "concept_score": 0.340682044506767,
+    "instance_score": 0.33892418969067495
+  },
+  "recyclable": {
+    "concept_score": 0.3608696630517097,
+    "instance_score": 0.3434290765111663
+  },
+  "material": {
+    "concept_score": 0.3384673313328897,
+    "instance_score": 0.3406407503094241
+  },
+  "scrap": {
+    "concept_score": 0.3413588114093016,
+    "instance_score": 0.3467859158972294
+  },
+  "recyclable material": {
+    "concept_score": 0.37168255484027146,
+    "instance_score": 0.33928564258956406
+  },
+  "substrate": {
+    "concept_score": 0.3406052224625405,
+    "instance_score": 0.3451516246442597
+  },
+  "metallic": {
+    "concept_score": 0.3399328730357624,
+    "instance_score": 0.3441595451582359
+  },
+  "soft metal": {
+    "concept_score": 0.3577946151622385,
+    "instance_score": 0.33727759713824174
+  },
+  "alloy": {
+    "concept_score": 0.33925638893068955,
+    "instance_score": 0.3435888754319122
+  },
+  "valuable metal": {
+    "concept_score": 0.35797170555012875,
+    "instance_score": 0.3377613040792077
+  },
+  "athlete": {
+    "concept_score": 0.3356091984510779,
+    "instance_score": 0.34164899030368434
+  },
+  "sportsman": {
+    "concept_score": 0.34001864901041057,
+    "instance_score": 0.3478593835991324
+  },
+  "professional athlete": {
+    "concept_score": 0.35511631595665133,
+    "instance_score": 0.35192153974992874
+  },
+  "figurine": {
+    "concept_score": 0.357347563207383,
+    "instance_score": 0.35560794125554107
+  },
+  "young athlete": {
+    "concept_score": 0.3557226496032325,
+    "instance_score": 0.3565566421319704
+  },
+  "genre": {
+    "concept_score": 0.34105190652411355,
+    "instance_score": 0.3411722431772808
+  },
+  "style": {
+    "concept_score": 0.3402722483970187,
+    "instance_score": 0.34116574846200654
+  },
+  "musical genre": {
+    "concept_score": 0.3591120737605508,
+    "instance_score": 0.3395950993599097
+  },
+  "dance": {
+    "concept_score": 0.3396120411752702,
+    "instance_score": 0.34877741376750493
+  },
+  "framework": {
+    "concept_score": 0.338262510639668,
+    "instance_score": 0.3529896701917595
+  },
+  "web framework": {
+    "concept_score": 0.35868737436994874,
+    "instance_score": 0.35348314225593114
+  },
+  "technology": {
+    "concept_score": 0.33886282430511544,
+    "instance_score": 0.34578404372244254
+  },
+  "product": {
+    "concept_score": 0.3395373862198925,
+    "instance_score": 0.3410462616971733
+  },
+  "habitat": {
+    "concept_score": 0.33339636447679966,
+    "instance_score": 0.34005028991030245
+  },
+  "landscape": {
+    "concept_score": 0.3405369453446766,
+    "instance_score": 0.3439835979595975
+  },
+  "ecosystem": {
+    "concept_score": 0.33975921649423313,
+    "instance_score": 0.34050076005537083
+  },
+  "land": {
+    "concept_score": 0.3388693747601988,
+    "instance_score": 0.3447073800425412
+  },
+  "handwork": {
+    "concept_score": 0.3576682851780228,
+    "instance_score": 0.34870332422898914
+  },
+  "craft": {
+    "concept_score": 0.3407175052586404,
+    "instance_score": 0.34679960776177654
+  },
+  "handcraft": {
+    "concept_score": 0.3569769480884371,
+    "instance_score": 0.3488392381011039
+  },
+  "textile technique": {
+    "concept_score": 0.3574856108480874,
+    "instance_score": 0.3522337821152982
+  },
+  "handicraft": {
+    "concept_score": 0.3605821979574857,
+    "instance_score": 0.3466285790825899
+  },
+  "outdoor space": {
+    "concept_score": 0.359090933430019,
+    "instance_score": 0.33925191096826884
+  },
+  "slab": {
+    "concept_score": 0.34003602672098326,
+    "instance_score": 0.3521337523365574
+  },
+  "encroachment": {
+    "concept_score": 0.3585658304734688,
+    "instance_score": 0.34637110932883963
+  },
+  "outdoor area": {
+    "concept_score": 0.3579495088775921,
+    "instance_score": 0.34602757149999297
+  },
+  "hardscape": {
+    "concept_score": 0.360468210282463,
+    "instance_score": 0.3485958412546589
+  },
+  "stationery": {
+    "concept_score": 0.35670661718738805,
+    "instance_score": 0.3450634151916024
+  },
+  "utensil": {
+    "concept_score": 0.35885820686048003,
+    "instance_score": 0.3440562848857014
+  },
+  "supply": {
+    "concept_score": 0.3387313752432473,
+    "instance_score": 0.3406813521367608
+  },
+  "give-aways": {
+    "concept_score": 0.3634974934118336,
+    "instance_score": 0.3530230173960522
+  },
+  "school supply": {
+    "concept_score": 0.3579641064855353,
+    "instance_score": 0.34316934626785367
+  },
+  "jewelry": {
+    "concept_score": 0.34085809244498994,
+    "instance_score": 0.34532710389199195
+  },
+  "jewellery": {
+    "concept_score": 0.3399510434927464,
+    "instance_score": 0.34879348995045556
+  },
+  "ornament": {
+    "concept_score": 0.3580995545003338,
+    "instance_score": 0.3486483479764312
+  },
+  "jewel": {
+    "concept_score": 0.34226546889102893,
+    "instance_score": 0.3477374326123342
+  },
+  "jewelry item": {
+    "concept_score": 0.35926728502551475,
+    "instance_score": 0.34448397812222786
+  },
+  "award": {
+    "concept_score": 0.33874781257711556,
+    "instance_score": 0.34560251507809775
+  },
+  "memorabilia": {
+    "concept_score": 0.3401747396779799,
+    "instance_score": 0.34313235345335436
+  },
+  "prize": {
+    "concept_score": 0.3380467149342631,
+    "instance_score": 0.34495304606052934
+  },
+  "keepsake": {
+    "concept_score": 0.3596698194583529,
+    "instance_score": 0.3456122241177891
+  },
+  "memento": {
+    "concept_score": 0.3589799684896525,
+    "instance_score": 0.34714507522476457
+  },
+  "profession": {
+    "concept_score": 0.33889223755366565,
+    "instance_score": 0.3405610185357593
+  },
+  "faculty": {
+    "concept_score": 0.34021079294239026,
+    "instance_score": 0.3387336169343383
+  },
+  "field": {
+    "concept_score": 0.33798092557494946,
+    "instance_score": 0.3384821962852501
+  },
+  "discipline": {
+    "concept_score": 0.33962618986717513,
+    "instance_score": 0.3405833055001039
+  },
+  "career": {
+    "concept_score": 0.3381046625837451,
+    "instance_score": 0.3404617280656931
+  },
+  "event": {
+    "concept_score": 0.33621624463244226,
+    "instance_score": 0.3472562862353174
+  },
+  "engagement": {
+    "concept_score": 0.3392473830145647,
+    "instance_score": 0.35251432524754844
+  },
+  "gathering": {
+    "concept_score": 0.3399768649637758,
+    "instance_score": 0.34469267003702825
+  },
+  "activity": {
+    "concept_score": 0.3389642892456792,
+    "instance_score": 0.34413071786650073
+  },
+  "forum": {
+    "concept_score": 0.3403453301960956,
+    "instance_score": 0.34910799654903535
+  },
+  "facial feature": {
+    "concept_score": 0.3587788055406073,
+    "instance_score": 0.3437261998600309
+  },
+  "facial area": {
+    "concept_score": 0.3571640004620976,
+    "instance_score": 0.3425122586913093
+  },
+  "facial characteristic": {
+    "concept_score": 0.3583937672286368,
+    "instance_score": 0.34456386233343483
+  },
+  "body part": {
+    "concept_score": 0.35909310489931784,
+    "instance_score": 0.3388777693525629
+  },
+  "piercing": {
+    "concept_score": 0.3407386257025152,
+    "instance_score": 0.3465523853956681
+  },
+  "extremity": {
+    "concept_score": 0.3540461871003475,
+    "instance_score": 0.3389277370712027
+  },
+  "limb": {
+    "concept_score": 0.3402725523054316,
+    "instance_score": 0.3432350626151231
+  },
+  "area": {
+    "concept_score": 0.33909377378348,
+    "instance_score": 0.33934712592940564
+  },
+  "part": {
+    "concept_score": 0.338067436401463,
+    "instance_score": 0.33913975729558266
+  },
+  "skill": {
+    "concept_score": 0.34032072704354627,
+    "instance_score": 0.34688005710453174
+  },
+  "ability": {
+    "concept_score": 0.33914046199017545,
+    "instance_score": 0.3494736848171731
+  },
+  "reading skill": {
+    "concept_score": 0.3564793365160223,
+    "instance_score": 0.3490238352212257
+  },
+  "cognitive skill": {
+    "concept_score": 0.35762961778671454,
+    "instance_score": 0.34292847534882975
+  },
+  "language skill": {
+    "concept_score": 0.35717006802712037,
+    "instance_score": 0.3393211340235148
+  },
+  "furnishing": {
+    "concept_score": 0.35766618446958676,
+    "instance_score": 0.34074628907927906
+  },
+  "furnishings": {
+    "concept_score": 0.3376123501750947,
+    "instance_score": 0.3405135441386315
+  },
+  "fitting": {
+    "concept_score": 0.3386787520547825,
+    "instance_score": 0.3433365073597392
+  },
+  "item": {
+    "concept_score": 0.3405262919452588,
+    "instance_score": 0.341587701490791
+  },
+  "motivator": {
+    "concept_score": 0.3590620725229521,
+    "instance_score": 0.34027435888180096
+  },
+  "incentive": {
+    "concept_score": 0.33924621993261816,
+    "instance_score": 0.3484007388722978
+  },
+  "motive": {
+    "concept_score": 0.33908524874763624,
+    "instance_score": 0.34958053547614154
+  },
+  "extrinsic motivator": {
+    "concept_score": 0.3895708302689606,
+    "instance_score": 0.34023984061471424
+  },
+  "weather": {
+    "concept_score": 0.3388859483786491,
+    "instance_score": 0.34365762964882596
+  },
+  "peril": {
+    "concept_score": 0.3579697159565242,
+    "instance_score": 0.3443325164444545
+  },
+  "severe weather": {
+    "concept_score": 0.3585953607468936,
+    "instance_score": 0.34394172970053105
+  },
+  "weather condition": {
+    "concept_score": 0.3587746925201471,
+    "instance_score": 0.34445793712251926
+  },
+  "weather phenomenon": {
+    "concept_score": 0.3570267689556814,
+    "instance_score": 0.34412706221737915
+  },
+  "trade": {
+    "concept_score": 0.33825226131640235,
+    "instance_score": 0.346671532461056
+  },
+  "service": {
+    "concept_score": 0.33749523891047273,
+    "instance_score": 0.3417383126471779
+  },
+  "solution": {
+    "concept_score": 0.33796446837393096,
+    "instance_score": 0.35500028598970357
+  },
+  "job": {
+    "concept_score": 0.34000359265296654,
+    "instance_score": 0.34027708215401964
+  },
+  "metadata": {
+    "concept_score": 0.3419567976570849,
+    "instance_score": 0.34340625927856894
+  },
+  "meta-data": {
+    "concept_score": 0.35185497911131053,
+    "instance_score": 0.35258828855499436
+  },
+  "information": {
+    "concept_score": 0.33693308094355934,
+    "instance_score": 0.3417828513857566
+  },
+  "column": {
+    "concept_score": 0.3385723042851762,
+    "instance_score": 0.34355275264615803
+  },
+  "adverb": {
+    "concept_score": 0.3604432534671552,
+    "instance_score": 0.3458768072152561
+  },
+  "void": {
+    "concept_score": 0.3394684037356784,
+    "instance_score": 0.34673265557095934
+  },
+  "dungeon": {
+    "concept_score": 0.34026974704792906,
+    "instance_score": 0.3503915677768411
+  },
+  "landmark": {
+    "concept_score": 0.34022903691957346,
+    "instance_score": 0.3464948101424248
+  },
+  "archaeological remains": {
+    "concept_score": 0.3544625324423441,
+    "instance_score": 0.3481427308556195
+  },
+  "monument": {
+    "concept_score": 0.3391515927766422,
+    "instance_score": 0.35265215752799756
+  },
+  "excipient": {
+    "concept_score": 0.36243404445991734,
+    "instance_score": 0.35698173186382065
+  },
+  "additive": {
+    "concept_score": 0.3394923455638886,
+    "instance_score": 0.35335356663146317
+  },
+  "spice": {
+    "concept_score": 0.34075525597912004,
+    "instance_score": 0.34899724055058745
+  },
+  "ingredient": {
+    "concept_score": 0.3354699386967554,
+    "instance_score": 0.3432389719019976
+  },
+  "partition": {
+    "concept_score": 0.3404054652920358,
+    "instance_score": 0.3487379496657534
+  },
+  "obstruction": {
+    "concept_score": 0.34008132023382065,
+    "instance_score": 0.3406825097509947
+  },
+  "surface": {
+    "concept_score": 0.33950942886401203,
+    "instance_score": 0.3404272665416264
+  },
+  "boundary": {
+    "concept_score": 0.3398593793708172,
+    "instance_score": 0.34051359351537835
+  },
+  "obstacle": {
+    "concept_score": 0.3407355896088126,
+    "instance_score": 0.3411372297334331
+  },
+  "marketing material": {
+    "concept_score": 0.35730723811269666,
+    "instance_score": 0.34704792322428707
+  },
+  "promotional material": {
+    "concept_score": 0.3551981673260926,
+    "instance_score": 0.350421152633489
+  },
+  "printed material": {
+    "concept_score": 0.3570788995257151,
+    "instance_score": 0.34501204177903766
+  },
+  "print material": {
+    "concept_score": 0.3558986906108296,
+    "instance_score": 0.3449204902919537
+  },
+  "advertising material": {
+    "concept_score": 0.3578585326123605,
+    "instance_score": 0.34475206812926446
+  },
+  "donation": {
+    "concept_score": 0.3402358592124434,
+    "instance_score": 0.3434007192800025
+  },
+  "goods": {
+    "concept_score": 0.33827012768966874,
+    "instance_score": 0.34128740645909256
+  },
+  "good": {
+    "concept_score": 0.33883136337442504,
+    "instance_score": 0.3389499041575734
+  },
+  "merchandise": {
+    "concept_score": 0.3390890630530346,
+    "instance_score": 0.343673593762747
+  },
+  "site characteristic": {
+    "concept_score": 0.3562255658009964,
+    "instance_score": 0.3429919682382311
+  },
+  "site condition": {
+    "concept_score": 0.3545869369789022,
+    "instance_score": 0.3456903588565362
+  },
+  "site factor": {
+    "concept_score": 0.35752033747495576,
+    "instance_score": 0.34180166486457914
+  },
+  "landscape characteristic": {
+    "concept_score": 0.35782521584699134,
+    "instance_score": 0.34515749438331167
+  },
+  "restoration": {
+    "concept_score": 0.33709789363869125,
+    "instance_score": 0.35367598319560284
+  },
+  "dental restoration": {
+    "concept_score": 0.3571024796246171,
+    "instance_score": 0.35309096883304664
+  },
+  "dentistry": {
+    "concept_score": 0.33835983668698905,
+    "instance_score": 0.3485623134106329
+  },
+  "restorative service": {
+    "concept_score": 0.3611104199962624,
+    "instance_score": 0.3527874948533564
+  },
+  "restorative treatment": {
+    "concept_score": 0.35945673084509044,
+    "instance_score": 0.3512190029917165
+  },
+  "cosmetic dentistry": {
+    "concept_score": 0.35616417491981633,
+    "instance_score": 0.35225503756888893
+  },
+  "dental service": {
+    "concept_score": 0.3583425139608997,
+    "instance_score": 0.3491675291244155
+  },
+  "procedure": {
+    "concept_score": 0.3379750588503831,
+    "instance_score": 0.3575506629761501
+  },
+  "expertise": {
+    "concept_score": 0.3393779577751524,
+    "instance_score": 0.35506785220220466
+  },
+  "fish": {
+    "concept_score": 0.3386328797673619,
+    "instance_score": 0.34346256990018587
+  },
+  "specie": {
+    "concept_score": 0.358952332454544,
+    "instance_score": 0.3409725075613593
+  },
+  "freshwater fish": {
+    "concept_score": 0.35270399037471795,
+    "instance_score": 0.34354984489335677
+  },
+  "panfish": {
+    "concept_score": 0.3573850603648786,
+    "instance_score": 0.3565073052566573
+  },
+  "species": {
+    "concept_score": 0.33665300174979607,
+    "instance_score": 0.33870313087294923
+  },
+  "game bird": {
+    "concept_score": 0.35752316269827744,
+    "instance_score": 0.34838797250048625
+  },
+  "upland bird": {
+    "concept_score": 0.3531039152676518,
+    "instance_score": 0.3519656705299953
+  },
+  "poultry": {
+    "concept_score": 0.34069983729382836,
+    "instance_score": 0.34677457862920674
+  },
+  "fowl": {
+    "concept_score": 0.3575274602169938,
+    "instance_score": 0.34189812574673756
+  },
+  "intellectual": {
+    "concept_score": 0.3415813325615941,
+    "instance_score": 0.3531371901925496
+  },
+  "ambition": {
+    "concept_score": 0.3392414641691387,
+    "instance_score": 0.37546174390768167
+  },
+  "expert": {
+    "concept_score": 0.3401425085380994,
+    "instance_score": 0.3409685310696372
+  },
+  "ambassador": {
+    "concept_score": 0.3387041560249305,
+    "instance_score": 0.35702805259214904
+  },
+  "academic": {
+    "concept_score": 0.3377839940934445,
+    "instance_score": 0.3641123018325602
+  },
+  "printmaking technique": {
+    "concept_score": 0.3560358173420922,
+    "instance_score": 0.353168741321324
+  },
+  "printing process": {
+    "concept_score": 0.3565539479788957,
+    "instance_score": 0.35784646505680334
+  },
+  "process": {
+    "concept_score": 0.33980075238600144,
+    "instance_score": 0.3479955654553167
+  },
+  "technique": {
+    "concept_score": 0.33855771031202037,
+    "instance_score": 0.3560709602432689
+  },
+  "traditional technique": {
+    "concept_score": 0.3581983270936614,
+    "instance_score": 0.3465226133878444
+  },
+  "constituent": {
+    "concept_score": 0.33940010220360856,
+    "instance_score": 0.3423115040045011
+  },
+  "unit": {
+    "concept_score": 0.3401860159699483,
+    "instance_score": 0.3392830243600574
+  },
+  "copyright": {
+    "concept_score": 0.3406465079427664,
+    "instance_score": 0.34572549961872806
+  },
+  "oral tradition": {
+    "concept_score": 0.3583308785858471,
+    "instance_score": 0.3453768161733689
+  },
+  "story": {
+    "concept_score": 0.3392447114101757,
+    "instance_score": 0.3524834863074251
+  },
+  "narrative": {
+    "concept_score": 0.3406469780392061,
+    "instance_score": 0.35682696354643856
+  },
+  "symbol": {
+    "concept_score": 0.3417030518353412,
+    "instance_score": 0.3406643041390465
+  },
+  "touch": {
+    "concept_score": 0.3401429752101771,
+    "instance_score": 0.3441045436702713
+  },
+  "comfort": {
+    "concept_score": 0.3407099058328125,
+    "instance_score": 0.3531577272251472
+  },
+  "footwear": {
+    "concept_score": 0.35689764912028143,
+    "instance_score": 0.35297743822660294
+  },
+  "film genre": {
+    "concept_score": 0.3565547992699045,
+    "instance_score": 0.34463376175619875
+  },
+  "subgenre": {
+    "concept_score": 0.3564880759375882,
+    "instance_score": 0.35946206233764094
+  },
+  "theme": {
+    "concept_score": 0.3369065152517499,
+    "instance_score": 0.33962905260016374
+  },
+  "sub-genres": {
+    "concept_score": 0.3580773198091827,
+    "instance_score": 0.353526311369499
+  },
+  "bylaw": {
+    "concept_score": 0.35722905277340117,
+    "instance_score": 0.35543131903114616
+  },
+  "stability": {
+    "concept_score": 0.33892904482084685,
+    "instance_score": 0.3586183761749244
+  },
+  "guide": {
+    "concept_score": 0.33617332464120797,
+    "instance_score": 0.3570921186800148
+  },
+  "guideline": {
+    "concept_score": 0.3553903842815596,
+    "instance_score": 0.3524726906468087
+  },
+  "movement": {
+    "concept_score": 0.3400905410620962,
+    "instance_score": 0.35077960230191607
+  },
+  "isms": {
+    "concept_score": 0.3591141243249118,
+    "instance_score": 0.3537198853012944
+  },
+  "ideology": {
+    "concept_score": 0.34114126413360946,
+    "instance_score": 0.34111028335287236
+  },
+  "doctrine": {
+    "concept_score": 0.3396340296361726,
+    "instance_score": 0.3532507596448552
+  },
+  "measurement": {
+    "concept_score": 0.34032262198131624,
+    "instance_score": 0.34025297512029623
+  },
+  "standard unit": {
+    "concept_score": 0.35943994780254285,
+    "instance_score": 0.34458363781804724
+  },
+  "measurement unit": {
+    "concept_score": 0.35903234267112566,
+    "instance_score": 0.3448773870617753
+  },
+  "quantity": {
+    "concept_score": 0.34037560775262,
+    "instance_score": 0.33861781502903565
+  },
+  "team": {
+    "concept_score": 0.3383699998541644,
+    "instance_score": 0.34080304863399113
+  },
+  "contender": {
+    "concept_score": 0.3390114171586314,
+    "instance_score": 0.35827495972824464
+  },
+  "franchise": {
+    "concept_score": 0.3402558860770884,
+    "instance_score": 0.35344131078399743
+  },
+  "club": {
+    "concept_score": 0.3404211368928091,
+    "instance_score": 0.34637240009464243
+  },
+  "direction": {
+    "concept_score": 0.3387442001400747,
+    "instance_score": 0.33886629006295477
+  },
+  "prefix": {
+    "concept_score": 0.34164246952087945,
+    "instance_score": 0.34092453439566406
+  },
+  "region": {
+    "concept_score": 0.3383909675864388,
+    "instance_score": 0.34585125637870834
+  },
+  "qualifier": {
+    "concept_score": 0.3339297731737015,
+    "instance_score": 0.35078185301828724
+  },
+  "lowland": {
+    "concept_score": 0.3388870137173724,
+    "instance_score": 0.3638966707165043
+  },
+  "garment": {
+    "concept_score": 0.3416950331805932,
+    "instance_score": 0.34705462335110787
+  },
+  "outerwear": {
+    "concept_score": 0.3565263450235525,
+    "instance_score": 0.3450486313198349
+  },
+  "weaponry": {
+    "concept_score": 0.3402113301479543,
+    "instance_score": 0.3472328283743727
+  },
+  "implement": {
+    "concept_score": 0.3367210460528266,
+    "instance_score": 0.34462332151748
+  },
+  "prop": {
+    "concept_score": 0.33600402488314357,
+    "instance_score": 0.33918613736549486
+  },
+  "traditional weapon": {
+    "concept_score": 0.35778883975783765,
+    "instance_score": 0.3394572980739833
+  },
+  "form": {
+    "concept_score": 0.33913221855433573,
+    "instance_score": 0.3397797489053297
+  },
+  "classical form": {
+    "concept_score": 0.3575955844369702,
+    "instance_score": 0.35804744681453105
+  },
+  "composition": {
+    "concept_score": 0.3379929997300734,
+    "instance_score": 0.35173696581562247
+  },
+  "island": {
+    "concept_score": 0.33747778778542104,
+    "instance_score": 0.3392981039361903
+  },
+  "tropical island": {
+    "concept_score": 0.3575865353122151,
+    "instance_score": 0.3437913439624564
+  },
+  "territory": {
+    "concept_score": 0.3377475284524928,
+    "instance_score": 0.3414985915002878
+  },
+  "island nation": {
+    "concept_score": 0.35726952818318597,
+    "instance_score": 0.3464951105625504
+  },
+  "exotic destination": {
+    "concept_score": 0.35745292076760804,
+    "instance_score": 0.3391476233543042
+  },
+  "sacrament": {
+    "concept_score": 0.3382712288834717,
+    "instance_score": 0.3467015594452225
+  },
+  "rite": {
+    "concept_score": 0.33534606731620514,
+    "instance_score": 0.350320307084346
+  },
+  "ritual": {
+    "concept_score": 0.3408700941159839,
+    "instance_score": 0.3463492364466857
+  },
+  "ordinance": {
+    "concept_score": 0.3409721335296873,
+    "instance_score": 0.3475016960279805
+  },
+  "vertebrate": {
+    "concept_score": 0.3562782479573736,
+    "instance_score": 0.3464150390471857
+  },
+  "organism": {
+    "concept_score": 0.3405018000601084,
+    "instance_score": 0.34151747318025544
+  },
+  "prey": {
+    "concept_score": 0.3394801656174007,
+    "instance_score": 0.34072468652384097
+  },
+  "taxa": {
+    "concept_score": 0.33636726461361466,
+    "instance_score": 0.3478993525966166
+  },
+  "earthwork": {
+    "concept_score": 0.3578104960977326,
+    "instance_score": 0.3421071014756255
+  },
+  "infrastructure": {
+    "concept_score": 0.33955997547470806,
+    "instance_score": 0.3406061907002805
+  },
+  "staple": {
+    "concept_score": 0.3388133039166689,
+    "instance_score": 0.33919255105028273
+  },
+  "grocery": {
+    "concept_score": 0.3395957656798563,
+    "instance_score": 0.33896686360922923
+  },
+  "commodity": {
+    "concept_score": 0.34171678832216196,
+    "instance_score": 0.33850475083400494
+  },
+  "dwelling": {
+    "concept_score": 0.3369603920163,
+    "instance_score": 0.34657474428562274
+  },
+  "accommodation choice": {
+    "concept_score": 0.3573947827333228,
+    "instance_score": 0.35610809438638374
+  },
+  "lodging": {
+    "concept_score": 0.33849581179181304,
+    "instance_score": 0.34427015403151634
+  },
+  "accommodation": {
+    "concept_score": 0.33658194710272926,
+    "instance_score": 0.3532570186078202
+  },
+  "accommodation option": {
+    "concept_score": 0.35420900687755896,
+    "instance_score": 0.3483311007334301
+  },
+  "aggregation": {
+    "concept_score": 0.3401745762670313,
+    "instance_score": 0.345463813197662
+  },
+  "calculation": {
+    "concept_score": 0.3392235495331591,
+    "instance_score": 0.3442143250188875
+  },
+  "total": {
+    "concept_score": 0.33865897456222815,
+    "instance_score": 0.3518360228929033
+  },
+  "aggregate": {
+    "concept_score": 0.33379487627503107,
+    "instance_score": 0.34664242938507706
+  },
+  "aggregate function": {
+    "concept_score": 0.3570854184167499,
+    "instance_score": 0.3433608857894064
+  },
+  "object": {
+    "concept_score": 0.3413081988111575,
+    "instance_score": 0.3393811190762315
+  },
+  "celestial object": {
+    "concept_score": 0.35855609014923107,
+    "instance_score": 0.34301043468604153
+  },
+  "bright object": {
+    "concept_score": 0.3599106342184573,
+    "instance_score": 0.3434481631992977
+  },
+  "noun": {
+    "concept_score": 0.33872740938493306,
+    "instance_score": 0.3496575017104716
+  },
+  "asset": {
+    "concept_score": 0.3414643217395431,
+    "instance_score": 0.3423396090530725
+  },
+  "concept": {
+    "concept_score": 0.34013625543739706,
+    "instance_score": 0.33917391573648237
+  },
+  "indian language": {
+    "concept_score": 0.3575514208231142,
+    "instance_score": 0.34255236355101654
+  },
+  "script": {
+    "concept_score": 0.34036287247083247,
+    "instance_score": 0.34862014702083677
+  },
+  "origin": {
+    "concept_score": 0.33911450484584177,
+    "instance_score": 0.35539824390344266
+  },
+  "asian language": {
+    "concept_score": 0.35485193971439755,
+    "instance_score": 0.34490761076638715
+  },
+  "sense": {
+    "concept_score": 0.34052730089713656,
+    "instance_score": 0.3425212514611676
+  },
+  "sensation": {
+    "concept_score": 0.3397331750722265,
+    "instance_score": 0.3408587453091757
+  },
+  "sensory attribute": {
+    "concept_score": 0.35800291769219755,
+    "instance_score": 0.3433126364639146
+  },
+  "secondary quality": {
+    "concept_score": 0.35733992364055994,
+    "instance_score": 0.34082362855762277
+  },
+  "stimulus": {
+    "concept_score": 0.33878214024652464,
+    "instance_score": 0.3469330698921622
+  },
+  "caffeine": {
+    "concept_score": 0.3572987279929206,
+    "instance_score": 0.34546588544293544
+  },
+  "stimulant": {
+    "concept_score": 0.3578514827330377,
+    "instance_score": 0.35324409390356043
+  },
+  "beverage": {
+    "concept_score": 0.3381468496393581,
+    "instance_score": 0.34257058319105754
+  },
+  "drink": {
+    "concept_score": 0.34073520128087564,
+    "instance_score": 0.34239873987749725
+  },
+  "refreshment": {
+    "concept_score": 0.3565641641155643,
+    "instance_score": 0.3424240118925686
+  },
+  "audience": {
+    "concept_score": 0.3381897884987969,
+    "instance_score": 0.34373043975996576
+  },
+  "age group": {
+    "concept_score": 0.3545481879353671,
+    "instance_score": 0.344838748549551
+  },
+  "powerhouse": {
+    "concept_score": 0.3408778880659897,
+    "instance_score": 0.3445678437468821
+  },
+  "natural stone": {
+    "concept_score": 0.3581603441042782,
+    "instance_score": 0.3465382673092834
+  },
+  "stones": {
+    "concept_score": 0.3380641879999519,
+    "instance_score": 0.3452619156713277
+  },
+  "natural stones": {
+    "concept_score": 0.3577802446348068,
+    "instance_score": 0.3431911715987616
+  },
+  "creature": {
+    "concept_score": 0.34015027904030065,
+    "instance_score": 0.3395901197170598
+  },
+  "cetacean": {
+    "concept_score": 0.35855964838703824,
+    "instance_score": 0.3511135748885058
+  },
+  "pelagic": {
+    "concept_score": 0.3606778697969231,
+    "instance_score": 0.34958619500430804
+  },
+  "megafauna": {
+    "concept_score": 0.35994191139427634,
+    "instance_score": 0.35092345171927425
+  },
+  "livestock": {
+    "concept_score": 0.3391562618058236,
+    "instance_score": 0.33936255817772804
+  },
+  "herbivore": {
+    "concept_score": 0.35303636955345186,
+    "instance_score": 0.3388390801789426
+  },
+  "hoofed animal": {
+    "concept_score": 0.3611324308209181,
+    "instance_score": 0.34091729647773317
+  },
+  "farm animal": {
+    "concept_score": 0.3576045751156776,
+    "instance_score": 0.3411524665948196
+  },
+  "storage": {
+    "concept_score": 0.3391005761901467,
+    "instance_score": 0.34962924724206
+  },
+  "storage space": {
+    "concept_score": 0.35734757804225564,
+    "instance_score": 0.3430066542157308
+  },
+  "fixture": {
+    "concept_score": 0.3356016998169932,
+    "instance_score": 0.34611033672423763
+  },
+  "common area": {
+    "concept_score": 0.35616148849613355,
+    "instance_score": 0.34225541787091796
+  },
+  "high-traffic area": {
+    "concept_score": 0.3608903986737153,
+    "instance_score": 0.34394365285454465
+  },
+  "public area": {
+    "concept_score": 0.35668745570558064,
+    "instance_score": 0.33880624898983347
+  },
+  "transitional space": {
+    "concept_score": 0.3594518328609099,
+    "instance_score": 0.3479013748603874
+  },
+  "european language": {
+    "concept_score": 0.3576688215385956,
+    "instance_score": 0.3402580750186899
+  },
+  "european culture": {
+    "concept_score": 0.3582054998242494,
+    "instance_score": 0.34022264034245786
+  },
+  "indo-european language": {
+    "concept_score": 0.3576314940924223,
+    "instance_score": 0.34221873932591196
+  },
+  "language course": {
+    "concept_score": 0.3573406801452261,
+    "instance_score": 0.34888325051148916
+  },
+  "tropicals": {
+    "concept_score": 0.3560541405235519,
+    "instance_score": 0.3530019987567897
+  },
+  "ornamental": {
+    "concept_score": 0.33936362944226667,
+    "instance_score": 0.35391118358331536
+  },
+  "camera": {
+    "concept_score": 0.33857092456527776,
+    "instance_score": 0.35577698742306973
+  },
+  "manufacturer": {
+    "concept_score": 0.33845668694858605,
+    "instance_score": 0.34215608728916336
+  },
+  "brand": {
+    "concept_score": 0.3399486701259946,
+    "instance_score": 0.3439119588067404
+  },
+  "camera manufacturer": {
+    "concept_score": 0.3567769967963773,
+    "instance_score": 0.3514306591209547
+  },
+  "elective": {
+    "concept_score": 0.35870220735050656,
+    "instance_score": 0.34069747628048397
+  },
+  "extracurricular activity": {
+    "concept_score": 0.3590550297782173,
+    "instance_score": 0.34121967683629834
+  },
+  "ensemble": {
+    "concept_score": 0.33956371215067116,
+    "instance_score": 0.3535949070506501
+  },
+  "extracurriculars": {
+    "concept_score": 0.3592321945427712,
+    "instance_score": 0.34842254585384463
+  },
+  "performing group": {
+    "concept_score": 0.3594305051742312,
+    "instance_score": 0.3483525092626179
+  },
+  "geometry": {
+    "concept_score": 0.3380085364805643,
+    "instance_score": 0.33968002693101373
+  },
+  "primitive": {
+    "concept_score": 0.3422750817169937,
+    "instance_score": 0.3423559517070648
+  },
+  "3d shape": {
+    "concept_score": 0.360059351194255,
+    "instance_score": 0.3425190243743557
+  },
+  "solid": {
+    "concept_score": 0.33953676173777164,
+    "instance_score": 0.34325380502166924
+  },
+  "symptom": {
+    "concept_score": 0.353492058010648,
+    "instance_score": 0.34462157806065224
+  },
+  "reaction": {
+    "concept_score": 0.3382614776923851,
+    "instance_score": 0.34444370071858177
+  },
+  "withdrawal symptom": {
+    "concept_score": 0.357319397114142,
+    "instance_score": 0.3467015039153239
+  },
+  "side effect": {
+    "concept_score": 0.35713195416874727,
+    "instance_score": 0.3504216583292372
+  },
+  "military unit": {
+    "concept_score": 0.35854508480609876,
+    "instance_score": 0.34583622045086315
+  },
+  "headquarters": {
+    "concept_score": 0.3395811603754249,
+    "instance_score": 0.35118420933370353
+  },
+  "formation": {
+    "concept_score": 0.33932548129441026,
+    "instance_score": 0.3613148168321268
+  },
+  "kingdom": {
+    "concept_score": 0.33594076739695095,
+    "instance_score": 0.35571990700392975
+  },
+  "microbe": {
+    "concept_score": 0.35641628483521137,
+    "instance_score": 0.3569135116584611
+  },
+  "decomposer": {
+    "concept_score": 0.3615587356290255,
+    "instance_score": 0.34661881208173
+  },
+  "microorganism": {
+    "concept_score": 0.35977575538403533,
+    "instance_score": 0.3578034281445196
+  },
+  "industry": {
+    "concept_score": 0.33767231499215516,
+    "instance_score": 0.33864177585805244
+  },
+  "export": {
+    "concept_score": 0.33829530065037383,
+    "instance_score": 0.3407407262846561
+  },
+  "sector": {
+    "concept_score": 0.3380919572044661,
+    "instance_score": 0.3394551603342083
+  },
+  "garden structure": {
+    "concept_score": 0.3561624374933714,
+    "instance_score": 0.34962986052288675
+  },
+  "outdoor structure": {
+    "concept_score": 0.3594093207822384,
+    "instance_score": 0.34493749829368003
+  },
+  "wood structure": {
+    "concept_score": 0.35328517600738507,
+    "instance_score": 0.3475242607342986
+  },
+  "component": {
+    "concept_score": 0.3399071727115946,
+    "instance_score": 0.3439512123827149
+  },
+  "machine element": {
+    "concept_score": 0.3584171346085965,
+    "instance_score": 0.35112686092284356
+  },
+  "drive component": {
+    "concept_score": 0.3578756671921583,
+    "instance_score": 0.3428733751045438
+  },
+  "conservatory": {
+    "concept_score": 0.3384141601197812,
+    "instance_score": 0.3538197824028651
+  },
+  "architectural style": {
+    "concept_score": 0.3550203647368092,
+    "instance_score": 0.3447620270881342
+  },
+  "home style": {
+    "concept_score": 0.35132062015185883,
+    "instance_score": 0.3449080950125065
+  },
+  "slider": {
+    "concept_score": 0.3593305989174141,
+    "instance_score": 0.34966478425101216
+  },
+  "setting": {
+    "concept_score": 0.3397528473240764,
+    "instance_score": 0.3465103498061347
+  },
+  "correction": {
+    "concept_score": 0.33866233130859713,
+    "instance_score": 0.3568265113747491
+  },
+  "adjustment": {
+    "concept_score": 0.3385463337352865,
+    "instance_score": 0.35221631568226697
+  },
+  "image setting": {
+    "concept_score": 0.35768142712263007,
+    "instance_score": 0.3411067393385088
+  },
+  "injury": {
+    "concept_score": 0.3387227352246809,
+    "instance_score": 0.3488450540544058
+  },
+  "skin": {
+    "concept_score": 0.3380064556623173,
+    "instance_score": 0.3444745924016437
+  },
+  "command": {
+    "concept_score": 0.33799503491067007,
+    "instance_score": 0.3435434192065233
+  },
+  "accident": {
+    "concept_score": 0.3402430560618689,
+    "instance_score": 0.34782803211079444
+  },
+  "minor injury": {
+    "concept_score": 0.3569424887488249,
+    "instance_score": 0.34707145503506487
+  },
+  "city": {
+    "concept_score": 0.3380080275789298,
+    "instance_score": 0.34472135665143727
+  },
+  "destination": {
+    "concept_score": 0.33852854310707114,
+    "instance_score": 0.33909728262687155
+  },
+  "large city": {
+    "concept_score": 0.3579749668031698,
+    "instance_score": 0.3449287691661702
+  },
+  "town": {
+    "concept_score": 0.3377355427789361,
+    "instance_score": 0.3486314887226155
+  },
+  "poetic form": {
+    "concept_score": 0.35851873885887287,
+    "instance_score": 0.350898607523353
+  },
+  "type of poetry": {
+    "concept_score": 0.3603999774385394,
+    "instance_score": 0.35270169774332916
+  },
+  "form of poetry": {
+    "concept_score": 0.3570309935991911,
+    "instance_score": 0.3512221436589011
+  },
+  "traditional form": {
+    "concept_score": 0.359056001151986,
+    "instance_score": 0.34805095780925915
+  },
+  "poem": {
+    "concept_score": 0.3391726634292456,
+    "instance_score": 0.35789317745923943
+  },
+  "ectotherm": {
+    "concept_score": 0.36023715750472063,
+    "instance_score": 0.34831269673830023
+  },
+  "pet": {
+    "concept_score": 0.3410405824169244,
+    "instance_score": 0.34862650777313337
+  },
+  "moisture": {
+    "concept_score": 0.33927189293290444,
+    "instance_score": 0.34420552709223495
+  },
+  "inclement weather": {
+    "concept_score": 0.3616373033257487,
+    "instance_score": 0.3488075319435861
+  },
+  "adverse weather": {
+    "concept_score": 0.35808569449896166,
+    "instance_score": 0.34557181834634687
+  },
+  "small ensemble": {
+    "concept_score": 0.35799785942208207,
+    "instance_score": 0.35562272488807933
+  },
+  "capacity": {
+    "concept_score": 0.3367143772416144,
+    "instance_score": 0.3527711879966426
+  },
+  "combination": {
+    "concept_score": 0.3382181647374728,
+    "instance_score": 0.3532032562625358
+  },
+  "raptor": {
+    "concept_score": 0.35707113968597964,
+    "instance_score": 0.3505739487184025
+  },
+  "predator": {
+    "concept_score": 0.3398757406666608,
+    "instance_score": 0.34255187409263776
+  },
+  "predatory bird": {
+    "concept_score": 0.35269454707243403,
+    "instance_score": 0.34384653761881023
+  },
+  "carnivore": {
+    "concept_score": 0.3591339797229776,
+    "instance_score": 0.3423946686850283
+  },
+  "holiday": {
+    "concept_score": 0.3402877494354845,
+    "instance_score": 0.35293315008294573
+  },
+  "feast": {
+    "concept_score": 0.3400072836592954,
+    "instance_score": 0.35577436312020466
+  },
+  "occasion": {
+    "concept_score": 0.33785386973777504,
+    "instance_score": 0.34124480749255204
+  },
+  "season": {
+    "concept_score": 0.33749588990724894,
+    "instance_score": 0.34107157858568204
+  },
+  "vacation": {
+    "concept_score": 0.3401605710551564,
+    "instance_score": 0.3466802434265567
+  },
+  "issue": {
+    "concept_score": 0.33951365989146054,
+    "instance_score": 0.34329730279049214
+  },
+  "department": {
+    "concept_score": 0.3384028984161241,
+    "instance_score": 0.3411692836496075
+  },
+  "topic": {
+    "concept_score": 0.3416221798981246,
+    "instance_score": 0.3436725572824851
+  },
+  "transportation vehicle": {
+    "concept_score": 0.35702213098708235,
+    "instance_score": 0.33926458076842003
+  },
+  "vehicle": {
+    "concept_score": 0.33983159268179264,
+    "instance_score": 0.34126587757553245
+  },
+  "mobile source": {
+    "concept_score": 0.35985523625463756,
+    "instance_score": 0.34330789334422007
+  },
+  "conveyance": {
+    "concept_score": 0.35817330295505934,
+    "instance_score": 0.34659873058188573
+  },
+  "centre": {
+    "concept_score": 0.33794110055160176,
+    "instance_score": 0.3396133522926083
+  },
+  "port": {
+    "concept_score": 0.3395379181906236,
+    "instance_score": 0.34371270306714974
+  },
+  "accessory": {
+    "concept_score": 0.3397489031430466,
+    "instance_score": 0.34130528502630464
+  },
+  "bit": {
+    "concept_score": 0.3402564353205076,
+    "instance_score": 0.3527443469063353
+  },
+  "add-ons": {
+    "concept_score": 0.36154154164810015,
+    "instance_score": 0.35045195537357765
+  },
+  "conifer": {
+    "concept_score": 0.352751866386893,
+    "instance_score": 0.3464659219271829
+  },
+  "softwood": {
+    "concept_score": 0.3579674870762678,
+    "instance_score": 0.35044394546948077
+  },
+  "evergreen": {
+    "concept_score": 0.3394479812092154,
+    "instance_score": 0.34995350038886824
+  },
+  "evergreen tree": {
+    "concept_score": 0.3530084735512038,
+    "instance_score": 0.3447298999632436
+  },
+  "coniferous tree": {
+    "concept_score": 0.3526071918440739,
+    "instance_score": 0.34868630405206563
+  },
+  "spring-flowering shrub": {
+    "concept_score": 0.3552792151622423,
+    "instance_score": 0.3576395449340825
+  },
+  "deciduous shrub": {
+    "concept_score": 0.3518142109583,
+    "instance_score": 0.35554739018606907
+  },
+  "flowering shrub": {
+    "concept_score": 0.3548651223924523,
+    "instance_score": 0.3565727463832423
+  },
+  "spring flowering shrub": {
+    "concept_score": 0.3540278172842074,
+    "instance_score": 0.35767543119621015
+  },
+  "geometric figure": {
+    "concept_score": 0.3573134656458863,
+    "instance_score": 0.3462791506663952
+  },
+  "simple shape": {
+    "concept_score": 0.3569562558109887,
+    "instance_score": 0.34288058886600076
+  },
+  "geometrical figure": {
+    "concept_score": 0.3583939026270737,
+    "instance_score": 0.34796132319123
+  },
+  "anatomical area": {
+    "concept_score": 0.3558511044234749,
+    "instance_score": 0.3519896680244678
+  },
+  "bony area": {
+    "concept_score": 0.35654712332636146,
+    "instance_score": 0.3473520386146624
+  },
+  "retailer": {
+    "concept_score": 0.33803389590181926,
+    "instance_score": 0.35330307933064053
+  },
+  "shop": {
+    "concept_score": 0.3373486764984552,
+    "instance_score": 0.3565531939228568
+  },
+  "store": {
+    "concept_score": 0.33793332811977905,
+    "instance_score": 0.3551980701993714
+  },
+  "trader": {
+    "concept_score": 0.33873702155929425,
+    "instance_score": 0.35636595192306714
+  },
+  "company": {
+    "concept_score": 0.33643229288757764,
+    "instance_score": 0.3425202860581238
+  },
+  "acessories": {
+    "concept_score": 0.35854393913732036,
+    "instance_score": 0.34456694562697027
+  },
+  "oily fish": {
+    "concept_score": 0.35579394549217386,
+    "instance_score": 0.34906299023294113
+  },
+  "fatty fish": {
+    "concept_score": 0.3584510475908329,
+    "instance_score": 0.34886951017555334
+  },
+  "seafood": {
+    "concept_score": 0.3394010832320888,
+    "instance_score": 0.3444934427749752
+  },
+  "finfish": {
+    "concept_score": 0.3554911585423877,
+    "instance_score": 0.34913359897516283
+  },
+  "sediment": {
+    "concept_score": 0.340426642710227,
+    "instance_score": 0.3450009002311116
+  },
+  "particle": {
+    "concept_score": 0.3406493990865781,
+    "instance_score": 0.34152136701401237
+  },
+  "open habitat": {
+    "concept_score": 0.34937502144911065,
+    "instance_score": 0.33982531466320876
+  },
+  "shellfish": {
+    "concept_score": 0.3572759896923903,
+    "instance_score": 0.3483721943516259
+  },
+  "entree": {
+    "concept_score": 0.35066130632766984,
+    "instance_score": 0.3450482292224021
+  },
+  "mollusc": {
+    "concept_score": 0.34878108076113035,
+    "instance_score": 0.34837395126185905
+  },
+  "shift": {
+    "concept_score": 0.3399207310524603,
+    "instance_score": 0.34704960260231305
+  },
+  "peak hour": {
+    "concept_score": 0.35573964692346505,
+    "instance_score": 0.3460265869176623
+  },
+  "timeframe": {
+    "concept_score": 0.3580222560128865,
+    "instance_score": 0.35629797926574247
+  },
+  "habit": {
+    "concept_score": 0.34107854558211964,
+    "instance_score": 0.3503903876324631
+  },
+  "lifestyle": {
+    "concept_score": 0.3399475532758552,
+    "instance_score": 0.34951422004331834
+  },
+  "lifestyle factor": {
+    "concept_score": 0.3592083588023117,
+    "instance_score": 0.3473245722685542
+  },
+  "behavior": {
+    "concept_score": 0.3374547995386539,
+    "instance_score": 0.3419940708090528
+  },
+  "behaviour": {
+    "concept_score": 0.3384146151771436,
+    "instance_score": 0.348493292581575
+  },
+  "embayment": {
+    "concept_score": 0.3600841966902737,
+    "instance_score": 0.34794824994853074
+  },
+  "sheltered area": {
+    "concept_score": 0.35353118300353203,
+    "instance_score": 0.347029850706823
+  },
+  "native": {
+    "concept_score": 0.3407975617727668,
+    "instance_score": 0.35817159966848655
+  },
+  "hair color": {
+    "concept_score": 0.35698370901066523,
+    "instance_score": 0.33886483552588004
+  },
+  "shade": {
+    "concept_score": 0.34155871482718225,
+    "instance_score": 0.33821012647727694
+  },
+  "hair": {
+    "concept_score": 0.3394715693091514,
+    "instance_score": 0.34796090998991386
+  },
+  "colour": {
+    "concept_score": 0.3406140085379264,
+    "instance_score": 0.3380322066709434
+  },
+  "natural color": {
+    "concept_score": 0.35864841779902773,
+    "instance_score": 0.3382586016766171
+  },
+  "rental": {
+    "concept_score": 0.34029254307186324,
+    "instance_score": 0.3426467579296454
+  },
+  "medium": {
+    "concept_score": 0.33698470622935023,
+    "instance_score": 0.34144863057303215
+  },
+  "mass medium": {
+    "concept_score": 0.35736211763815473,
+    "instance_score": 0.3398540577666451
+  },
+  "traditional medium": {
+    "concept_score": 0.3578974832462866,
+    "instance_score": 0.3410194499523901
+  },
+  "distraction": {
+    "concept_score": 0.34070811785417815,
+    "instance_score": 0.3434921497703171
+  },
+  "advertising": {
+    "concept_score": 0.3411117257331634,
+    "instance_score": 0.34545065435351235
+  },
+  "epiphyte": {
+    "concept_score": 0.3589426023856011,
+    "instance_score": 0.3520670744930342
+  },
+  "bryophyte": {
+    "concept_score": 0.3577290823645913,
+    "instance_score": 0.363755112896587
+  },
+  "public event": {
+    "concept_score": 0.3596662694057253,
+    "instance_score": 0.34463763436149636
+  },
+  "local event": {
+    "concept_score": 0.3571710004041353,
+    "instance_score": 0.3486940592882573
+  },
+  "community event": {
+    "concept_score": 0.35804814307172683,
+    "instance_score": 0.3437003531292094
+  },
+  "festivity": {
+    "concept_score": 0.35819277545254063,
+    "instance_score": 0.35841120406503907
+  },
+  "instrument": {
+    "concept_score": 0.33919592687922356,
+    "instance_score": 0.3380337437273295
+  },
+  "folk instrument": {
+    "concept_score": 0.3580964076798355,
+    "instance_score": 0.35013350876715804
+  },
+  "acoustic instrument": {
+    "concept_score": 0.35796883337182267,
+    "instance_score": 0.3401293763557766
+  },
+  "traditional instrument": {
+    "concept_score": 0.3580202950107781,
+    "instance_score": 0.3421247709341417
+  },
+  "architectural feature": {
+    "concept_score": 0.35792151817056045,
+    "instance_score": 0.3443177110723494
+  },
+  "projection": {
+    "concept_score": 0.3394847646221743,
+    "instance_score": 0.3442517541881477
+  },
+  "appurtenance": {
+    "concept_score": 0.36047187563964195,
+    "instance_score": 0.35041722107715156
+  },
+  "dwelling unit": {
+    "concept_score": 0.35247377225024945,
+    "instance_score": 0.3532345029135266
+  },
+  "housing": {
+    "concept_score": 0.3385616321361082,
+    "instance_score": 0.3486608472539869
+  },
+  "housing type": {
+    "concept_score": 0.3587968631613768,
+    "instance_score": 0.35375477531478394
+  },
+  "foreigner": {
+    "concept_score": 0.34170140507167074,
+    "instance_score": 0.35424664829856656
+  },
+  "immigrant": {
+    "concept_score": 0.3370902839170717,
+    "instance_score": 0.35418896105384845
+  },
+  "waterbird": {
+    "concept_score": 0.35376220381106915,
+    "instance_score": 0.3487392968758384
+  },
+  "water bird": {
+    "concept_score": 0.3540785121173282,
+    "instance_score": 0.350144409783742
+  },
+  "aquatic bird": {
+    "concept_score": 0.3529511481233026,
+    "instance_score": 0.3486707845731377
+  },
+  "waterfowl": {
+    "concept_score": 0.35213548346382184,
+    "instance_score": 0.34874979753713675
+  },
+  "amenity": {
+    "concept_score": 0.3591600412564206,
+    "instance_score": 0.34604176562140265
+  },
+  "large space": {
+    "concept_score": 0.35872317791771174,
+    "instance_score": 0.3407331358237612
+  },
+  "herb": {
+    "concept_score": 0.3374623604565172,
+    "instance_score": 0.34659229770760486
+  },
+  "fresh herb": {
+    "concept_score": 0.35650310839121196,
+    "instance_score": 0.35193037803784427
+  },
+  "aromatic herb": {
+    "concept_score": 0.3541652554878183,
+    "instance_score": 0.3485856895229348
+  },
+  "mediterranean herb": {
+    "concept_score": 0.3515449211878463,
+    "instance_score": 0.3497261310299381
+  },
+  "perennial herb": {
+    "concept_score": 0.3525049372157636,
+    "instance_score": 0.3505439301050833
+  },
+  "arab country": {
+    "concept_score": 0.34586045900862583,
+    "instance_score": 0.3406035808108488
+  },
+  "arab state": {
+    "concept_score": 0.3541231207415622,
+    "instance_score": 0.3431625816728161
+  },
+  "muslim country": {
+    "concept_score": 0.35634731477282205,
+    "instance_score": 0.3409367457349765
+  },
+  "arab nation": {
+    "concept_score": 0.35085742627280864,
+    "instance_score": 0.3407844465436868
+  },
+  "institution": {
+    "concept_score": 0.3363349945768804,
+    "instance_score": 0.34023870726719396
+  },
+  "toiletry": {
+    "concept_score": 0.355640476030844,
+    "instance_score": 0.35425563538452975
+  },
+  "personal item": {
+    "concept_score": 0.35197167043189664,
+    "instance_score": 0.3435269806379904
+  },
+  "toilet article": {
+    "concept_score": 0.3577400725813311,
+    "instance_score": 0.3518474186334693
+  },
+  "personal toiletry": {
+    "concept_score": 0.3588153184914505,
+    "instance_score": 0.354300388456927
+  },
+  "sharing item": {
+    "concept_score": 0.3589504833411782,
+    "instance_score": 0.3449080671124085
+  },
+  "entertainer": {
+    "concept_score": 0.33808355619497515,
+    "instance_score": 0.34671211913327604
+  },
+  "entertainment": {
+    "concept_score": 0.33719668540272774,
+    "instance_score": 0.34799353159713986
+  },
+  "performer": {
+    "concept_score": 0.3360615611817142,
+    "instance_score": 0.35314595924749553
+  },
+  "act": {
+    "concept_score": 0.33993645556290053,
+    "instance_score": 0.35158692845381817
+  },
+  "performance": {
+    "concept_score": 0.3375260558503945,
+    "instance_score": 0.34270802852628257
+  },
+  "interior area": {
+    "concept_score": 0.35528674627339507,
+    "instance_score": 0.3431556791596847
+  },
+  "renovation": {
+    "concept_score": 0.33969032390850856,
+    "instance_score": 0.3447477363968052
+  },
+  "indoor space": {
+    "concept_score": 0.35872650232178144,
+    "instance_score": 0.34666310657633903
+  },
+  "monster": {
+    "concept_score": 0.3409910523849779,
+    "instance_score": 0.3456444393522009
+  },
+  "mythological creature": {
+    "concept_score": 0.35927121204053253,
+    "instance_score": 0.3475743937105291
+  },
+  "caster": {
+    "concept_score": 0.35717684652627973,
+    "instance_score": 0.35575713058822545
+  },
+  "discomfort": {
+    "concept_score": 0.33949188328737573,
+    "instance_score": 0.3504049326112455
+  },
+  "side-effects": {
+    "concept_score": 0.3563411530550984,
+    "instance_score": 0.3504216583292372
+  },
+  "systemic reaction": {
+    "concept_score": 0.35616686144091986,
+    "instance_score": 0.3561405152710924
+  },
+  "funding": {
+    "concept_score": 0.33759293564604254,
+    "instance_score": 0.35104003398056566
+  },
+  "financial aid": {
+    "concept_score": 0.3568239732500302,
+    "instance_score": 0.35272719952226517
+  },
+  "credit": {
+    "concept_score": 0.337689061935274,
+    "instance_score": 0.35451520016930027
+  },
+  "archive": {
+    "concept_score": 0.33769442002634437,
+    "instance_score": 0.35344681511218884
+  },
+  "peak season": {
+    "concept_score": 0.35821060218540557,
+    "instance_score": 0.348440919773093
+  },
+  "peak period": {
+    "concept_score": 0.35772328221096783,
+    "instance_score": 0.3468676924752966
+  },
+  "disaster": {
+    "concept_score": 0.3401050917330689,
+    "instance_score": 0.34202916502261355
+  },
+  "natural disaster": {
+    "concept_score": 0.3586989595527334,
+    "instance_score": 0.34039472262341863
+  },
+  "catastrophe": {
+    "concept_score": 0.34182602511227334,
+    "instance_score": 0.34377879713368087
+  },
+  "emergency": {
+    "concept_score": 0.3405807025448076,
+    "instance_score": 0.3490967634557233
+  },
+  "large appliance": {
+    "concept_score": 0.3621084172342261,
+    "instance_score": 0.3521800250490289
+  },
+  "household appliance": {
+    "concept_score": 0.36084594884252363,
+    "instance_score": 0.35202932230901757
+  },
+  "home appliance": {
+    "concept_score": 0.3594713809268179,
+    "instance_score": 0.3502020142606394
+  },
+  "white goods": {
+    "concept_score": 0.3573414366575773,
+    "instance_score": 0.3519703674957634
+  },
+  "baby equipment": {
+    "concept_score": 0.35876858389165,
+    "instance_score": 0.3543230707469456
+  },
+  "baby item": {
+    "concept_score": 0.36041807307382573,
+    "instance_score": 0.35057327096423624
+  },
+  "baby accessory": {
+    "concept_score": 0.35820868125562505,
+    "instance_score": 0.35060183354933194
+  },
+  "meal": {
+    "concept_score": 0.3385477699521464,
+    "instance_score": 0.34145004213771524
+  },
+  "togethers": {
+    "concept_score": 0.3541441708860993,
+    "instance_score": 0.34876756680168464
+  },
+  "social": {
+    "concept_score": 0.3411875615956602,
+    "instance_score": 0.3527076601202209
+  },
+  "credential": {
+    "concept_score": 0.36042046863676225,
+    "instance_score": 0.34730433403646815
+  },
+  "qualification": {
+    "concept_score": 0.3317776467959515,
+    "instance_score": 0.34483353921035864
+  },
+  "proof": {
+    "concept_score": 0.33885114497919977,
+    "instance_score": 0.34747623104207614
+  },
+  "belonging": {
+    "concept_score": 0.3408703417166073,
+    "instance_score": 0.34109600057387013
+  },
+  "leather good": {
+    "concept_score": 0.3596920723103014,
+    "instance_score": 0.3410664463777887
+  },
+  "leather product": {
+    "concept_score": 0.3577590744142457,
+    "instance_score": 0.34246892519768907
+  },
+  "ancient monument": {
+    "concept_score": 0.355356033919238,
+    "instance_score": 0.3560594866078368
+  },
+  "ancient site": {
+    "concept_score": 0.35588255848938327,
+    "instance_score": 0.36355528202797016
+  },
+  "bedding": {
+    "concept_score": 0.3580655608722715,
+    "instance_score": 0.3464503950678209
+  },
+  "youth group": {
+    "concept_score": 0.35801056560906347,
+    "instance_score": 0.34790580418870054
+  },
+  "community group": {
+    "concept_score": 0.35815888937357293,
+    "instance_score": 0.3481403291942985
+  },
+  "organisation": {
+    "concept_score": 0.3398140343112975,
+    "instance_score": 0.3515308481249806
+  },
+  "garden tool": {
+    "concept_score": 0.35860415571919024,
+    "instance_score": 0.348622991318078
+  },
+  "hand tool": {
+    "concept_score": 0.3579164654110735,
+    "instance_score": 0.34705248748737827
+  },
+  "gardening tool": {
+    "concept_score": 0.3574758914806233,
+    "instance_score": 0.35042450446789264
+  },
+  "asset class": {
+    "concept_score": 0.35761316490585665,
+    "instance_score": 0.3460424499624464
+  },
+  "investment": {
+    "concept_score": 0.33876898803790173,
+    "instance_score": 0.3479009181568586
+  },
+  "premise": {
+    "concept_score": 0.3383775720559717,
+    "instance_score": 0.33894007463594583
+  },
+  "establishment": {
+    "concept_score": 0.33913420746552764,
+    "instance_score": 0.3411968723760225
+  },
+  "local amenity": {
+    "concept_score": 0.3606680226993308,
+    "instance_score": 0.3404606806261188
+  },
+  "public place": {
+    "concept_score": 0.35920826755045493,
+    "instance_score": 0.34025761925655346
+  },
+  "crustacean": {
+    "concept_score": 0.3558211605984998,
+    "instance_score": 0.35167773366948996
+  },
+  "invertebrate": {
+    "concept_score": 0.3597843065877901,
+    "instance_score": 0.3425576516949815
+  },
+  "fresh seafood": {
+    "concept_score": 0.3556809059077316,
+    "instance_score": 0.3444934427749751
+  },
+  "body style": {
+    "concept_score": 0.3583723773529571,
+    "instance_score": 0.34950130324624284
+  },
+  "version": {
+    "concept_score": 0.33846055744188863,
+    "instance_score": 0.35794020702171064
+  },
+  "occupation": {
+    "concept_score": 0.33850706604097935,
+    "instance_score": 0.3387907305363069
+  },
+  "charm": {
+    "concept_score": 0.3404501469515667,
+    "instance_score": 0.3621443949965909
+  },
+  "person": {
+    "concept_score": 0.34078447753055235,
+    "instance_score": 0.3447666978379718
+  },
+  "virtue": {
+    "concept_score": 0.34102091739372975,
+    "instance_score": 0.3417369360252892
+  },
+  "trait": {
+    "concept_score": 0.34011610005314885,
+    "instance_score": 0.34368305708956015
+  },
+  "dog sport": {
+    "concept_score": 0.35706411957610124,
+    "instance_score": 0.3512460854547887
+  },
+  "method": {
+    "concept_score": 0.33783187080108906,
+    "instance_score": 0.3504967801159565
+  },
+  "research": {
+    "concept_score": 0.3393935585253883,
+    "instance_score": 0.35147820491111986
+  },
+  "qualitative method": {
+    "concept_score": 0.3590152294469245,
+    "instance_score": 0.3542253317808821
+  },
+  "research method": {
+    "concept_score": 0.35856727806014227,
+    "instance_score": 0.35002466805055116
+  },
+  "methodology": {
+    "concept_score": 0.33787592092933455,
+    "instance_score": 0.3543232648412156
+  },
+  "river basin": {
+    "concept_score": 0.34951529306336965,
+    "instance_score": 0.3495868556593517
+  },
+  "large river": {
+    "concept_score": 0.3581987472346361,
+    "instance_score": 0.34271375250543745
+  },
+  "great river": {
+    "concept_score": 0.35678156060342514,
+    "instance_score": 0.3482806368229552
+  },
+  "acid-loving plant": {
+    "concept_score": 0.35641338416482043,
+    "instance_score": 0.355211051857533
+  },
+  "machinery": {
+    "concept_score": 0.3394660931902792,
+    "instance_score": 0.3452439368700756
+  },
+  "auxiliary": {
+    "concept_score": 0.34013003789847346,
+    "instance_score": 0.35777641086991335
+  },
+  "valuable": {
+    "concept_score": 0.3358536385415573,
+    "instance_score": 0.3411974769585072
+  },
+  "possession": {
+    "concept_score": 0.3370140552777705,
+    "instance_score": 0.34350909629433274
+  },
+  "gift": {
+    "concept_score": 0.34043786656775404,
+    "instance_score": 0.34503590049084887
+  },
+  "artisan": {
+    "concept_score": 0.3552420325518337,
+    "instance_score": 0.34465522155515754
+  },
+  "tradesman": {
+    "concept_score": 0.3560290110781467,
+    "instance_score": 0.34642074469395223
+  },
+  "crafter": {
+    "concept_score": 0.35736437301344454,
+    "instance_score": 0.34841228048043277
+  },
+  "celebration": {
+    "concept_score": 0.3404389445291464,
+    "instance_score": 0.34501382952836235
+  },
+  "ocassion": {
+    "concept_score": 0.35883327898225703,
+    "instance_score": 0.3464342157168089
+  },
+  "occassion": {
+    "concept_score": 0.3597584260848121,
+    "instance_score": 0.3429166007960792
+  },
+  "defense": {
+    "concept_score": 0.33859269545939125,
+    "instance_score": 0.3525240176399107
+  },
+  "defense mechanism": {
+    "concept_score": 0.3569770071331317,
+    "instance_score": 0.3490077773385547
+  },
+  "defence": {
+    "concept_score": 0.3388507557026591,
+    "instance_score": 0.3542829938428658
+  },
+  "coping mechanism": {
+    "concept_score": 0.35695176980010024,
+    "instance_score": 0.3509218806255935
+  },
+  "strategy": {
+    "concept_score": 0.33944853558670274,
+    "instance_score": 0.35049397869159615
+  },
+  "marque": {
+    "concept_score": 0.3592281478660134,
+    "instance_score": 0.34914944746073384
+  },
+  "auto brand": {
+    "concept_score": 0.35804113516273917,
+    "instance_score": 0.3443262421446399
+  },
+  "automaker": {
+    "concept_score": 0.35749378560952116,
+    "instance_score": 0.34431552425535134
+  },
+  "dealership": {
+    "concept_score": 0.35630268682997857,
+    "instance_score": 0.34220487919208514
+  },
+  "section": {
+    "concept_score": 0.33675686469154414,
+    "instance_score": 0.3393872584149824
+  },
+  "category": {
+    "concept_score": 0.3382769167755807,
+    "instance_score": 0.33919564578911954
+  },
+  "module": {
+    "concept_score": 0.33945027959508356,
+    "instance_score": 0.34321431558814924
+  },
+  "mobility": {
+    "concept_score": 0.3393008369722707,
+    "instance_score": 0.3461623508039694
+  },
+  "aid": {
+    "concept_score": 0.33826482631456056,
+    "instance_score": 0.3451041914477726
+  },
+  "assistive device": {
+    "concept_score": 0.356925936236464,
+    "instance_score": 0.350310306489877
+  },
+  "mobility aid": {
+    "concept_score": 0.3588102352585965,
+    "instance_score": 0.3523520892800915
+  },
+  "mobility device": {
+    "concept_score": 0.35629845954261036,
+    "instance_score": 0.35049898835010806
+  },
+  "processed meat": {
+    "concept_score": 0.3563975936160214,
+    "instance_score": 0.3505142377657059
+  },
+  "topping": {
+    "concept_score": 0.339331211388179,
+    "instance_score": 0.34372466205966906
+  },
+  "sandwich": {
+    "concept_score": 0.33926558033062987,
+    "instance_score": 0.3449516448475983
+  },
+  "keyboard instrument": {
+    "concept_score": 0.3585971709483644,
+    "instance_score": 0.3473896290740926
+  },
+  "period instrument": {
+    "concept_score": 0.35718020640429426,
+    "instance_score": 0.34998395478409516
+  },
+  "predecessor": {
+    "concept_score": 0.33910470162720674,
+    "instance_score": 0.3606794875502275
+  },
+  "basic": {
+    "concept_score": 0.3391220449693019,
+    "instance_score": 0.3475936641107384
+  },
+  "basic fundamental": {
+    "concept_score": 0.35805519656701434,
+    "instance_score": 0.34329714189272653
+  },
+  "fundamental skill": {
+    "concept_score": 0.35907670654577967,
+    "instance_score": 0.3508292047478979
+  },
+  "nutrition program": {
+    "concept_score": 0.3574140827965513,
+    "instance_score": 0.3549061696687408
+  },
+  "programme": {
+    "concept_score": 0.33894397046600705,
+    "instance_score": 0.35285327392187105
+  },
+  "food program": {
+    "concept_score": 0.35790253472120037,
+    "instance_score": 0.3570467799224712
+  },
+  "government program": {
+    "concept_score": 0.35697705141668334,
+    "instance_score": 0.35264842336468555
+  },
+  "brand name": {
+    "concept_score": 0.3593721214722259,
+    "instance_score": 0.35232386141761723
+  },
+  "researcher": {
+    "concept_score": 0.34005624023519304,
+    "instance_score": 0.34272600714520607
+  },
+  "instrumentalist": {
+    "concept_score": 0.338188393808153,
+    "instance_score": 0.3501762117491961
+  },
+  "professional musician": {
+    "concept_score": 0.35799428292304014,
+    "instance_score": 0.35858018913910905
+  },
+  "guest musician": {
+    "concept_score": 0.3565637090565626,
+    "instance_score": 0.3643173503716749
+  },
+  "validation parameter": {
+    "concept_score": 0.3586966484149461,
+    "instance_score": 0.3506786153502372
+  },
+  "metric": {
+    "concept_score": 0.34187543820307315,
+    "instance_score": 0.3483342803779598
+  },
+  "parameter": {
+    "concept_score": 0.3413133011250203,
+    "instance_score": 0.3405705702253563
+  },
+  "analytical parameter": {
+    "concept_score": 0.3581204617441676,
+    "instance_score": 0.34597744323531826
+  },
+  "criterion": {
+    "concept_score": 0.33963684383352993,
+    "instance_score": 0.3388514860211846
+  },
+  "stage": {
+    "concept_score": 0.33543135546049446,
+    "instance_score": 0.35309501541120564
+  },
+  "life stage": {
+    "concept_score": 0.35885926651679456,
+    "instance_score": 0.3424246494966183
+  },
+  "developmental stage": {
+    "concept_score": 0.3548810480337464,
+    "instance_score": 0.3580012810911207
+  },
+  "municipality": {
+    "concept_score": 0.3389485107085275,
+    "instance_score": 0.3438368825835275
+  },
+  "political boundary": {
+    "concept_score": 0.35912290441170547,
+    "instance_score": 0.34494301947852246
+  },
+  "geographic location": {
+    "concept_score": 0.3562095084078678,
+    "instance_score": 0.3487793952970387
+  },
+  "governmental entity": {
+    "concept_score": 0.35894964973940535,
+    "instance_score": 0.3436530376242538
+  },
+  "brachycephalic breed": {
+    "concept_score": 0.38114758530958315,
+    "instance_score": 0.3501725769276694
+  },
+  "dog breed": {
+    "concept_score": 0.3576010918432865,
+    "instance_score": 0.3545992380790784
+  },
+  "puppy": {
+    "concept_score": 0.33924106115349684,
+    "instance_score": 0.35243494980495915
+  },
+  "masonry": {
+    "concept_score": 0.3402020814544584,
+    "instance_score": 0.34034984068833013
+  },
+  "publication": {
+    "concept_score": 0.3384496295547267,
+    "instance_score": 0.34781451209427805
+  },
+  "popular magazine": {
+    "concept_score": 0.3593262422842053,
+    "instance_score": 0.3467944898761432
+  },
+  "national publication": {
+    "concept_score": 0.35903367790950846,
+    "instance_score": 0.3520483781910896
+  },
+  "suffering": {
+    "concept_score": 0.33991582369424395,
+    "instance_score": 0.3448249829391504
+  },
+  "misfortune": {
+    "concept_score": 0.36000950030260526,
+    "instance_score": 0.3443902173314378
+  },
+  "luck": {
+    "concept_score": 0.33614016785193956,
+    "instance_score": 0.35080517036123965
+  },
+  "barbarian": {
+    "concept_score": 0.3412250011185421,
+    "instance_score": 0.3528980921919089
+  },
+  "feature": {
+    "concept_score": 0.3389245058689498,
+    "instance_score": 0.3522618382350292
+  },
+  "exception": {
+    "concept_score": 0.3368216460373001,
+    "instance_score": 0.3428473205716217
+  },
+  "apostle": {
+    "concept_score": 0.33993696736772294,
+    "instance_score": 0.34779933080650566
+  },
+  "eyewitness": {
+    "concept_score": 0.357619284060131,
+    "instance_score": 0.3541981248056155
+  },
+  "disciple": {
+    "concept_score": 0.33877304779774003,
+    "instance_score": 0.37144014608272363
+  },
+  "western state": {
+    "concept_score": 0.3580107601846783,
+    "instance_score": 0.3397966775563117
+  },
+  "populated state": {
+    "concept_score": 0.3566340120437397,
+    "instance_score": 0.34678645540252784
+  },
+  "rural state": {
+    "concept_score": 0.3592674981140844,
+    "instance_score": 0.3455142245525925
+  },
+  "actuator": {
+    "concept_score": 0.35870722283109285,
+    "instance_score": 0.34935664768342656
+  },
+  "transformation": {
+    "concept_score": 0.33998500090930645,
+    "instance_score": 0.3456718448479547
+  },
+  "symmetry": {
+    "concept_score": 0.3395752936672263,
+    "instance_score": 0.354809294030353
+  },
+  "operation": {
+    "concept_score": 0.3394283268015044,
+    "instance_score": 0.3435757018679198
+  },
+  "function": {
+    "concept_score": 0.339953265689761,
+    "instance_score": 0.34116753943803113
+  },
+  "craftspeople": {
+    "concept_score": 0.35918086659320136,
+    "instance_score": 0.3537917773170999
+  },
+  "string instrument": {
+    "concept_score": 0.3575023775071343,
+    "instance_score": 0.34039724229251256
+  },
+  "stringed instrument": {
+    "concept_score": 0.356529308804194,
+    "instance_score": 0.3403809471070856
+  },
+  "wildfowl": {
+    "concept_score": 0.3521991837690337,
+    "instance_score": 0.3546400490524861
+  },
+  "rank": {
+    "concept_score": 0.34036430039082,
+    "instance_score": 0.3419329960244158
+  },
+  "supervisor": {
+    "concept_score": 0.3384549566813355,
+    "instance_score": 0.3513669469488335
+  },
+  "ranking": {
+    "concept_score": 0.337215707618052,
+    "instance_score": 0.35657617796524027
+  },
+  "biennial": {
+    "concept_score": 0.33748606949732535,
+    "instance_score": 0.3560972865890579
+  },
+  "perennial": {
+    "concept_score": 0.3389227866475671,
+    "instance_score": 0.3546594435539768
+  },
+  "bloom": {
+    "concept_score": 0.3391879414026326,
+    "instance_score": 0.3579934144691532
+  },
+  "religious leader": {
+    "concept_score": 0.357995345379769,
+    "instance_score": 0.34941870944908643
+  },
+  "leader": {
+    "concept_score": 0.3372170489859202,
+    "instance_score": 0.3516057917917039
+  },
+  "individual": {
+    "concept_score": 0.33695063759458654,
+    "instance_score": 0.3482519911172436
+  },
+  "macroinvertebrate": {
+    "concept_score": 0.3720342611641404,
+    "instance_score": 0.35556062189613474
+  },
+  "aquatic invertebrate": {
+    "concept_score": 0.3677858099578606,
+    "instance_score": 0.350167119998599
+  },
+  "silicate": {
+    "concept_score": 0.35698186371980056,
+    "instance_score": 0.35781511166365476
+  },
+  "mineral": {
+    "concept_score": 0.34035142677135893,
+    "instance_score": 0.3410622020135914
+  },
+  "silicate mineral": {
+    "concept_score": 0.35912750753192624,
+    "instance_score": 0.3572490397234568
+  },
+  "harmonic": {
+    "concept_score": 0.3392631729401322,
+    "instance_score": 0.34572736985150715
+  },
+  "edition": {
+    "concept_score": 0.33695433431079885,
+    "instance_score": 0.3510969074223266
+  },
+  "circuit": {
+    "concept_score": 0.3386159908092667,
+    "instance_score": 0.35237225765826363
+  },
+  "stop": {
+    "concept_score": 0.3387985440216415,
+    "instance_score": 0.3595643761409345
+  },
+  "mode": {
+    "concept_score": 0.33855645628784975,
+    "instance_score": 0.3438560839878487
+  },
+  "scale": {
+    "concept_score": 0.33797604225453165,
+    "instance_score": 0.35444852149467976
+  },
+  "sea": {
+    "concept_score": 0.3352805996811261,
+    "instance_score": 0.35168350234463885
+  },
+  "gamefish": {
+    "concept_score": 0.3577757982409972,
+    "instance_score": 0.3510395671778393
+  },
+  "game fish": {
+    "concept_score": 0.35510828406487355,
+    "instance_score": 0.3489112721491541
+  },
+  "romantic": {
+    "concept_score": 0.34059019006186564,
+    "instance_score": 0.351903343739641
+  },
+  "poet": {
+    "concept_score": 0.3402528945302369,
+    "instance_score": 0.3536756584831211
+  },
+  "writer": {
+    "concept_score": 0.3379418123156833,
+    "instance_score": 0.35412962351842875
+  },
+  "romantic writer": {
+    "concept_score": 0.3567919553524307,
+    "instance_score": 0.3496935010226612
+  },
+  "figure": {
+    "concept_score": 0.3381281545181696,
+    "instance_score": 0.345645131840423
+  },
+  "father": {
+    "concept_score": 0.3393393173483551,
+    "instance_score": 0.3587236927502963
+  },
+  "saint": {
+    "concept_score": 0.33911770010174097,
+    "instance_score": 0.36216328468285114
+  },
+  "theologian": {
+    "concept_score": 0.34090231323116577,
+    "instance_score": 0.35343479767802644
+  },
+  "church father": {
+    "concept_score": 0.3570895872587964,
+    "instance_score": 0.35600954284556924
+  },
+  "lithology": {
+    "concept_score": 0.35866827103913,
+    "instance_score": 0.34758819636853727
+  },
+  "metamorphic rock": {
+    "concept_score": 0.3556409399499084,
+    "instance_score": 0.3549634560989011
+  },
+  "crystalline rock": {
+    "concept_score": 0.35889945368124027,
+    "instance_score": 0.3509229005328488
+  },
+  "literary element": {
+    "concept_score": 0.3577489017164997,
+    "instance_score": 0.34331704835296445
+  },
+  "story element": {
+    "concept_score": 0.357937770043972,
+    "instance_score": 0.34448275894759994
+  },
+  "narrative element": {
+    "concept_score": 0.3571428714387964,
+    "instance_score": 0.34331276729213034
+  },
+  "literary concept": {
+    "concept_score": 0.3595887761753352,
+    "instance_score": 0.34689891823608715
+  },
+  "literary term": {
+    "concept_score": 0.35789500246955813,
+    "instance_score": 0.34039736562559875
+  },
+  "delectable dish": {
+    "concept_score": 0.362659386795935,
+    "instance_score": 0.37571080068765783
+  },
+  "baked product": {
+    "concept_score": 0.3580633740639081,
+    "instance_score": 0.34780233391006066
+  },
+  "musical element": {
+    "concept_score": 0.35793183403708784,
+    "instance_score": 0.3431768391181194
+  },
+  "musical concept": {
+    "concept_score": 0.3590031251082823,
+    "instance_score": 0.341922345238246
+  },
+  "musical characteristic": {
+    "concept_score": 0.35912800887889823,
+    "instance_score": 0.35329862182034366
+  },
+  "musical parameter": {
+    "concept_score": 0.3604388474514274,
+    "instance_score": 0.3475904100965337
+  },
+  "aspect of music": {
+    "concept_score": 0.3587481598910211,
+    "instance_score": 0.3438229362325428
+  },
+  "nonfiction": {
+    "concept_score": 0.3377358356367868,
+    "instance_score": 0.34982614671569323
+  },
+  "source": {
+    "concept_score": 0.3377865415582789,
+    "instance_score": 0.34028617352588997
+  },
+  "agency": {
+    "concept_score": 0.3375194646787781,
+    "instance_score": 0.3472600707638402
+  },
+  "ministry": {
+    "concept_score": 0.3388314091585747,
+    "instance_score": 0.3431030018040482
+  },
+  "authority": {
+    "concept_score": 0.3384273238786211,
+    "instance_score": 0.3446178321803882
+  },
+  "religious institution": {
+    "concept_score": 0.3594004004168744,
+    "instance_score": 0.34423230307213276
+  },
+  "faith community": {
+    "concept_score": 0.356397271394929,
+    "instance_score": 0.3453107098454493
+  },
+  "religious organization": {
+    "concept_score": 0.35996280078588594,
+    "instance_score": 0.34766226312037257
+  },
+  "religious building": {
+    "concept_score": 0.3583448442600014,
+    "instance_score": 0.34430420698789255
+  },
+  "artforms": {
+    "concept_score": 0.35927787930367344,
+    "instance_score": 0.3388659778182294
+  },
+  "art form": {
+    "concept_score": 0.358261449728579,
+    "instance_score": 0.33893862330633917
+  },
+  "creative art": {
+    "concept_score": 0.3598181684711634,
+    "instance_score": 0.33880125544625794
+  },
+  "ideal": {
+    "concept_score": 0.3402171696091641,
+    "instance_score": 0.33950652025471256
+  },
+  "value": {
+    "concept_score": 0.33865714783072404,
+    "instance_score": 0.33955221217335957
+  },
+  "universal value": {
+    "concept_score": 0.35858124267704145,
+    "instance_score": 0.34334323083097024
+  },
+  "abstract value": {
+    "concept_score": 0.3592467400386323,
+    "instance_score": 0.3455607437252598
+  },
+  "principle": {
+    "concept_score": 0.33720837527530284,
+    "instance_score": 0.3397145360256747
+  },
+  "spell": {
+    "concept_score": 0.3405191593110718,
+    "instance_score": 0.3537613652528287
+  },
+  "effect": {
+    "concept_score": 0.33672132347183986,
+    "instance_score": 0.3455504169259285
+  },
+  "counter": {
+    "concept_score": 0.3381104385387306,
+    "instance_score": 0.34699730198548295
+  },
+  "annual": {
+    "concept_score": 0.3397019267936889,
+    "instance_score": 0.35362676749694766
+  },
+  "prophet": {
+    "concept_score": 0.34026441737333507,
+    "instance_score": 0.34130522472646796
+  },
+  "bible character": {
+    "concept_score": 0.3598358489232387,
+    "instance_score": 0.34480411732735516
+  },
+  "sketch": {
+    "concept_score": 0.33985851958083013,
+    "instance_score": 0.35986136384869527
+  },
+  "hit": {
+    "concept_score": 0.3420896048895249,
+    "instance_score": 0.3577526727216661
+  },
+  "mechanical property": {
+    "concept_score": 0.3572554955982926,
+    "instance_score": 0.35394464059799347
+  },
+  "sensory quality": {
+    "concept_score": 0.3579523952683906,
+    "instance_score": 0.34640613517002034
+  },
+  "subject": {
+    "concept_score": 0.33912406807041945,
+    "instance_score": 0.34267722096700776
+  },
+  "course": {
+    "concept_score": 0.3352376412805454,
+    "instance_score": 0.33831253417950397
+  },
+  "berry": {
+    "concept_score": 0.33980505944251876,
+    "instance_score": 0.3501034879862189
+  },
+  "fruit plant": {
+    "concept_score": 0.35342405452881154,
+    "instance_score": 0.3447587696506719
+  },
+  "small fruit": {
+    "concept_score": 0.35320315615664516,
+    "instance_score": 0.34747297489674517
+  },
+  "standby": {
+    "concept_score": 0.3585352718165861,
+    "instance_score": 0.3511950577583974
+  },
+  "feeling": {
+    "concept_score": 0.3399630628276803,
+    "instance_score": 0.3400312103368804
+  },
+  "mood": {
+    "concept_score": 0.3411753388977673,
+    "instance_score": 0.3401355405015453
+  },
+  "emotion": {
+    "concept_score": 0.3408723107626747,
+    "instance_score": 0.34033409398973535
+  },
+  "attitude": {
+    "concept_score": 0.34179918076370736,
+    "instance_score": 0.34408366905550236
+  },
+  "objection": {
+    "concept_score": 0.34004584730080967,
+    "instance_score": 0.3541510103262987
+  },
+  "notion": {
+    "concept_score": 0.3403341096947444,
+    "instance_score": 0.339399240263511
+  },
+  "meaning": {
+    "concept_score": 0.34130946842155735,
+    "instance_score": 0.34463528870396953
+  },
+  "phenomenon": {
+    "concept_score": 0.33953333875148445,
+    "instance_score": 0.34488632755774135
+  },
+  "small vessel": {
+    "concept_score": 0.35806496174032626,
+    "instance_score": 0.35249775333280836
+  },
+  "descriptor": {
+    "concept_score": 0.36017121276737796,
+    "instance_score": 0.3491204497870069
+  },
+  "bulb": {
+    "concept_score": 0.33812276221118104,
+    "instance_score": 0.3557518772906737
+  },
+  "summer bulb": {
+    "concept_score": 0.35654109173661525,
+    "instance_score": 0.3561726909295343
+  },
+  "summer flowering bulb": {
+    "concept_score": 0.3543566859912046,
+    "instance_score": 0.35584932089797616
+  },
+  "variety": {
+    "concept_score": 0.34030730021185757,
+    "instance_score": 0.35559371247406657
+  },
+  "wader": {
+    "concept_score": 0.35781767646463525,
+    "instance_score": 0.3575474606667687
+  },
+  "shorebird": {
+    "concept_score": 0.35597181655190324,
+    "instance_score": 0.35635521735137743
+  },
+  "wading bird": {
+    "concept_score": 0.354172303982591,
+    "instance_score": 0.3562365224140651
+  },
+  "visual": {
+    "concept_score": 0.3416557766332778,
+    "instance_score": 0.33884592783487044
+  },
+  "illustration": {
+    "concept_score": 0.3363543172261721,
+    "instance_score": 0.33869117275036614
+  },
+  "visual aid": {
+    "concept_score": 0.35786389514864264,
+    "instance_score": 0.33883922490667595
+  },
+  "tender perennial": {
+    "concept_score": 0.35596724406321156,
+    "instance_score": 0.3550545387755322
+  },
+  "cut flower": {
+    "concept_score": 0.3565638705287922,
+    "instance_score": 0.3558895470290913
+  },
+  "houseplant": {
+    "concept_score": 0.35708818283555693,
+    "instance_score": 0.35396999340513835
+  },
+  "kitchenware": {
+    "concept_score": 0.3549314445224616,
+    "instance_score": 0.3498963741709155
+  },
+  "kitchen item": {
+    "concept_score": 0.3586355877056391,
+    "instance_score": 0.34635759173684394
+  },
+  "houseware": {
+    "concept_score": 0.3576487553415115,
+    "instance_score": 0.3451794103589455
+  },
+  "music lesson": {
+    "concept_score": 0.3589899612027027,
+    "instance_score": 0.3423860006391583
+  },
+  "western instrument": {
+    "concept_score": 0.3591005460748442,
+    "instance_score": 0.3443193828223262
+  },
+  "classical instrument": {
+    "concept_score": 0.35789031014142764,
+    "instance_score": 0.33990600918130737
+  },
+  "landforms": {
+    "concept_score": 0.35716417804233846,
+    "instance_score": 0.33813437864663504
+  },
+  "natural feature": {
+    "concept_score": 0.35550397844142195,
+    "instance_score": 0.3375320326895899
+  },
+  "landform": {
+    "concept_score": 0.3588070584131109,
+    "instance_score": 0.3381103526402923
+  },
+  "topographical feature": {
+    "concept_score": 0.34876038324277336,
+    "instance_score": 0.3438775832173689
+  },
+  "geographical feature": {
+    "concept_score": 0.3553613775430286,
+    "instance_score": 0.33949239952603233
+  },
+  "fabric": {
+    "concept_score": 0.33958705073065015,
+    "instance_score": 0.3431233737778021
+  },
+  "luxurious fabric": {
+    "concept_score": 0.35903367790950846,
+    "instance_score": 0.3478879991584231
+  },
+  "rich fabric": {
+    "concept_score": 0.3575833654016481,
+    "instance_score": 0.348222367138073
+  },
+  "delicate fabric": {
+    "concept_score": 0.3566656679182339,
+    "instance_score": 0.3449930942261389
+  },
+  "quality fabric": {
+    "concept_score": 0.3557410986263613,
+    "instance_score": 0.34499722776998987
+  },
+  "fiber": {
+    "concept_score": 0.33975751103015495,
+    "instance_score": 0.34509031712079896
+  },
+  "natural fiber": {
+    "concept_score": 0.35809519394163136,
+    "instance_score": 0.3482255421403849
+  },
+  "natural fabric": {
+    "concept_score": 0.35555420873244725,
+    "instance_score": 0.34275397849430767
+  },
+  "academic subject": {
+    "concept_score": 0.35599922828136527,
+    "instance_score": 0.3406017054115582
+  },
+  "basic course": {
+    "concept_score": 0.3581795432031347,
+    "instance_score": 0.3448413541183136
+  },
+  "core subject": {
+    "concept_score": 0.356896528476073,
+    "instance_score": 0.34819587847689487
+  },
+  "basic furniture": {
+    "concept_score": 0.35740714904446236,
+    "instance_score": 0.3402787985420313
+  },
+  "seating": {
+    "concept_score": 0.33876697540122125,
+    "instance_score": 0.35372907084260474
+  },
+  "padding": {
+    "concept_score": 0.3565144764151208,
+    "instance_score": 0.34733373988047095
+  },
+  "bedding item": {
+    "concept_score": 0.3587675406360688,
+    "instance_score": 0.34920803594177613
+  },
+  "clinician": {
+    "concept_score": 0.35706503584758353,
+    "instance_score": 0.3500189688599719
+  },
+  "specialist": {
+    "concept_score": 0.3395665350376168,
+    "instance_score": 0.3502908378694543
+  },
+  "practitioner": {
+    "concept_score": 0.3349039233939642,
+    "instance_score": 0.35346404533979353
+  },
+  "midwestern state": {
+    "concept_score": 0.3588736187659525,
+    "instance_score": 0.3404170447752243
+  },
+  "northern state": {
+    "concept_score": 0.35828506122796355,
+    "instance_score": 0.3456275573495816
+  },
+  "key state": {
+    "concept_score": 0.35720938599662566,
+    "instance_score": 0.341479914104445
+  },
+  "neighboring state": {
+    "concept_score": 0.35928546060959426,
+    "instance_score": 0.34546907075396815
+  },
+  "colony": {
+    "concept_score": 0.33965515630365,
+    "instance_score": 0.3430041079845635
+  },
+  "market": {
+    "concept_score": 0.33865504714982475,
+    "instance_score": 0.33940529720297435
+  },
+  "msa": {
+    "concept_score": 0.3604020942956348,
+    "instance_score": 0.34306882655465537
+  },
+  "hub": {
+    "concept_score": 0.34069092268714335,
+    "instance_score": 0.344364718135539
+  },
+  "american city": {
+    "concept_score": 0.3555575103626116,
+    "instance_score": 0.3447536774481815
+  },
+  "u.s. city": {
+    "concept_score": 0.37212377574553046,
+    "instance_score": 0.3466765437057924
+  },
+  "small bird": {
+    "concept_score": 0.3544211537705676,
+    "instance_score": 0.3479554497695704
+  },
+  "songbird": {
+    "concept_score": 0.35633349918780843,
+    "instance_score": 0.34498283155982723
+  },
+  "passerine": {
+    "concept_score": 0.3548556834124508,
+    "instance_score": 0.35356332932061985
+  },
+  "common bird": {
+    "concept_score": 0.35248325643271256,
+    "instance_score": 0.35155492280612977
+  },
+  "vice": {
+    "concept_score": 0.34034166782956116,
+    "instance_score": 0.34552619357560227
+  },
+  "sin": {
+    "concept_score": 0.339267169945803,
+    "instance_score": 0.34645202192680774
+  },
+  "delusion": {
+    "concept_score": 0.3584393953258838,
+    "instance_score": 0.3502899144440501
+  },
+  "evil": {
+    "concept_score": 0.33980401457921977,
+    "instance_score": 0.34520765484443017
+  },
+  "negative trait": {
+    "concept_score": 0.3588523033351776,
+    "instance_score": 0.34994521351206853
+  },
+  "subfolder": {
+    "concept_score": 0.3592792341395389,
+    "instance_score": 0.3491542389153811
+  },
+  "tab": {
+    "concept_score": 0.3404554910075992,
+    "instance_score": 0.34503941387483106
+  },
+  "neotropical migrant": {
+    "concept_score": 0.3519188061290777,
+    "instance_score": 0.36408174057155857
+  },
+  "migratory bird": {
+    "concept_score": 0.3547032208253844,
+    "instance_score": 0.3464827046109178
+  },
+  "term": {
+    "concept_score": 0.3400238432281695,
+    "instance_score": 0.34913837166689293
+  },
+  "datum": {
+    "concept_score": 0.36001292822531406,
+    "instance_score": 0.33790658485653313
+  },
+  "food item": {
+    "concept_score": 0.3572685501136908,
+    "instance_score": 0.34399209752266213
+  },
+  "choice": {
+    "concept_score": 0.3381171890981984,
+    "instance_score": 0.3445327634397355
+  },
+  "chapter": {
+    "concept_score": 0.3411984359266163,
+    "instance_score": 0.35873047223553495
+  },
+  "musical term": {
+    "concept_score": 0.35843506006250725,
+    "instance_score": 0.3431898099818279
+  },
+  "adjective": {
+    "concept_score": 0.33933512011710004,
+    "instance_score": 0.34018134925540916
+  },
+  "ruminant": {
+    "concept_score": 0.3590156541960278,
+    "instance_score": 0.3406715913870186
+  },
+  "furbearers": {
+    "concept_score": 0.3615604850526106,
+    "instance_score": 0.35152590323475486
+  },
+  "fur": {
+    "concept_score": 0.33990967254775495,
+    "instance_score": 0.3476432603779107
+  },
+  "mental process": {
+    "concept_score": 0.35877485885115373,
+    "instance_score": 0.3413561782610953
+  },
+  "mental state": {
+    "concept_score": 0.3587307789312031,
+    "instance_score": 0.34083636783590177
+  },
+  "mental phenomenon": {
+    "concept_score": 0.35847791191976625,
+    "instance_score": 0.34997062632358694
+  },
+  "mental event": {
+    "concept_score": 0.3592786708901998,
+    "instance_score": 0.34672806527416367
+  },
+  "intangible": {
+    "concept_score": 0.35940105606579703,
+    "instance_score": 0.34021898275242524
+  },
+  "competency": {
+    "concept_score": 0.3581370868028741,
+    "instance_score": 0.34726364200704
+  },
+  "disposition": {
+    "concept_score": 0.33693780086469965,
+    "instance_score": 0.35359115785650214
+  },
+  "construct": {
+    "concept_score": 0.3412571014918655,
+    "instance_score": 0.34496594205347497
+  },
+  "cognition": {
+    "concept_score": 0.33851267107514416,
+    "instance_score": 0.3504839752595065
+  },
+  "commitment": {
+    "concept_score": 0.3405979994550461,
+    "instance_score": 0.3406976345928977
+  },
+  "athletics": {
+    "concept_score": 0.33816337359354665,
+    "instance_score": 0.3384991010042291
+  },
+  "sport activity": {
+    "concept_score": 0.35703031409487807,
+    "instance_score": 0.3385315692004475
+  },
+  "active sport": {
+    "concept_score": 0.35740934639496835,
+    "instance_score": 0.3398860562305606
+  },
+  "athletic activity": {
+    "concept_score": 0.35701355003082025,
+    "instance_score": 0.33881694111070587
+  },
+  "outdoor": {
+    "concept_score": 0.3359545464212211,
+    "instance_score": 0.3403202081977793
+  },
+  "outdoors": {
+    "concept_score": 0.33748218661791285,
+    "instance_score": 0.34049017891955136
+  },
+  "outdoor activity": {
+    "concept_score": 0.35779303322407574,
+    "instance_score": 0.341850677047658
+  },
+  "recreation": {
+    "concept_score": 0.33893330895888263,
+    "instance_score": 0.3453018828707569
+  },
+  "hobby": {
+    "concept_score": 0.3409125057128997,
+    "instance_score": 0.33892372599699316
+  },
+  "savoury": {
+    "concept_score": 0.3586601630346914,
+    "instance_score": 0.3587501302407328
+  },
+  "recipe": {
+    "concept_score": 0.3404749956381655,
+    "instance_score": 0.34252697218699657
+  },
+  "veg": {
+    "concept_score": 0.3591616979512659,
+    "instance_score": 0.34771726170464745
+  },
+  "vegies": {
+    "concept_score": 0.3576214876741918,
+    "instance_score": 0.3513401769378751
+  },
+  "vegetable crop": {
+    "concept_score": 0.35508076923403864,
+    "instance_score": 0.34523716127129583
+  },
+  "bright color": {
+    "concept_score": 0.3580916577303772,
+    "instance_score": 0.34060233889602615
+  },
+  "tint": {
+    "concept_score": 0.3574200371329906,
+    "instance_score": 0.34027363559301493
+  },
+  "hue": {
+    "concept_score": 0.342288101454496,
+    "instance_score": 0.3383687551026261
+  },
+  "neutral": {
+    "concept_score": 0.3418371435778109,
+    "instance_score": 0.3419088367273605
+  },
+  "neutral color": {
+    "concept_score": 0.3594842173553764,
+    "instance_score": 0.34016591149060516
+  },
+  "natural": {
+    "concept_score": 0.3372415000576909,
+    "instance_score": 0.344361646173845
+  },
+  "bug": {
+    "concept_score": 0.3405853522045179,
+    "instance_score": 0.34607700526854923
+  },
+  "pest": {
+    "concept_score": 0.34002956197961387,
+    "instance_score": 0.34652692525618123
+  },
+  "arthropod": {
+    "concept_score": 0.3578380569444276,
+    "instance_score": 0.3460593823672137
+  },
+  "small insect": {
+    "concept_score": 0.3551561428794215,
+    "instance_score": 0.34440286109519647
+  },
+  "european country": {
+    "concept_score": 0.3535219280125319,
+    "instance_score": 0.3397821043507161
+  },
+  "delegation": {
+    "concept_score": 0.3388736122766214,
+    "instance_score": 0.3434371233156464
+  },
+  "member state": {
+    "concept_score": 0.3556896096343362,
+    "instance_score": 0.33980441783835846
+  },
+  "eu country": {
+    "concept_score": 0.35951655472144783,
+    "instance_score": 0.3397183973485225
+  },
+  "carer": {
+    "concept_score": 0.3583389660320005,
+    "instance_score": 0.34909778447322476
+  },
+  "caregiver": {
+    "concept_score": 0.3586762591121108,
+    "instance_score": 0.34518734069110835
+  },
+  "witness": {
+    "concept_score": 0.3369050909924667,
+    "instance_score": 0.34883471330064064
+  },
+  "anybody": {
+    "concept_score": 0.33950499003354206,
+    "instance_score": 0.3484903769572414
+  },
+  "creative person": {
+    "concept_score": 0.35996880755816874,
+    "instance_score": 0.33975511100071676
+  },
+  "creative type": {
+    "concept_score": 0.36012632197651173,
+    "instance_score": 0.3396101930992463
+  },
+  "performance artist": {
+    "concept_score": 0.35728749138065463,
+    "instance_score": 0.355720690861084
+  },
+  "emotional state": {
+    "concept_score": 0.3582015682423356,
+    "instance_score": 0.3400049267162691
+  },
+  "strong emotion": {
+    "concept_score": 0.3587648645251178,
+    "instance_score": 0.3399310253714939
+  },
+  "antelope specie": {
+    "concept_score": 0.37137721570206766,
+    "instance_score": 0.3585515508038945
+  },
+  "ungulate": {
+    "concept_score": 0.35342253530512513,
+    "instance_score": 0.3456419569892438
+  },
+  "voice": {
+    "concept_score": 0.34018783715921397,
+    "instance_score": 0.3589969299418463
+  },
+  "french word": {
+    "concept_score": 0.3583299165686648,
+    "instance_score": 0.3482896733193138
+  },
+  "venue": {
+    "concept_score": 0.33936508290486983,
+    "instance_score": 0.34462981611128557
+  },
+  "project": {
+    "concept_score": 0.3398344498249743,
+    "instance_score": 0.34086923034452554
+  },
+  "fish specie": {
+    "concept_score": 0.3577574484793938,
+    "instance_score": 0.3433208483354416
+  },
+  "bait": {
+    "concept_score": 0.3389593580622317,
+    "instance_score": 0.3486739386195167
+  },
+  "link": {
+    "concept_score": 0.3379962560481962,
+    "instance_score": 0.3535676122688084
+  },
+  "fashion accessory": {
+    "concept_score": 0.3575121151975563,
+    "instance_score": 0.3431898272085879
+  },
+  "women s accessory": {
+    "concept_score": 0.3597873870981015,
+    "instance_score": 0.3451346701041695
+  },
+  "great venue": {
+    "concept_score": 0.3589958907406164,
+    "instance_score": 0.35402658912542273
+  },
+  "wild animal": {
+    "concept_score": 0.3581533556567225,
+    "instance_score": 0.34203847148493266
+  },
+  "wildlife": {
+    "concept_score": 0.33966633614385494,
+    "instance_score": 0.3401746666686713
+  },
+  "omnivore": {
+    "concept_score": 0.358737050725691,
+    "instance_score": 0.34783220518548846
+  },
+  "answer": {
+    "concept_score": 0.3393176882127975,
+    "instance_score": 0.3431374830142127
+  },
+  "family relationship": {
+    "concept_score": 0.3571643852198217,
+    "instance_score": 0.3467074678068288
+  },
+  "tropical fruit": {
+    "concept_score": 0.3552365822156025,
+    "instance_score": 0.3518044179305809
+  },
+  "crop": {
+    "concept_score": 0.33812860767262887,
+    "instance_score": 0.3405917569504133
+  },
+  "plantation": {
+    "concept_score": 0.3381862508024814,
+    "instance_score": 0.3438803354896133
+  },
+  "european city": {
+    "concept_score": 0.3575132005456787,
+    "instance_score": 0.3397629260479589
+  },
+  "city state": {
+    "concept_score": 0.3536912383463307,
+    "instance_score": 0.3448546549510564
+  },
+  "city-states": {
+    "concept_score": 0.35452899243197417,
+    "instance_score": 0.3448710444844838
+  },
+  "ancient city": {
+    "concept_score": 0.358266871302785,
+    "instance_score": 0.3539832695568451
+  },
+  "capital city": {
+    "concept_score": 0.3563675159183691,
+    "instance_score": 0.3428543978633376
+  },
+  "economy": {
+    "concept_score": 0.3381972273304444,
+    "instance_score": 0.34114680098143435
+  },
+  "asian country": {
+    "concept_score": 0.3505839378230974,
+    "instance_score": 0.3411454832835678
+  },
+  "asian economy": {
+    "concept_score": 0.35528917024278295,
+    "instance_score": 0.34275758548821567
+  },
+  "fruit tree": {
+    "concept_score": 0.35483303766272833,
+    "instance_score": 0.34326875694533393
+  },
+  "favorite": {
+    "concept_score": 0.33718639416920854,
+    "instance_score": 0.3431005798217917
+  },
+  "stone fruit": {
+    "concept_score": 0.35594204219680814,
+    "instance_score": 0.34442278348212474
+  },
+  "armor": {
+    "concept_score": 0.34121125514301015,
+    "instance_score": 0.34902411270217437
+  },
+  "suburb": {
+    "concept_score": 0.33866543701662155,
+    "instance_score": 0.35811894143570766
+  },
+  "control": {
+    "concept_score": 0.3395644525688069,
+    "instance_score": 0.34862112480083357
+  },
+  "widget": {
+    "concept_score": 0.3600070409025707,
+    "instance_score": 0.35103982246282883
+  },
+  "view": {
+    "concept_score": 0.33767510586319754,
+    "instance_score": 0.34265112960518823
+  },
+  "selection": {
+    "concept_score": 0.33711674308907247,
+    "instance_score": 0.3621644119022352
+  },
+  "convenient facility": {
+    "concept_score": 0.35776417620132117,
+    "instance_score": 0.3400953941359209
+  },
+  "record": {
+    "concept_score": 0.3385806630185216,
+    "instance_score": 0.34135592160262074
+  },
+  "popular breed": {
+    "concept_score": 0.3554096176405944,
+    "instance_score": 0.3496416142019103
+  },
+  "big dog": {
+    "concept_score": 0.3589581529122292,
+    "instance_score": 0.3515615647733507
+  },
+  "animal print": {
+    "concept_score": 0.35796563221992617,
+    "instance_score": 0.3501391437247265
+  },
+  "exotic animal": {
+    "concept_score": 0.35844484486736644,
+    "instance_score": 0.3463346055833054
+  },
+  "big cat": {
+    "concept_score": 0.3580217171064137,
+    "instance_score": 0.34454945361757466
+  },
+  "large ungulate": {
+    "concept_score": 0.3562338077070364,
+    "instance_score": 0.34609960136546675
+  },
+  "spring bulb": {
+    "concept_score": 0.35530250349782416,
+    "instance_score": 0.360153550445672
+  },
+  "spring flowering bulb": {
+    "concept_score": 0.35454477408301593,
+    "instance_score": 0.3595248865032336
+  },
+  "flowering bulb": {
+    "concept_score": 0.3550203072323037,
+    "instance_score": 0.3585228475602168
+  },
+  "spring flower": {
+    "concept_score": 0.35599086677363,
+    "instance_score": 0.3562988648101682
+  },
+  "flower bulb": {
+    "concept_score": 0.35424794734778314,
+    "instance_score": 0.35619729842507036
+  },
+  "fresh fruit": {
+    "concept_score": 0.3557226931438943,
+    "instance_score": 0.34277692992522557
+  },
+  "seasonal fruit": {
+    "concept_score": 0.3549540630964848,
+    "instance_score": 0.34289113806848004
+  },
+  "fruit specie": {
+    "concept_score": 0.3551102703652818,
+    "instance_score": 0.3411256503015041
+  },
+  "fruit crop": {
+    "concept_score": 0.352794780846401,
+    "instance_score": 0.33960406492131334
+  },
+  "hardwood": {
+    "concept_score": 0.33754587812814263,
+    "instance_score": 0.33917628144077444
+  },
+  "exotic wood": {
+    "concept_score": 0.35697981181013594,
+    "instance_score": 0.34771349509250815
+  },
+  "tropical wood": {
+    "concept_score": 0.3562779262545577,
+    "instance_score": 0.35588947069920557
+  },
+  "tropical hardwood": {
+    "concept_score": 0.35496984994855213,
+    "instance_score": 0.3499663498981331
+  },
+  "carb": {
+    "concept_score": 0.3590743381908576,
+    "instance_score": 0.3441363145095181
+  },
+  "carbs": {
+    "concept_score": 0.3587256560958423,
+    "instance_score": 0.3459376714437822
+  },
+  "carbohydrate": {
+    "concept_score": 0.37030967387802455,
+    "instance_score": 0.3429265557602154
+  },
+  "baked goods": {
+    "concept_score": 0.35684188808388284,
+    "instance_score": 0.347786523052437
+  },
+  "dessert": {
+    "concept_score": 0.3391952364554613,
+    "instance_score": 0.3505965446169156
+  },
+  "baked good": {
+    "concept_score": 0.3589752227962785,
+    "instance_score": 0.34594805355534536
+  },
+  "bakery product": {
+    "concept_score": 0.35744849385034555,
+    "instance_score": 0.3441727376143914
+  },
+  "gemstone": {
+    "concept_score": 0.3597921383810538,
+    "instance_score": 0.3495800706808686
+  },
+  "gem": {
+    "concept_score": 0.3412229627497524,
+    "instance_score": 0.35076786005669536
+  },
+  "professionals": {
+    "concept_score": 0.3382145575104674,
+    "instance_score": 0.3438194005712202
+  },
+  "licensed professional": {
+    "concept_score": 0.3576016128352171,
+    "instance_score": 0.34242025928734215
+  },
+  "subheading": {
+    "concept_score": 0.3565273720628467,
+    "instance_score": 0.3415668996424491
+  },
+  "heading": {
+    "concept_score": 0.3380272214552536,
+    "instance_score": 0.3425186289937195
+  },
+  "section heading": {
+    "concept_score": 0.35238339427129756,
+    "instance_score": 0.3426420472180089
+  },
+  "study": {
+    "concept_score": 0.3395737316104804,
+    "instance_score": 0.34466585358595264
+  },
+  "case": {
+    "concept_score": 0.33743863725091466,
+    "instance_score": 0.3428806060129418
+  },
+  "scholar": {
+    "concept_score": 0.33817996957578544,
+    "instance_score": 0.35080367062838264
+  },
+  "deciduous tree": {
+    "concept_score": 0.3508467807614026,
+    "instance_score": 0.3414698965001078
+  },
+  "semi-precious stones": {
+    "concept_score": 0.35989028108973614,
+    "instance_score": 0.35494125693299716
+  },
+  "semiprecious stone": {
+    "concept_score": 0.3579563586292438,
+    "instance_score": 0.3594240205307638
+  },
+  "classic": {
+    "concept_score": 0.3389874820378522,
+    "instance_score": 0.34909623506610477
+  },
+  "fun song": {
+    "concept_score": 0.3607698664251666,
+    "instance_score": 0.36159008089723654
+  },
+  "gem stone": {
+    "concept_score": 0.359159934864423,
+    "instance_score": 0.35270660085093486
+  },
+  "preciou stone": {
+    "concept_score": 0.36042065410286994,
+    "instance_score": 0.34970158758755987
+  },
+  "terrain": {
+    "concept_score": 0.339113677321842,
+    "instance_score": 0.33870687051336734
+  },
+  "legal term": {
+    "concept_score": 0.3587718347086947,
+    "instance_score": 0.34280330334952724
+  },
+  "hydraulic structure": {
+    "concept_score": 0.358353023432689,
+    "instance_score": 0.3468666851330338
+  },
+  "citrus fruit": {
+    "concept_score": 0.3549968203936362,
+    "instance_score": 0.3481055675794237
+  },
+  "mean": {
+    "concept_score": 0.3383917977864254,
+    "instance_score": 0.34423935019703333
+  },
+  "world": {
+    "concept_score": 0.3393255389388453,
+    "instance_score": 0.354099363372876
+  },
+  "hunting dog": {
+    "concept_score": 0.3579033417932382,
+    "instance_score": 0.3487440417879325
+  },
+  "pest bird": {
+    "concept_score": 0.35569722623581573,
+    "instance_score": 0.34888340682344327
+  },
+  "root crop": {
+    "concept_score": 0.35610080712332437,
+    "instance_score": 0.35166926199113346
+  },
+  "humor": {
+    "concept_score": 0.3404453657787905,
+    "instance_score": 0.35831531490787416
+  },
+  "literary device": {
+    "concept_score": 0.3589282975360738,
+    "instance_score": 0.34930476036611025
+  },
+  "trope": {
+    "concept_score": 0.3586857885325743,
+    "instance_score": 0.35278441493418694
+  },
+  "musical influence": {
+    "concept_score": 0.3579725732090511,
+    "instance_score": 0.3529089831541617
+  },
+  "residential project": {
+    "concept_score": 0.35769249974177575,
+    "instance_score": 0.3606237287586728
+  },
+  "planting": {
+    "concept_score": 0.33969069479959774,
+    "instance_score": 0.34667907042738433
+  },
+  "ornamental tree": {
+    "concept_score": 0.3541185052886528,
+    "instance_score": 0.3554375734429504
+  },
+  "print product": {
+    "concept_score": 0.358881280479362,
+    "instance_score": 0.35131437682170963
+  },
+  "graphic design service": {
+    "concept_score": 0.3592984784920043,
+    "instance_score": 0.3503744305512376
+  },
+  "print service": {
+    "concept_score": 0.35725813298894865,
+    "instance_score": 0.3523714773677564
+  },
+  "perishable": {
+    "concept_score": 0.3586235897835368,
+    "instance_score": 0.33929927543253546
+  },
+  "animal product": {
+    "concept_score": 0.35772530997690055,
+    "instance_score": 0.3393617700533509
+  },
+  "animal food": {
+    "concept_score": 0.3560965475766115,
+    "instance_score": 0.3426839810888932
+  },
+  "perishable food": {
+    "concept_score": 0.35862186948433866,
+    "instance_score": 0.34090212617377824
+  },
+  "roast": {
+    "concept_score": 0.33955667857653565,
+    "instance_score": 0.3465868587671616
+  },
+  "fresh meat": {
+    "concept_score": 0.3563083625983594,
+    "instance_score": 0.34463547078730383
+  },
+  "participant": {
+    "concept_score": 0.33777107788447175,
+    "instance_score": 0.34634958332108984
+  },
+  "well known brand": {
+    "concept_score": 0.3599174044643867,
+    "instance_score": 0.34324098122786273
+  },
+  "acquisition": {
+    "concept_score": 0.3385926498347621,
+    "instance_score": 0.3681545958715931
+  },
+  "well-known brand": {
+    "concept_score": 0.360855547110479,
+    "instance_score": 0.3506592872778481
+  },
+  "spiritual quality": {
+    "concept_score": 0.35911903071739365,
+    "instance_score": 0.3399841268699964
+  },
+  "poetic device": {
+    "concept_score": 0.3587391364025791,
+    "instance_score": 0.35106599602213073
+  },
+  "stylistic device": {
+    "concept_score": 0.35837499435116393,
+    "instance_score": 0.3485149632999128
+  },
+  "literary technique": {
+    "concept_score": 0.35817285295730855,
+    "instance_score": 0.34984084443358715
+  },
+  "database": {
+    "concept_score": 0.3392860062349656,
+    "instance_score": 0.3542649478056236
+  },
+  "popular product": {
+    "concept_score": 0.3581542104317561,
+    "instance_score": 0.35762422995388754
+  },
+  "single": {
+    "concept_score": 0.3359774043008467,
+    "instance_score": 0.35565510159490743
+  },
+  "series": {
+    "concept_score": 0.3392570108662583,
+    "instance_score": 0.3506330723160821
+  },
+  "technician": {
+    "concept_score": 0.3378343749370478,
+    "instance_score": 0.3512555472935072
+  },
+  "cause": {
+    "concept_score": 0.3383997704946443,
+    "instance_score": 0.3411545231372275
+  },
+  "introductory topic": {
+    "concept_score": 0.35777082993318615,
+    "instance_score": 0.3573261275225764
+  },
+  "artifact": {
+    "concept_score": 0.3405383534060211,
+    "instance_score": 0.3432360967886733
+  },
+  "essay": {
+    "concept_score": 0.33893113100573596,
+    "instance_score": 0.36669264088061937
+  },
+  "client": {
+    "concept_score": 0.33965753114342073,
+    "instance_score": 0.34530749735894234
+  },
+  "local store": {
+    "concept_score": 0.35723515526949223,
+    "instance_score": 0.3549992776460582
+  },
+  "television show": {
+    "concept_score": 0.3583494148639053,
+    "instance_score": 0.35217732342978864
+  },
+  "pattern": {
+    "concept_score": 0.34024010012200917,
+    "instance_score": 0.34901738678988337
+  },
+  "collectable": {
+    "concept_score": 0.35673422841485236,
+    "instance_score": 0.3470727653209784
+  },
+  "reality tv show": {
+    "concept_score": 0.35956271834086284,
+    "instance_score": 0.3522379943022219
+  }
+}

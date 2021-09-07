@@ -1,0 +1,8755 @@
+{
+  "res": [
+    "tree",
+    "population",
+    "duration",
+    "furnishing",
+    "television show",
+    "defense",
+    "manufacturer",
+    "kingdom",
+    "arm",
+    "gamefish",
+    "food item",
+    "starch",
+    "disposition",
+    "recyclable",
+    "tropicals",
+    "venue",
+    "fruit",
+    "leather goods",
+    "club",
+    "part",
+    "sense",
+    "nationality",
+    "wetland",
+    "accessory",
+    "music lesson",
+    "award",
+    "name",
+    "cause",
+    "characteristic",
+    "clothe",
+    "category",
+    "space",
+    "sweet",
+    "horse",
+    "property",
+    "landforms",
+    "furniture",
+    "transformation",
+    "suffering",
+    "school",
+    "sketch",
+    "map",
+    "single",
+    "marketing material",
+    "program",
+    "quality",
+    "toiletry",
+    "monument",
+    "humanity",
+    "aggregation",
+    "fish",
+    "instrumentalist",
+    "item",
+    "slider",
+    "sacrament",
+    "funding",
+    "island",
+    "site characteristic",
+    "adverb",
+    "silicate",
+    "mobility",
+    "outdoor space",
+    "masonry",
+    "clothing",
+    "handwork",
+    "motivator",
+    "convenient facility",
+    "invertebrate",
+    "power",
+    "religious institution",
+    "valuable",
+    "room",
+    "romantic",
+    "folder",
+    "flower",
+    "jewelry",
+    "phenomenon",
+    "weather",
+    "donation",
+    "garden structure",
+    "vehicle",
+    "town",
+    "sediment",
+    "partition",
+    "mental process",
+    "music",
+    "embayment",
+    "tab",
+    "security",
+    "ungulate",
+    "arab country",
+    "game bird",
+    "object",
+    "metadata",
+    "conifer",
+    "feeling",
+    "river",
+    "employee",
+    "vessel",
+    "method",
+    "genre",
+    "livestock",
+    "european country",
+    "document",
+    "shellfish",
+    "monster",
+    "rock",
+    "emotion",
+    "injury",
+    "person",
+    "shift",
+    "creative person",
+    "language",
+    "state",
+    "military unit",
+    "hair color",
+    "gemstone",
+    "raptor",
+    "plant",
+    "french word",
+    "city",
+    "void",
+    "vertebrate",
+    "issue",
+    "virtue",
+    "bulb",
+    "shrub",
+    "instrument",
+    "entertainer",
+    "metal",
+    "baby equipment",
+    "breed",
+    "text",
+    "colour",
+    "validation parameter",
+    "architectural feature",
+    "family",
+    "philosophy",
+    "musical element",
+    "municipality",
+    "occasion",
+    "wader",
+    "appliance",
+    "hardwood",
+    "extremity",
+    "fundamental",
+    "apostle",
+    "antelope",
+    "band",
+    "herb",
+    "insect",
+    "waterbird",
+    "style",
+    "constituent",
+    "researcher",
+    "moon",
+    "actuator",
+    "skill",
+    "dwelling",
+    "harmonic",
+    "nonfiction",
+    "relative",
+    "story",
+    "habit",
+    "humor",
+    "facial feature",
+    "facility",
+    "prophet",
+    "fashion accessory",
+    "root",
+    "bedding",
+    "art",
+    "garden tool",
+    "outdoor",
+    "word",
+    "neutral",
+    "month",
+    "song",
+    "habitat",
+    "direction",
+    "barbarian",
+    "retailer",
+    "service",
+    "staple",
+    "caffeine",
+    "dog",
+    "unit",
+    "credential",
+    "community",
+    "poetic device",
+    "event",
+    "athlete",
+    "voice",
+    "evergreen",
+    "child",
+    "meal",
+    "case",
+    "holiday",
+    "intellectual",
+    "poetic form",
+    "father",
+    "furbearers",
+    "diversity",
+    "songbird",
+    "framework",
+    "table",
+    "disaster",
+    "transportation vehicle",
+    "symptom",
+    "faculty",
+    "elective",
+    "subheading",
+    "restoration",
+    "bedroom",
+    "athletics",
+    "kitchenware",
+    "machinery",
+    "building",
+    "stage",
+    "vegetable",
+    "keyboard instrument",
+    "visual",
+    "literary element",
+    "epiphyte",
+    "marque",
+    "meat",
+    "berry",
+    "vice",
+    "author",
+    "trade",
+    "print product",
+    "concept",
+    "professional",
+    "premise",
+    "economy",
+    "oral tradition",
+    "bird",
+    "magazine",
+    "control",
+    "food",
+    "shape",
+    "brand",
+    "institution",
+    "ensemble",
+    "fabric",
+    "predator",
+    "list",
+    "mode",
+    "artifact",
+    "animal",
+    "agency",
+    "stationery",
+    "printmaking technique",
+    "outerwear",
+    "camera",
+    "value",
+    "medium",
+    "water",
+    "ideal",
+    "artisan",
+    "database",
+    "carer",
+    "citrus",
+    "reptile",
+    "profession",
+    "subject",
+    "team",
+    "rank",
+    "excipient",
+    "wildfowl"
+  ],
+  "day,week,hour,month,year": {
+    "concepts": [
+      "duration"
+    ],
+    "detail": {
+      "day": [
+        "duration",
+        3.597312260588446
+      ],
+      "week": [
+        "duration",
+        5.389071729816501
+      ],
+      "hour": [
+        "duration",
+        4.290459441148391
+      ],
+      "month": [
+        "duration",
+        4.290459441148391
+      ],
+      "year": [
+        "duration",
+        4.290459441148391
+      ]
+    },
+    "score": 1.4262780363255096
+  },
+  "language,religion,culture": {
+    "concepts": [
+      "diversity"
+    ],
+    "detail": {
+      "language": [
+        "diversity",
+        3.9367156180185177
+      ],
+      "religion": [
+        "diversity",
+        3.377099830083095
+      ],
+      "culture": [
+        "diversity",
+        4.629862798578463
+      ]
+    },
+    "score": 1.6313360538216803
+  },
+  "woman,child,youth": {
+    "concepts": [
+      "population"
+    ],
+    "detail": {
+      "woman": [
+        "population",
+        4.259877708198576
+      ],
+      "child": [
+        "population",
+        3.3745242116121337
+      ],
+      "youth": [
+        "population",
+        5.072464925622533
+      ]
+    },
+    "score": 1.593213080319139
+  },
+  "texas,florida,california,nevada,arizona": {
+    "concepts": [
+      "state"
+    ],
+    "detail": {
+      "texas": [
+        "state",
+        3.1764388228536165
+      ],
+      "florida": [
+        "state",
+        3.204127478187583
+      ],
+      "california": [
+        "state",
+        2.3690456944412706
+      ],
+      "nevada": [
+        "state",
+        4.453705121953626
+      ],
+      "arizona": [
+        "state",
+        3.9158223311032896
+      ]
+    },
+    "score": 1.100704288325867
+  },
+  "texture,shape,size": {
+    "concepts": [
+      "characteristic"
+    ],
+    "detail": {
+      "texture": [
+        "characteristic",
+        6.0089364388394095
+      ],
+      "shape": [
+        "characteristic",
+        5.128740874945146
+      ],
+      "size": [
+        "characteristic",
+        4.4021776974653575
+      ]
+    },
+    "score": 1.6498507353853606
+  },
+  "theater,museum,library,cinema": {
+    "concepts": [
+      "building"
+    ],
+    "detail": {
+      "theater": [
+        "building",
+        5.595247409775304
+      ],
+      "museum": [
+        "building",
+        5.395451222458085
+      ],
+      "library": [
+        "building",
+        4.976948120011791
+      ],
+      "cinema": [
+        "building",
+        6.981541770895195
+      ]
+    },
+    "score": 1.694044216595779
+  },
+  "thoroughbred,thoroughbreds,arabian,arabians": {
+    "concepts": [
+      "horse"
+    ],
+    "detail": {
+      "thoroughbred": [
+        "horse",
+        5.139572817710551
+      ],
+      "thoroughbreds": [
+        "horse",
+        4.520533609304327
+      ],
+      "arabian": [
+        "horse",
+        6.6800178586577
+      ],
+      "arabians": [
+        "horse",
+        4.520533609304327
+      ]
+    },
+    "score": 1.6578685405217992
+  },
+  "glass,metal,paper,cardboard,plastic": {
+    "concepts": [
+      "recyclable"
+    ],
+    "detail": {
+      "glass": [
+        "recyclable",
+        2.4789364828014966
+      ],
+      "metal": [
+        "recyclable",
+        2.825459055276211
+      ],
+      "paper": [
+        "recyclable",
+        2.117273997351725
+      ],
+      "cardboard": [
+        "recyclable",
+        2.6584049706130446
+      ],
+      "plastic": [
+        "recyclable",
+        2.278915348908141
+      ]
+    },
+    "score": 1.1059818551187715
+  },
+  "gold,copper,silver,lead,brass,bronze,iron,tin,mercury": {
+    "concepts": [
+      "metal"
+    ],
+    "detail": {
+      "gold": [
+        "metal",
+        3.186478893474916
+      ],
+      "copper": [
+        "metal",
+        2.176447383279915
+      ],
+      "silver": [
+        "metal",
+        3.203628561955269
+      ],
+      "lead": [
+        "metal",
+        3.155901408115917
+      ],
+      "brass": [
+        "metal",
+        3.949006262651353
+      ],
+      "bronze": [
+        "metal",
+        4.8292406960782674
+      ],
+      "iron": [
+        "metal",
+        2.953233750844051
+      ],
+      "tin": [
+        "metal",
+        4.1664870609655145
+      ],
+      "mercury": [
+        "metal",
+        3.930685938690185
+      ]
+    },
+    "score": 1.0173424816471477
+  },
+  "golfer,swimmer,wrestler,gymnast": {
+    "concepts": [
+      "athlete"
+    ],
+    "detail": {
+      "golfer": [
+        "athlete",
+        4.790328624117246
+      ],
+      "swimmer": [
+        "athlete",
+        4.069168407329626
+      ],
+      "wrestler": [
+        "athlete",
+        4.415635174675835
+      ],
+      "gymnast": [
+        "athlete",
+        4.326023015986148
+      ]
+    },
+    "score": 1.4995424694558341
+  },
+  "gospel,folk,blues": {
+    "concepts": [
+      "music"
+    ],
+    "detail": {
+      "gospel": [
+        "music",
+        4.894517537758934
+      ],
+      "folk": [
+        "music",
+        5.333884197542779
+      ],
+      "blues": [
+        "music",
+        6.136230670067716
+      ]
+    },
+    "score": 1.7742811207908022
+  },
+  "grails,rails,wicket": {
+    "concepts": [
+      "framework"
+    ],
+    "detail": {
+      "grails": [
+        "framework",
+        6.7687486068741265
+      ],
+      "rails": [
+        "framework",
+        4.976989137646072
+      ],
+      "wicket": [
+        "framework",
+        7.579678823090456
+      ]
+    },
+    "score": 2.0846037932731196
+  },
+  "pasture,meadow,woodland": {
+    "concepts": [
+      "habitat"
+    ],
+    "detail": {
+      "pasture": [
+        "habitat",
+        5.078196585806133
+      ],
+      "meadow": [
+        "habitat",
+        4.933014575961635
+      ],
+      "woodland": [
+        "habitat",
+        3.744018225825256
+      ]
+    },
+    "score": 1.6845869870512855
+  },
+  "patchwork,knitting,sewing,embroidery,crochet,quilting": {
+    "concepts": [
+      "handwork"
+    ],
+    "detail": {
+      "patchwork": [
+        "handwork",
+        4.283586561860629
+      ],
+      "knitting": [
+        "handwork",
+        1.5427465379354282
+      ],
+      "sewing": [
+        "handwork",
+        2.268683541318364
+      ],
+      "embroidery": [
+        "handwork",
+        3.8781214537524646
+      ],
+      "crochet": [
+        "handwork",
+        4.976733742420574
+      ],
+      "quilting": [
+        "handwork",
+        4.283586561860629
+      ]
+    },
+    "score": 1.33332868324085
+  },
+  "patio,driveway,balcony,deck,porch,walkway": {
+    "concepts": [
+      "outdoor space"
+    ],
+    "detail": {
+      "patio": [
+        "outdoor space",
+        2.45022109180011
+      ],
+      "driveway": [
+        "outdoor space",
+        5.253581472706645
+      ],
+      "balcony": [
+        "outdoor space",
+        3.0845277723371223
+      ],
+      "deck": [
+        "outdoor space",
+        2.3771959567852203
+      ],
+      "porch": [
+        "outdoor space",
+        3.6954368546600955
+      ],
+      "walkway": [
+        "outdoor space",
+        4.848116364598481
+      ]
+    },
+    "score": 1.5530221437342466
+  },
+  "pen,pencil,marker,mug,crayon": {
+    "concepts": [
+      "stationery"
+    ],
+    "detail": {
+      "pen": [
+        "stationery",
+        2.3617739643843763
+      ],
+      "pencil": [
+        "stationery",
+        2.6253584852570966
+      ],
+      "marker": [
+        "stationery",
+        4.57126863431241
+      ],
+      "mug": [
+        "SELF",
+        10.097690936926828
+      ],
+      "crayon": [
+        "stationery",
+        4.203543854187092
+      ]
+    },
+    "score": 1.5368038494639684
+  },
+  "pendant,ring,necklace,bracelet,earring": {
+    "concepts": [
+      "jewelry"
+    ],
+    "detail": {
+      "pendant": [
+        "jewelry",
+        4.3556398795006865
+      ],
+      "ring": [
+        "jewelry",
+        2.255579050618115
+      ],
+      "necklace": [
+        "jewelry",
+        2.131016327976353
+      ],
+      "bracelet": [
+        "jewelry",
+        2.040632266508084
+      ],
+      "earring": [
+        "jewelry",
+        2.7715197750508764
+      ]
+    },
+    "score": 1.0550080741201477
+  },
+  "medal,plaque,trophy": {
+    "concepts": [
+      "award"
+    ],
+    "detail": {
+      "medal": [
+        "award",
+        5.944851359430846
+      ],
+      "plaque": [
+        "award",
+        5.456004642383631
+      ],
+      "trophy": [
+        "award",
+        5.284856386187801
+      ]
+    },
+    "score": 1.8500357197183221
+  },
+  "medicine,law,engineering": {
+    "concepts": [
+      "profession"
+    ],
+    "detail": {
+      "medicine": [
+        "profession",
+        2.411416629144751
+      ],
+      "law": [
+        "profession",
+        2.501593968381187
+      ],
+      "engineering": [
+        "profession",
+        3.4611725262848827
+      ]
+    },
+    "score": 1.278429404692072
+  },
+  "meeting,conference,workshop": {
+    "concepts": [
+      "event"
+    ],
+    "detail": {
+      "meeting": [
+        "event",
+        6.2959258414052695
+      ],
+      "conference": [
+        "event",
+        5.33336291769477
+      ],
+      "workshop": [
+        "event",
+        5.857506061722471
+      ]
+    },
+    "score": 1.7141388866321365
+  },
+  "eye,forehead,nose,ear,lip,mouth,cheek": {
+    "concepts": [
+      "facial feature"
+    ],
+    "detail": {
+      "eye": [
+        "facial feature",
+        1.6101649208267177
+      ],
+      "forehead": [
+        "facial feature",
+        5.212032997951024
+      ],
+      "nose": [
+        "facial feature",
+        1.8727110200069563
+      ],
+      "ear": [
+        "facial feature",
+        3.968839480471807
+      ],
+      "lip": [
+        "facial feature",
+        3.3249633489186445
+      ],
+      "mouth": [
+        "facial feature",
+        2.344134095906918
+      ],
+      "cheek": [
+        "facial feature",
+        4.624246333048905
+      ]
+    },
+    "score": 1.3293252422528443
+  },
+  "face,foot,hand": {
+    "concepts": [
+      "extremity"
+    ],
+    "detail": {
+      "face": [
+        "extremity",
+        5.221031272587963
+      ],
+      "foot": [
+        "extremity",
+        2.0534487421073124
+      ],
+      "hand": [
+        "extremity",
+        2.0122057835732634
+      ]
+    },
+    "score": 1.524401505956708
+  },
+  "pronunciation,fluency,imagination,insight,reasoning,vocabulary,intuition,comprehension": {
+    "concepts": [
+      "skill"
+    ],
+    "detail": {
+      "pronunciation": [
+        "skill",
+        7.642763913637
+      ],
+      "fluency": [
+        "skill",
+        7.930445986088781
+      ],
+      "imagination": [
+        "skill",
+        7.622144626434264
+      ],
+      "insight": [
+        "skill",
+        8.874907594929633
+      ],
+      "reasoning": [
+        "skill",
+        6.685651187242589
+      ],
+      "vocabulary": [
+        "skill",
+        6.483527003152456
+      ],
+      "intuition": [
+        "skill",
+        9.316740347208672
+      ],
+      "comprehension": [
+        "skill",
+        7.324310182518465
+      ]
+    },
+    "score": 1.8889148233582245
+  },
+  "pulpit,lectern,pew": {
+    "concepts": [
+      "furnishing"
+    ],
+    "detail": {
+      "pulpit": [
+        "furnishing",
+        6.23519473203058
+      ],
+      "lectern": [
+        "furnishing",
+        7.151485463904735
+      ],
+      "pew": [
+        "furnishing",
+        5.542047551470635
+      ]
+    },
+    "score": 2.117946588523533
+  },
+  "punishment,recognition,reward": {
+    "concepts": [
+      "motivator"
+    ],
+    "detail": {
+      "punishment": [
+        "SELF",
+        10.134608368597542
+      ],
+      "recognition": [
+        "motivator",
+        2.651227865235514
+      ],
+      "reward": [
+        "motivator",
+        4.4148164574968725
+      ]
+    },
+    "score": 2.08636026643331
+  },
+  "thunderstorm,lightning,frost,hail": {
+    "concepts": [
+      "weather"
+    ],
+    "detail": {
+      "thunderstorm": [
+        "weather",
+        4.053999033694591
+      ],
+      "lightning": [
+        "weather",
+        3.8914801041968166
+      ],
+      "frost": [
+        "weather",
+        6.039914517363604
+      ],
+      "hail": [
+        "weather",
+        3.751718161821658
+      ]
+    },
+    "score": 1.4779261338380238
+  },
+  "tiling,plumbing,carpentry": {
+    "concepts": [
+      "trade"
+    ],
+    "detail": {
+      "tiling": [
+        "trade",
+        5.428468051013081
+      ],
+      "plumbing": [
+        "trade",
+        3.1460856653365554
+      ],
+      "carpentry": [
+        "trade",
+        3.5363606079507446
+      ]
+    },
+    "score": 1.566878424031205
+  },
+  "title,author,description": {
+    "concepts": [
+      "metadata"
+    ],
+    "detail": {
+      "title": [
+        "metadata",
+        3.0162786718030152
+      ],
+      "author": [
+        "metadata",
+        3.7739643735005317
+      ],
+      "description": [
+        "metadata",
+        3.822754537669964
+      ]
+    },
+    "score": 1.5331600590578072
+  },
+  "today,tomorrow,yesterday": {
+    "concepts": [
+      "adverb"
+    ],
+    "detail": {
+      "today": [
+        "adverb",
+        2.9338568698359033
+      ],
+      "tomorrow": [
+        "adverb",
+        3.8501476017100584
+      ],
+      "yesterday": [
+        "adverb",
+        2.2407096892759584
+      ]
+    },
+    "score": 1.5621522060960351
+  },
+  "tomb,ruin,grave": {
+    "concepts": [
+      "void"
+    ],
+    "detail": {
+      "tomb": [
+        "void",
+        4.04305126783455
+      ],
+      "ruin": [
+        "SELF",
+        11.586053421215457
+      ],
+      "grave": [
+        "void",
+        2.743768283704289
+      ]
+    },
+    "score": 2.1116860423822104
+  },
+  "flavor,fragrance,aroma": {
+    "concepts": [
+      "excipient"
+    ],
+    "detail": {
+      "flavor": [
+        "excipient",
+        3.836804707128256
+      ],
+      "fragrance": [
+        "excipient",
+        6.001768422246254
+      ],
+      "aroma": [
+        "excipient",
+        6.561384210181677
+      ]
+    },
+    "score": 1.9180910115932241
+  },
+  "floor,gate,ceiling,fence,wall": {
+    "concepts": [
+      "partition"
+    ],
+    "detail": {
+      "floor": [
+        "partition",
+        4.90527477843843
+      ],
+      "gate": [
+        "partition",
+        5.598421958998375
+      ],
+      "ceiling": [
+        "partition",
+        5.598421958998375
+      ],
+      "fence": [
+        "partition",
+        3.9889840465642745
+      ],
+      "wall": [
+        "partition",
+        3.6525118099430616
+      ]
+    },
+    "score": 1.5674749063989442
+  },
+  "flyer,booklet,banner,postcard,poster,brochure,pamphlet": {
+    "concepts": [
+      "marketing material"
+    ],
+    "detail": {
+      "flyer": [
+        "marketing material",
+        2.6417297538596833
+      ],
+      "booklet": [
+        "marketing material",
+        5.657841189750327
+      ],
+      "banner": [
+        "marketing material",
+        4.048403277316226
+      ],
+      "postcard": [
+        "marketing material",
+        3.980195027289693
+      ],
+      "poster": [
+        "marketing material",
+        3.163178365016962
+      ],
+      "brochure": [
+        "marketing material",
+        1.9558132627928841
+      ],
+      "pamphlet": [
+        "marketing material",
+        5.195217667802214
+      ]
+    },
+    "score": 1.4082812186230862
+  },
+  "food,furniture,clothing,appliance": {
+    "concepts": [
+      "donation"
+    ],
+    "detail": {
+      "food": [
+        "donation",
+        3.4943642913360033
+      ],
+      "furniture": [
+        "donation",
+        4.114180198810399
+      ],
+      "clothing": [
+        "donation",
+        3.597312260588446
+      ],
+      "appliance": [
+        "donation",
+        5.764861069778549
+      ]
+    },
+    "score": 1.495224503578658
+  },
+  "vegetation,elevation,aspect,climate,topography": {
+    "concepts": [
+      "site characteristic"
+    ],
+    "detail": {
+      "vegetation": [
+        "site characteristic",
+        4.346752668313616
+      ],
+      "elevation": [
+        "site characteristic",
+        4.346752668313616
+      ],
+      "aspect": [
+        "site characteristic",
+        3.3947438538373818
+      ],
+      "climate": [
+        "site characteristic",
+        4.604581777615716
+      ],
+      "topography": [
+        "site characteristic",
+        3.0433459669994933
+      ]
+    },
+    "score": 1.698505612797398
+  },
+  "veneer,filling,crown,denture,inlay": {
+    "concepts": [
+      "restoration"
+    ],
+    "detail": {
+      "veneer": [
+        "restoration",
+        2.998757994470528
+      ],
+      "filling": [
+        "restoration",
+        2.603445257826382
+      ],
+      "crown": [
+        "restoration",
+        1.4390197505887001
+      ],
+      "denture": [
+        "restoration",
+        3.9303161984754715
+      ],
+      "inlay": [
+        "restoration",
+        3.404223102578692
+      ]
+    },
+    "score": 1.1811932349860255
+  },
+  "veneers,crowns,bridges": {
+    "concepts": [
+      "service"
+    ],
+    "detail": {
+      "veneers": [
+        "service",
+        10.027009643818758
+      ],
+      "crowns": [
+        "service",
+        9.56270403568766
+      ],
+      "bridges": [
+        "service",
+        9.7507562671906
+      ]
+    },
+    "score": 2.472700800415208
+  },
+  "perch,sunfish,pike": {
+    "concepts": [
+      "fish"
+    ],
+    "detail": {
+      "perch": [
+        "fish",
+        4.887850142133825
+      ],
+      "sunfish": [
+        "fish",
+        5.77752722548989
+      ],
+      "pike": [
+        "fish",
+        5.089443346886491
+      ]
+    },
+    "score": 1.7040752445147755
+  },
+  "pheasant,grouse,quail,partridge,ptarmigan": {
+    "concepts": [
+      "game bird"
+    ],
+    "detail": {
+      "pheasant": [
+        "game bird",
+        1.950757468289638
+      ],
+      "grouse": [
+        "game bird",
+        2.8636526111626552
+      ],
+      "quail": [
+        "game bird",
+        2.4413803847381095
+      ],
+      "partridge": [
+        "game bird",
+        3.0910424533583156
+      ],
+      "ptarmigan": [
+        "game bird",
+        4.743965477732155
+      ]
+    },
+    "score": 1.5442597819361463
+  },
+  "philosopher,poet,novelist,historian,anthropologist": {
+    "concepts": [
+      "intellectual"
+    ],
+    "detail": {
+      "philosopher": [
+        "intellectual",
+        6.582948073891427
+      ],
+      "poet": [
+        "intellectual",
+        6.988413181999592
+      ],
+      "novelist": [
+        "intellectual",
+        6.988413181999592
+      ],
+      "historian": [
+        "intellectual",
+        7.681560362559537
+      ],
+      "anthropologist": [
+        "intellectual",
+        7.681560362559537
+      ]
+    },
+    "score": 2.0314638336634094
+  },
+  "photogravure,intaglio,lithograph,woodcut,letterpress,mezzotint": {
+    "concepts": [
+      "printmaking technique"
+    ],
+    "detail": {
+      "photogravure": [
+        "printmaking technique",
+        5.2832037287379885
+      ],
+      "intaglio": [
+        "printmaking technique",
+        2.885308455939618
+      ],
+      "lithograph": [
+        "printmaking technique",
+        4.590056548178043
+      ],
+      "woodcut": [
+        "printmaking technique",
+        3.4914442595099335
+      ],
+      "letterpress": [
+        "printmaking technique",
+        5.2832037287379885
+      ],
+      "mezzotint": [
+        "SELF",
+        14.45268889921279
+      ]
+    },
+    "score": 2.1128661426914217
+  },
+  "phrase,sentence,paragraph": {
+    "concepts": [
+      "constituent"
+    ],
+    "detail": {
+      "phrase": [
+        "constituent",
+        5.923129354040001
+      ],
+      "sentence": [
+        "constituent",
+        5.977196575310277
+      ],
+      "paragraph": [
+        "constituent",
+        6.302618975744905
+      ]
+    },
+    "score": 2.020084722415856
+  },
+  "ritual,myth,legend,ceremony,folklore": {
+    "concepts": [
+      "oral tradition"
+    ],
+    "detail": {
+      "ritual": [
+        "oral tradition",
+        5.0369526024136295
+      ],
+      "myth": [
+        "oral tradition",
+        3.427514689979529
+      ],
+      "legend": [
+        "oral tradition",
+        3.6506582412937383
+      ],
+      "ceremony": [
+        "oral tradition",
+        3.6506582412937383
+      ],
+      "folklore": [
+        "oral tradition",
+        3.9383403137455195
+      ]
+    },
+    "score": 1.82356166053233
+  },
+  "robe,slipper,bathrobe,sandal": {
+    "concepts": [
+      "clothe"
+    ],
+    "detail": {
+      "robe": [
+        "clothe",
+        4.952535260601046
+      ],
+      "slipper": [
+        "clothe",
+        6.967438281143311
+      ],
+      "bathrobe": [
+        "clothe",
+        6.967438281143311
+      ],
+      "sandal": [
+        "clothe",
+        6.051147549269156
+      ]
+    },
+    "score": 1.870725050366031
+  },
+  "romance,comedy,fantasy,horror,tragedy": {
+    "concepts": [
+      "genre"
+    ],
+    "detail": {
+      "romance": [
+        "genre",
+        4.269591489434962
+      ],
+      "comedy": [
+        "genre",
+        4.52253061344287
+      ],
+      "fantasy": [
+        "genre",
+        4.300363148101716
+      ],
+      "horror": [
+        "genre",
+        4.390219477223577
+      ],
+      "tragedy": [
+        "genre",
+        6.319180067965117
+      ]
+    },
+    "score": 1.460644114865395
+  },
+  "rule,procedure,policy,regulation": {
+    "concepts": [],
+    "detail": {
+      "rule": [
+        "SELF",
+        8.712467354365184
+      ],
+      "procedure": [
+        "SELF",
+        7.140862075273312
+      ],
+      "policy": [
+        "SELF",
+        7.717991550545792
+      ],
+      "regulation": [
+        "SELF",
+        8.438376258021446
+      ]
+    },
+    "score": 12.803878895282294
+  },
+  "idealism,realism,positivism,romanticism": {
+    "concepts": [
+      "philosophy"
+    ],
+    "detail": {
+      "idealism": [
+        "philosophy",
+        4.5281091398516295
+      ],
+      "realism": [
+        "philosophy",
+        4.5281091398516295
+      ],
+      "positivism": [
+        "philosophy",
+        4.7104306966455844
+      ],
+      "romanticism": [
+        "SELF",
+        12.575771621644428
+      ]
+    },
+    "score": 1.9784827004496022
+  },
+  "inch,mile,pound": {
+    "concepts": [
+      "unit"
+    ],
+    "detail": {
+      "inch": [
+        "unit",
+        5.594492680858485
+      ],
+      "mile": [
+        "unit",
+        5.765118197889248
+      ],
+      "pound": [
+        "unit",
+        6.194113803407607
+      ]
+    },
+    "score": 1.881107563564886
+  },
+  "nets,suns,clippers": {
+    "concepts": [
+      "team"
+    ],
+    "detail": {
+      "nets": [
+        "team",
+        7.491017836637634
+      ],
+      "suns": [
+        "team",
+        8.317696409822101
+      ],
+      "clippers": [
+        "team",
+        7.4303932148211995
+      ]
+    },
+    "score": 2.257897360380929
+  },
+  "north,south,east": {
+    "concepts": [
+      "direction"
+    ],
+    "detail": {
+      "north": [
+        "direction",
+        3.691554444563239
+      ],
+      "south": [
+        "direction",
+        4.133387196842278
+      ],
+      "east": [
+        "direction",
+        3.9327165013801273
+      ]
+    },
+    "score": 1.58731577538901
+  },
+  "swamp,marsh,bog": {
+    "concepts": [
+      "wetland"
+    ],
+    "detail": {
+      "swamp": [
+        "wetland",
+        2.3853059332148074
+      ],
+      "marsh": [
+        "wetland",
+        2.1825523376036466
+      ],
+      "bog": [
+        "wetland",
+        2.7008967937836648
+      ]
+    },
+    "score": 1.2626719134449516
+  },
+  "sweater,shirt,jacket,coat": {
+    "concepts": [
+      "clothing"
+    ],
+    "detail": {
+      "sweater": [
+        "clothing",
+        4.294266991611983
+      ],
+      "shirt": [
+        "clothing",
+        3.221297133557211
+      ],
+      "jacket": [
+        "clothing",
+        3.6074690387306965
+      ],
+      "coat": [
+        "clothing",
+        3.2792197812899153
+      ]
+    },
+    "score": 1.2904854480459453
+  },
+  "sword,spear,dagger": {
+    "concepts": [
+      "arm"
+    ],
+    "detail": {
+      "sword": [
+        "arm",
+        3.520460802488973
+      ],
+      "spear": [
+        "arm",
+        4.213607983048918
+      ],
+      "dagger": [
+        "arm",
+        5.1298987149230735
+      ]
+    },
+    "score": 1.704873539321042
+  },
+  "symphony,sonata,concerto": {
+    "concepts": [
+      "genre"
+    ],
+    "detail": {
+      "symphony": [
+        "genre",
+        6.319180067965117
+      ],
+      "sonata": [
+        "genre",
+        7.648316015245059
+      ],
+      "concerto": [
+        "genre",
+        7.360633942793278
+      ]
+    },
+    "score": 2.1564663354661056
+  },
+  "tahiti,fiji,bermuda,bahamas,barbados,jamaica,mauritius": {
+    "concepts": [
+      "island"
+    ],
+    "detail": {
+      "tahiti": [
+        "island",
+        5.239154441889068
+      ],
+      "fiji": [
+        "island",
+        5.328101927905564
+      ],
+      "bermuda": [
+        "island",
+        5.953807827669977
+      ],
+      "bahamas": [
+        "island",
+        5.119010130047005
+      ],
+      "barbados": [
+        "island",
+        4.758568703312796
+      ],
+      "jamaica": [
+        "island",
+        4.126457413339219
+      ],
+      "mauritius": [
+        "island",
+        6.093569770045136
+      ]
+    },
+    "score": 1.4757839154052677
+  },
+  "repentance,confession,confirmation,communion,baptism": {
+    "concepts": [
+      "sacrament"
+    ],
+    "detail": {
+      "repentance": [
+        "sacrament",
+        5.564520407322694
+      ],
+      "confession": [
+        "sacrament",
+        2.890371757896165
+      ],
+      "confirmation": [
+        "sacrament",
+        2.5199979695992702
+      ],
+      "communion": [
+        "sacrament",
+        2.4734779539643776
+      ],
+      "baptism": [
+        "sacrament",
+        1.5127354595193887
+      ]
+    },
+    "score": 1.240394770707644
+  },
+  "reptile,insect,bird,mammal": {
+    "concepts": [
+      "vertebrate"
+    ],
+    "detail": {
+      "reptile": [
+        "vertebrate",
+        2.990677502892367
+      ],
+      "insect": [
+        "vertebrate",
+        7.364335887895732
+      ],
+      "bird": [
+        "vertebrate",
+        2.425077256641704
+      ],
+      "mammal": [
+        "vertebrate",
+        2.824593507230096
+      ]
+    },
+    "score": 1.4485200366752844
+  },
+  "reservoir,ditch,canal,dam": {
+    "concepts": [
+      "water"
+    ],
+    "detail": {
+      "reservoir": [
+        "water",
+        4.665750411702497
+      ],
+      "ditch": [
+        "water",
+        5.640310051700627
+      ],
+      "canal": [
+        "water",
+        4.829379835484299
+      ],
+      "dam": [
+        "water",
+        6.690132176199305
+      ]
+    },
+    "score": 1.6075714291653191
+  },
+  "sugar,salt,flour": {
+    "concepts": [
+      "staple"
+    ],
+    "detail": {
+      "sugar": [
+        "staple",
+        3.530280489524492
+      ],
+      "salt": [
+        "staple",
+        4.34900497746764
+      ],
+      "flour": [
+        "staple",
+        3.4758864174586934
+      ]
+    },
+    "score": 1.5195711088900379
+  },
+  "suite,chalet,cottage,villa": {
+    "concepts": [
+      "dwelling"
+    ],
+    "detail": {
+      "suite": [
+        "dwelling",
+        6.3784261836515865
+      ],
+      "chalet": [
+        "dwelling",
+        3.739368854036328
+      ],
+      "cottage": [
+        "dwelling",
+        3.545212839595371
+      ],
+      "villa": [
+        "dwelling",
+        5.685279003091641
+      ]
+    },
+    "score": 1.7087908601615147
+  },
+  "sum,count,average": {
+    "concepts": [
+      "aggregation"
+    ],
+    "detail": {
+      "sum": [
+        "aggregation",
+        1.9908054689632042
+      ],
+      "count": [
+        "aggregation",
+        2.3785709999719677
+      ],
+      "average": [
+        "aggregation",
+        3.9367156180185177
+      ]
+    },
+    "score": 1.4409144728201912
+  },
+  "sun,planet,moon": {
+    "concepts": [
+      "object"
+    ],
+    "detail": {
+      "sun": [
+        "object",
+        6.614060333344855
+      ],
+      "planet": [
+        "object",
+        6.2809158868163175
+      ],
+      "moon": [
+        "object",
+        6.374006309882329
+      ]
+    },
+    "score": 1.912102702120615
+  },
+  "supply,equipment,demand": {
+    "concepts": [],
+    "detail": {
+      "supply": [
+        "SELF",
+        7.694620204900045
+      ],
+      "equipment": [
+        "SELF",
+        6.291415381468137
+      ],
+      "demand": [
+        "SELF",
+        9.48999968118414
+      ]
+    },
+    "score": 9.390414107020929
+  },
+  "tamil,hindi,urdu": {
+    "concepts": [
+      "language"
+    ],
+    "detail": {
+      "tamil": [
+        "language",
+        5.534586520232676
+      ],
+      "hindi": [
+        "language",
+        4.489573922787521
+      ],
+      "urdu": [
+        "language",
+        5.209725444539141
+      ]
+    },
+    "score": 1.6735791493311498
+  },
+  "taste,smell,sight,appearance,odor,odour,touch": {
+    "concepts": [
+      "sense"
+    ],
+    "detail": {
+      "taste": [
+        "sense",
+        2.4064301752482082
+      ],
+      "smell": [
+        "sense",
+        1.9169741200756572
+      ],
+      "sight": [
+        "sense",
+        2.3347741863417726
+      ],
+      "appearance": [
+        "SELF",
+        9.849966150201178
+      ],
+      "odor": [
+        "sense",
+        8.264363329731667
+      ],
+      "odour": [
+        "sense",
+        8.264363329731667
+      ],
+      "touch": [
+        "sense",
+        2.1595700973166823
+      ]
+    },
+    "score": 1.4635176825661242
+  },
+  "tea,coffee,chocolate": {
+    "concepts": [
+      "caffeine"
+    ],
+    "detail": {
+      "tea": [
+        "caffeine",
+        1.5102312623506524
+      ],
+      "coffee": [
+        "caffeine",
+        1.0077738882551783
+      ],
+      "chocolate": [
+        "caffeine",
+        3.589672804030488
+      ]
+    },
+    "score": 1.1941709089922823
+  },
+  "teenager,adolescent,teen": {
+    "concepts": [
+      "child"
+    ],
+    "detail": {
+      "teenager": [
+        "child",
+        4.939466143186709
+      ],
+      "adolescent": [
+        "child",
+        5.510011001654322
+      ],
+      "teen": [
+        "child",
+        4.491441420659749
+      ]
+    },
+    "score": 1.7407795022509793
+  },
+  "tennessee,kentucky,kansas": {
+    "concepts": [
+      "state"
+    ],
+    "detail": {
+      "tennessee": [
+        "state",
+        4.8775935774792325
+      ],
+      "kentucky": [
+        "state",
+        4.896824939407121
+      ],
+      "kansas": [
+        "state",
+        4.85872509317485
+      ]
+    },
+    "score": 1.55494041758919
+  },
+  "dolomite,slate,marble,sandstone,granite,limestone,travertine": {
+    "concepts": [
+      "rock"
+    ],
+    "detail": {
+      "dolomite": [
+        "rock",
+        4.455357907759431
+      ],
+      "slate": [
+        "rock",
+        3.9401938823948424
+      ],
+      "marble": [
+        "rock",
+        3.5304091131421615
+      ],
+      "sandstone": [
+        "rock",
+        2.837261932582216
+      ],
+      "granite": [
+        "rock",
+        2.428927382046099
+      ],
+      "limestone": [
+        "rock",
+        2.4090685733964956
+      ],
+      "travertine": [
+        "rock",
+        8.283999304248526
+      ]
+    },
+    "score": 1.2121051216639516
+  },
+  "dolphin,shark,whale": {
+    "concepts": [
+      "animal"
+    ],
+    "detail": {
+      "dolphin": [
+        "animal",
+        4.998109748656532
+      ],
+      "shark": [
+        "animal",
+        5.871701054856858
+      ],
+      "whale": [
+        "animal",
+        5.44817916300145
+      ]
+    },
+    "score": 1.7024660771527438
+  },
+  "donkey,camel,mule,llama": {
+    "concepts": [
+      "livestock"
+    ],
+    "detail": {
+      "donkey": [
+        "livestock",
+        4.48346553641958
+      ],
+      "camel": [
+        "livestock",
+        4.48346553641958
+      ],
+      "mule": [
+        "livestock",
+        5.7039676426967265
+      ],
+      "llama": [
+        "livestock",
+        5.7039676426967265
+      ]
+    },
+    "score": 1.657552072033786
+  },
+  "drawer,shelf,wardrobe,cupboard": {
+    "concepts": [
+      "furniture"
+    ],
+    "detail": {
+      "drawer": [
+        "furniture",
+        5.226736562785052
+      ],
+      "shelf": [
+        "furniture",
+        4.469873567839
+      ],
+      "wardrobe": [
+        "furniture",
+        4.421671466021122
+      ],
+      "cupboard": [
+        "furniture",
+        4.993121711603547
+      ]
+    },
+    "score": 1.5270885340105311
+  },
+  "foyer,corridor,lobby,hallway,entryway": {
+    "concepts": [
+      "space"
+    ],
+    "detail": {
+      "foyer": [
+        "space",
+        6.834108738813838
+      ],
+      "corridor": [
+        "space",
+        5.376862641721663
+      ],
+      "lobby": [
+        "space",
+        5.363256989665885
+      ],
+      "hallway": [
+        "space",
+        5.260602835605802
+      ],
+      "entryway": [
+        "space",
+        6.834108738813838
+      ]
+    },
+    "score": 1.6900890375932827
+  },
+  "french,spanish,dutch,russian,greek,portuguese,italian": {
+    "concepts": [
+      "language"
+    ],
+    "detail": {
+      "french": [
+        "language",
+        2.728475105954251
+      ],
+      "spanish": [
+        "language",
+        2.6822465080687614
+      ],
+      "dutch": [
+        "language",
+        4.339746199470013
+      ],
+      "russian": [
+        "language",
+        3.5332430294760435
+      ],
+      "greek": [
+        "language",
+        4.509305504650116
+      ],
+      "portuguese": [
+        "language",
+        4.447828731099115
+      ],
+      "italian": [
+        "language",
+        3.536661836224829
+      ]
+    },
+    "score": 1.118509348263477
+  },
+  "oleander,bougainvillea,hibiscus": {
+    "concepts": [
+      "tropicals"
+    ],
+    "detail": {
+      "oleander": [
+        "tropicals",
+        4.77912349311153
+      ],
+      "bougainvillea": [
+        "tropicals",
+        2.987364023883474
+      ],
+      "hibiscus": [
+        "tropicals",
+        2.381228220313159
+      ]
+    },
+    "score": 1.7672673708782582
+  },
+  "olympus,canon,fuji": {
+    "concepts": [
+      "camera"
+    ],
+    "detail": {
+      "olympus": [
+        "camera",
+        5.4385906870984915
+      ],
+      "canon": [
+        "camera",
+        4.775296469688228
+      ],
+      "fuji": [
+        "camera",
+        5.4385906870984915
+      ]
+    },
+    "score": 1.7760007617200197
+  },
+  "orchestra,band,choir,chorus": {
+    "concepts": [
+      "elective"
+    ],
+    "detail": {
+      "orchestra": [
+        "elective",
+        5.877385580410275
+      ],
+      "band": [
+        "elective",
+        4.065006823979484
+      ],
+      "choir": [
+        "elective",
+        4.555629740427955
+      ],
+      "chorus": [
+        "elective",
+        4.589531292103636
+      ]
+    },
+    "score": 1.651243914280908
+  },
+  "cone,sphere,pyramid,cylinder,cube": {
+    "concepts": [
+      "shape"
+    ],
+    "detail": {
+      "cone": [
+        "shape",
+        4.959206292138923
+      ],
+      "sphere": [
+        "shape",
+        4.395651940624571
+      ],
+      "pyramid": [
+        "shape",
+        5.305673059485131
+      ],
+      "cylinder": [
+        "shape",
+        4.392512220619904
+      ],
+      "cube": [
+        "shape",
+        4.5667163428938915
+      ]
+    },
+    "score": 1.4213996400602917
+  },
+  "confusion,weakness,agitation,restlessness": {
+    "concepts": [
+      "symptom"
+    ],
+    "detail": {
+      "confusion": [
+        "symptom",
+        5.3296071867891595
+      ],
+      "weakness": [
+        "symptom",
+        4.6381718468754904
+      ],
+      "agitation": [
+        "symptom",
+        5.835125747303043
+      ],
+      "restlessness": [
+        "symptom",
+        6.242483003563245
+      ]
+    },
+    "score": 1.5891908500675869
+  },
+  "regiment,battalion,brigade,squadron": {
+    "concepts": [
+      "military unit"
+    ],
+    "detail": {
+      "regiment": [
+        "military unit",
+        4.516338972281476
+      ],
+      "battalion": [
+        "military unit",
+        4.110873864173311
+      ],
+      "brigade": [
+        "military unit",
+        4.516338972281476
+      ],
+      "squadron": [
+        "military unit",
+        4.110873864173311
+      ]
+    },
+    "score": 2.1140440548033346
+  },
+  "fungi,bacteria,algae": {
+    "concepts": [
+      "kingdom"
+    ],
+    "detail": {
+      "fungi": [
+        "kingdom",
+        4.925803358579558
+      ],
+      "bacteria": [
+        "kingdom",
+        4.925803358579558
+      ],
+      "algae": [
+        "SELF",
+        13.577220161858891
+      ]
+    },
+    "score": 2.5062040198055717
+  },
+  "garment,apparel,footwear": {
+    "concepts": [
+      "outerwear"
+    ],
+    "detail": {
+      "garment": [
+        "outerwear",
+        5.476463551931511
+      ],
+      "apparel": [
+        "outerwear",
+        1.8929446134754007
+      ],
+      "footwear": [
+        "outerwear",
+        6.0063531596017325
+      ]
+    },
+    "score": 1.866564795301952
+  },
+  "gazebo,arbor,pergola,trellis": {
+    "concepts": [
+      "garden structure"
+    ],
+    "detail": {
+      "gazebo": [
+        "garden structure",
+        2.288979440938267
+      ],
+      "arbor": [
+        "garden structure",
+        2.498699971920336
+      ],
+      "pergola": [
+        "garden structure",
+        2.4033897921160112
+      ],
+      "trellis": [
+        "garden structure",
+        2.138697237888929
+      ]
+    },
+    "score": 1.6925831880253992
+  },
+  "gear,shaft,bearing": {
+    "concepts": [
+      "part"
+    ],
+    "detail": {
+      "gear": [
+        "part",
+        4.579612713532912
+      ],
+      "shaft": [
+        "part",
+        5.272759894092857
+      ],
+      "bearing": [
+        "part",
+        4.752631877664553
+      ]
+    },
+    "score": 1.6296340880909104
+  },
+  "georgian,victorian,colonial": {
+    "concepts": [
+      "style"
+    ],
+    "detail": {
+      "georgian": [
+        "style",
+        6.828272310458743
+      ],
+      "victorian": [
+        "style",
+        6.135125129898798
+      ],
+      "colonial": [
+        "style",
+        6.605128759144534
+      ]
+    },
+    "score": 2.005363856890732
+  },
+  "contrast,sharpness,brightness": {
+    "concepts": [
+      "slider"
+    ],
+    "detail": {
+      "contrast": [
+        "slider",
+        3.7612001156935624
+      ],
+      "sharpness": [
+        "slider",
+        4.1666652238017265
+      ],
+      "brightness": [
+        "slider",
+        4.859812404361672
+      ]
+    },
+    "score": 1.7566397117181618
+  },
+  "copy,cut,paste,bruise,wound": {
+    "concepts": [
+      "injury"
+    ],
+    "detail": {
+      "copy": [
+        "SELF",
+        10.16956221319379
+      ],
+      "cut": [
+        "injury",
+        3.5604240593008103
+      ],
+      "paste": [
+        "SELF",
+        10.277618102291225
+      ],
+      "bruise": [
+        "injury",
+        3.8438234699605904
+      ],
+      "wound": [
+        "injury",
+        5.920420059508195
+      ]
+    },
+    "score": 1.8558297557238002
+  },
+  "sofia,lima,santiago": {
+    "concepts": [
+      "city"
+    ],
+    "detail": {
+      "sofia": [
+        "city",
+        8.27449723149854
+      ],
+      "lima": [
+        "city",
+        7.143095120007439
+      ],
+      "santiago": [
+        "city",
+        7.39902849414464
+      ]
+    },
+    "score": 2.114157089926453
+  },
+  "sonnet,quatrain,ode,elegy,ballad,couplet,haiku": {
+    "concepts": [
+      "poetic form"
+    ],
+    "detail": {
+      "sonnet": [
+        "poetic form",
+        1.85745472849345
+      ],
+      "quatrain": [
+        "poetic form",
+        5.153291594497779
+      ],
+      "ode": [
+        "poetic form",
+        5.153291594497779
+      ],
+      "elegy": [
+        "poetic form",
+        5.153291594497779
+      ],
+      "ballad": [
+        "poetic form",
+        2.445241393395569
+      ],
+      "couplet": [
+        "poetic form",
+        5.153291594497779
+      ],
+      "haiku": [
+        "poetic form",
+        2.3200782504415627
+      ]
+    },
+    "score": 1.5903928735358395
+  },
+  "snake,lizard,turtle": {
+    "concepts": [
+      "reptile"
+    ],
+    "detail": {
+      "snake": [
+        "reptile",
+        1.9142638520515594
+      ],
+      "lizard": [
+        "reptile",
+        2.0735201359145177
+      ],
+      "turtle": [
+        "reptile",
+        2.429729855374052
+      ]
+    },
+    "score": 1.2198763684723055
+  },
+  "snow,rain,ice,fog": {
+    "concepts": [
+      "weather"
+    ],
+    "detail": {
+      "snow": [
+        "weather",
+        2.159824559038467
+      ],
+      "rain": [
+        "weather",
+        2.1080888846392782
+      ],
+      "ice": [
+        "weather",
+        3.3510956781892816
+      ],
+      "fog": [
+        "weather",
+        2.6339665329428508
+      ]
+    },
+    "score": 1.1037193257246842
+  },
+  "duet,quartet,trio,duo": {
+    "concepts": [
+      "ensemble"
+    ],
+    "detail": {
+      "duet": [
+        "ensemble",
+        7.102499355774649
+      ],
+      "quartet": [
+        "ensemble",
+        5.803216371644388
+      ],
+      "trio": [
+        "ensemble",
+        6.255201495387445
+      ],
+      "duo": [
+        "ensemble",
+        6.409352175214703
+      ]
+    },
+    "score": 1.9598278747676425
+  },
+  "eagle,falcon,hawk,owl": {
+    "concepts": [
+      "raptor"
+    ],
+    "detail": {
+      "eagle": [
+        "raptor",
+        2.624481168303553
+      ],
+      "falcon": [
+        "raptor",
+        3.9440841549247714
+      ],
+      "hawk": [
+        "raptor",
+        2.5182589550482457
+      ],
+      "owl": [
+        "raptor",
+        3.571408869639598
+      ]
+    },
+    "score": 1.3166504209932586
+  },
+  "easter,christmas,thanksgiving": {
+    "concepts": [
+      "holiday"
+    ],
+    "detail": {
+      "easter": [
+        "holiday",
+        2.5427262206768266
+      ],
+      "christmas": [
+        "holiday",
+        1.6210080670673064
+      ],
+      "thanksgiving": [
+        "holiday",
+        2.3674209058066666
+      ]
+    },
+    "score": 1.1824097625168464
+  },
+  "education,health,safety": {
+    "concepts": [
+      "issue"
+    ],
+    "detail": {
+      "education": [
+        "issue",
+        5.532319292981162
+      ],
+      "health": [
+        "issue",
+        5.605389860857649
+      ],
+      "safety": [
+        "issue",
+        5.613080649625621
+      ]
+    },
+    "score": 1.6153760423993107
+  },
+  "car,ship,bus,plane,truck,aircraft,airplane,train,tractor": {
+    "concepts": [
+      "transportation vehicle"
+    ],
+    "detail": {
+      "car": [
+        "transportation vehicle",
+        2.6280074934286737
+      ],
+      "ship": [
+        "transportation vehicle",
+        3.518980417318539
+      ],
+      "bus": [
+        "transportation vehicle",
+        2.2140316956526007
+      ],
+      "plane": [
+        "transportation vehicle",
+        3.6525118099430616
+      ],
+      "truck": [
+        "transportation vehicle",
+        2.924273309571846
+      ],
+      "aircraft": [
+        "transportation vehicle",
+        2.995732273553991
+      ],
+      "airplane": [
+        "transportation vehicle",
+        3.0726933146901194
+      ],
+      "train": [
+        "transportation vehicle",
+        2.3025850929940455
+      ],
+      "tractor": [
+        "transportation vehicle",
+        3.8066624897703196
+      ]
+    },
+    "score": 1.226612796971223
+  },
+  "carthage,alexandria,antioch": {
+    "concepts": [
+      "city"
+    ],
+    "detail": {
+      "carthage": [
+        "city",
+        8.352458772968252
+      ],
+      "alexandria": [
+        "city",
+        6.91995156869323
+      ],
+      "antioch": [
+        "city",
+        7.645888572076165
+      ]
+    },
+    "score": 2.1209356277989215
+  },
+  "case,charger,holster": {
+    "concepts": [
+      "accessory"
+    ],
+    "detail": {
+      "case": [
+        "accessory",
+        5.815842239281747
+      ],
+      "charger": [
+        "accessory",
+        5.70874410372538
+      ],
+      "holster": [
+        "accessory",
+        6.366081831588614
+      ]
+    },
+    "score": 1.8076227383203207
+  },
+  "cedar,spruce,fir,pine,hemlock": {
+    "concepts": [
+      "conifer"
+    ],
+    "detail": {
+      "cedar": [
+        "conifer",
+        4.4911301366105425
+      ],
+      "spruce": [
+        "conifer",
+        3.0640137809703964
+      ],
+      "fir": [
+        "conifer",
+        3.2543675094616153
+      ],
+      "pine": [
+        "conifer",
+        2.211017899468555
+      ],
+      "hemlock": [
+        "conifer",
+        3.411209980954585
+      ]
+    },
+    "score": 1.256610992796018
+  },
+  "spirea,lilac,forsythia,weigela": {
+    "concepts": [
+      "shrub"
+    ],
+    "detail": {
+      "spirea": [
+        "shrub",
+        5.046131129781096
+      ],
+      "lilac": [
+        "shrub",
+        4.31376323606787
+      ],
+      "forsythia": [
+        "shrub",
+        4.113967048750651
+      ],
+      "weigela": [
+        "shrub",
+        5.70005759718776
+      ]
+    },
+    "score": 1.5800883530318306
+  },
+  "square,line,triangle,circle,point,ellipse": {
+    "concepts": [
+      "shape"
+    ],
+    "detail": {
+      "square": [
+        "shape",
+        2.752207660205276
+      ],
+      "line": [
+        "shape",
+        5.05783689558055
+      ],
+      "triangle": [
+        "shape",
+        3.3972886323213203
+      ],
+      "circle": [
+        "shape",
+        2.986046500636234
+      ],
+      "point": [
+        "shape",
+        7.385114601164967
+      ],
+      "ellipse": [
+        "shape",
+        4.59702169238922
+      ]
+    },
+    "score": 1.2979285944102306
+  },
+  "neck,shoulder,head,wrist,elbow,knee,ankle": {
+    "concepts": [
+      "extremity"
+    ],
+    "detail": {
+      "neck": [
+        "extremity",
+        7.300472814267799
+      ],
+      "shoulder": [
+        "extremity",
+        3.933176984281325
+      ],
+      "head": [
+        "extremity",
+        5.103248236931579
+      ],
+      "wrist": [
+        "extremity",
+        3.5162831803495376
+      ],
+      "elbow": [
+        "extremity",
+        4.081596989399598
+      ],
+      "knee": [
+        "extremity",
+        3.6895549016235742
+      ],
+      "ankle": [
+        "extremity",
+        3.429271803359908
+      ]
+    },
+    "score": 1.3742231806329472
+  },
+  "marks,boots,spencer": {
+    "concepts": [
+      "retailer"
+    ],
+    "detail": {
+      "marks": [
+        "retailer",
+        5.453440218040148
+      ],
+      "boots": [
+        "retailer",
+        5.959548851928
+      ],
+      "spencer": [
+        "retailer",
+        6.032752255951295
+      ]
+    },
+    "score": 1.8622488564279294
+  },
+  "mask,scarf,hat,glove": {
+    "concepts": [
+      "clothing"
+    ],
+    "detail": {
+      "mask": [
+        "clothing",
+        8.663714844079005
+      ],
+      "scarf": [
+        "clothing",
+        3.557769370178424
+      ],
+      "hat": [
+        "clothing",
+        3.0579127777830073
+      ],
+      "glove": [
+        "clothing",
+        3.788517520877853
+      ]
+    },
+    "score": 1.5237685264323695
+  },
+  "salmon,trout,tuna,mackerel": {
+    "concepts": [
+      "fish"
+    ],
+    "detail": {
+      "salmon": [
+        "fish",
+        2.147679596709896
+      ],
+      "trout": [
+        "fish",
+        3.669458962383617
+      ],
+      "tuna": [
+        "fish",
+        2.827257326012656
+      ],
+      "mackerel": [
+        "fish",
+        3.2025275321748516
+      ]
+    },
+    "score": 1.125292534128844
+  },
+  "sand,gravel,clay": {
+    "concepts": [
+      "sediment"
+    ],
+    "detail": {
+      "sand": [
+        "sediment",
+        1.7608291685366964
+      ],
+      "gravel": [
+        "sediment",
+        3.1522125991640584
+      ],
+      "clay": [
+        "sediment",
+        2.1461930973237737
+      ]
+    },
+    "score": 1.3211518701267129
+  },
+  "savanna,prairie,moorland,steppe": {
+    "concepts": [
+      "habitat"
+    ],
+    "detail": {
+      "savanna": [
+        "habitat",
+        4.818239061369207
+      ],
+      "prairie": [
+        "habitat",
+        5.86978383917933
+      ],
+      "moorland": [
+        "habitat",
+        6.34670791126964
+      ],
+      "steppe": [
+        "habitat",
+        6.292640689999364
+      ]
+    },
+    "score": 1.7855039582021022
+  },
+  "scallops,oysters,lobsters,clams,shrimps": {
+    "concepts": [
+      "shellfish"
+    ],
+    "detail": {
+      "scallops": [
+        "SELF",
+        14.252018203750639
+      ],
+      "oysters": [
+        "shellfish",
+        6.9686151672389
+      ],
+      "lobsters": [
+        "shellfish",
+        7.256297239690681
+      ],
+      "clams": [
+        "shellfish",
+        6.9686151672389
+      ],
+      "shrimps": [
+        "shellfish",
+        8.35490952835879
+      ]
+    },
+    "score": 2.3122914331517164
+  },
+  "evening,weekend,morning,afternoon": {
+    "concepts": [
+      "shift"
+    ],
+    "detail": {
+      "evening": [
+        "shift",
+        3.10432286102621
+      ],
+      "weekend": [
+        "shift",
+        3.164947482842645
+      ],
+      "morning": [
+        "shift",
+        4.145776735854371
+      ],
+      "afternoon": [
+        "shift",
+        4.5512418439625355
+      ]
+    },
+    "score": 1.473349425825364
+  },
+  "exercise,drinking,diet,smoking": {
+    "concepts": [
+      "habit"
+    ],
+    "detail": {
+      "exercise": [
+        "habit",
+        5.326352068666017
+      ],
+      "drinking": [
+        "habit",
+        3.307535148802616
+      ],
+      "diet": [
+        "habit",
+        5.7318171767741815
+      ],
+      "smoking": [
+        "habit",
+        1.7732474181006812
+      ]
+    },
+    "score": 1.4309759386473273
+  },
+  "estuary,lagoon,bay": {
+    "concepts": [
+      "embayment"
+    ],
+    "detail": {
+      "estuary": [
+        "embayment",
+        3.079613757534693
+      ],
+      "lagoon": [
+        "embayment",
+        3.079613757534693
+      ],
+      "bay": [
+        "embayment",
+        3.079613757534693
+      ]
+    },
+    "score": 1.720152418097362
+  },
+  "blackthorn,hazel,hawthorn,rowan": {
+    "concepts": [
+      "tree"
+    ],
+    "detail": {
+      "blackthorn": [
+        "tree",
+        7.54040907911312
+      ],
+      "hazel": [
+        "tree",
+        5.321205595058125
+      ],
+      "hawthorn": [
+        "tree",
+        5.5944989300578065
+      ],
+      "rowan": [
+        "tree",
+        5.799942904272616
+      ]
+    },
+    "score": 1.7712982005034792
+  },
+  "blond,blonde,brunette": {
+    "concepts": [
+      "hair color"
+    ],
+    "detail": {
+      "blond": [
+        "hair color",
+        3.068052935133617
+      ],
+      "blonde": [
+        "hair color",
+        2.192584197779717
+      ],
+      "brunette": [
+        "hair color",
+        3.4247278790723494
+      ]
+    },
+    "score": 1.959460356098926
+  },
+  "boat,bicycle,motorcycle": {
+    "concepts": [
+      "vehicle"
+    ],
+    "detail": {
+      "boat": [
+        "vehicle",
+        4.468871604674946
+      ],
+      "bicycle": [
+        "vehicle",
+        5.084166658941173
+      ],
+      "motorcycle": [
+        "vehicle",
+        3.8866926589664033
+      ]
+    },
+    "score": 1.5701296421737752
+  },
+  "book,radio,magazine,newspaper,television,computer": {
+    "concepts": [
+      "medium"
+    ],
+    "detail": {
+      "book": [
+        "medium",
+        4.9619953244083845
+      ],
+      "radio": [
+        "medium",
+        3.661590635168924
+      ],
+      "magazine": [
+        "medium",
+        4.271939336418113
+      ],
+      "newspaper": [
+        "medium",
+        3.827676986036139
+      ],
+      "television": [
+        "medium",
+        3.5309361346805317
+      ],
+      "computer": [
+        "medium",
+        6.420816129596538
+      ]
+    },
+    "score": 1.2944929312945677
+  },
+  "fern,moss,lichen": {
+    "concepts": [
+      "epiphyte"
+    ],
+    "detail": {
+      "fern": [
+        "epiphyte",
+        2.28541728937168
+      ],
+      "moss": [
+        "epiphyte",
+        2.7343675094195836
+      ],
+      "lichen": [
+        "epiphyte",
+        3.570615533620202
+      ]
+    },
+    "score": 1.5543527173662641
+  },
+  "festival,concert,fair,parade": {
+    "concepts": [
+      "event"
+    ],
+    "detail": {
+      "festival": [
+        "event",
+        5.710602932132058
+      ],
+      "concert": [
+        "event",
+        4.8642542887121865
+      ],
+      "fair": [
+        "event",
+        6.334124930086925
+      ],
+      "parade": [
+        "event",
+        6.436539935514994
+      ]
+    },
+    "score": 1.62125756143452
+  },
+  "fiddle,banjo,harmonica,mandolin": {
+    "concepts": [
+      "instrument"
+    ],
+    "detail": {
+      "fiddle": [
+        "instrument",
+        6.154462175570445
+      ],
+      "banjo": [
+        "instrument",
+        5.432085356695561
+      ],
+      "harmonica": [
+        "instrument",
+        5.948413057615535
+      ],
+      "mandolin": [
+        "instrument",
+        5.423888589491383
+      ]
+    },
+    "score": 1.6878046498770485
+  },
+  "finial,cupola,steeple": {
+    "concepts": [
+      "architectural feature"
+    ],
+    "detail": {
+      "finial": [
+        "architectural feature",
+        7.940227765145702
+      ],
+      "cupola": [
+        "architectural feature",
+        5.078026884216233
+      ],
+      "steeple": [
+        "architectural feature",
+        5.455321115357702
+      ]
+    },
+    "score": 2.499903127652203
+  },
+  "condo,condominium,apartment,townhouse,duplex": {
+    "concepts": [
+      "dwelling"
+    ],
+    "detail": {
+      "condo": [
+        "dwelling",
+        4.992131822531696
+      ],
+      "condominium": [
+        "dwelling",
+        3.81347682619005
+      ],
+      "apartment": [
+        "dwelling",
+        2.617226067958024
+      ],
+      "townhouse": [
+        "dwelling",
+        3.81347682619005
+      ],
+      "duplex": [
+        "dwelling",
+        4.432516034596273
+      ]
+    },
+    "score": 1.4140310728279548
+  },
+  "greeks,irish,italians,poles,persians,germans,romans": {
+    "concepts": [
+      "nationality"
+    ],
+    "detail": {
+      "greeks": [
+        "nationality",
+        4.608497976080766
+      ],
+      "irish": [
+        "nationality",
+        4.608497976080766
+      ],
+      "italians": [
+        "nationality",
+        4.608497976080766
+      ],
+      "poles": [
+        "nationality",
+        4.3208159036289855
+      ],
+      "persians": [
+        "nationality",
+        5.707110264748875
+      ],
+      "germans": [
+        "nationality",
+        4.048882188145344
+      ],
+      "romans": [
+        "nationality",
+        6.400257445308821
+      ]
+    },
+    "score": 1.4431142206331349
+  },
+  "grouper,cod,snapper": {
+    "concepts": [
+      "fish"
+    ],
+    "detail": {
+      "grouper": [
+        "fish",
+        5.2193554811267004
+      ],
+      "cod": [
+        "fish",
+        3.868358902087834
+      ],
+      "snapper": [
+        "fish",
+        4.76317528043952
+      ]
+    },
+    "score": 1.577146507791032
+  },
+  "gull,kingfisher,heron,osprey,egret,cormorant,tern,wader,loon": {
+    "concepts": [
+      "waterbird"
+    ],
+    "detail": {
+      "gull": [
+        "waterbird",
+        3.5983654465731045
+      ],
+      "kingfisher": [
+        "waterbird",
+        5.247024072160486
+      ],
+      "heron": [
+        "waterbird",
+        2.6820747146989494
+      ],
+      "osprey": [
+        "waterbird",
+        5.247024072160486
+      ],
+      "egret": [
+        "waterbird",
+        4.217404654979328
+      ],
+      "cormorant": [
+        "waterbird",
+        3.5606251185902575
+      ],
+      "tern": [
+        "waterbird",
+        4.0232486405383705
+      ],
+      "wader": [
+        "waterbird",
+        6.163314804034641
+      ],
+      "loon": [
+        "waterbird",
+        4.217404654979328
+      ]
+    },
+    "score": 1.2975395723078806
+  },
+  "gymnasium,auditorium,pool,gym,cafeteria": {
+    "concepts": [
+      "facility"
+    ],
+    "detail": {
+      "gymnasium": [
+        "facility",
+        5.6598408315066955
+      ],
+      "auditorium": [
+        "facility",
+        6.795910682709706
+      ],
+      "pool": [
+        "facility",
+        5.325471645082262
+      ],
+      "gym": [
+        "facility",
+        5.010532856071172
+      ],
+      "cafeteria": [
+        "facility",
+        6.083859347510608
+      ]
+    },
+    "score": 1.5933105841633983
+  },
+  "lavender,parsley,sage,thyme,rosemary": {
+    "concepts": [
+      "herb"
+    ],
+    "detail": {
+      "lavender": [
+        "herb",
+        4.156255121572221
+      ],
+      "parsley": [
+        "herb",
+        3.5311247265261723
+      ],
+      "sage": [
+        "herb",
+        3.787929560413514
+      ],
+      "thyme": [
+        "herb",
+        3.2890671027057987
+      ],
+      "rosemary": [
+        "herb",
+        3.212227634726467
+      ]
+    },
+    "score": 1.1880604987139904
+  },
+  "lebanon,egypt,morocco,jordan,syria": {
+    "concepts": [
+      "arab country"
+    ],
+    "detail": {
+      "lebanon": [
+        "arab country",
+        3.3804276201757695
+      ],
+      "egypt": [
+        "arab country",
+        2.0280348107315604
+      ],
+      "morocco": [
+        "arab country",
+        2.8898047037272985
+      ],
+      "jordan": [
+        "arab country",
+        2.381021981591108
+      ],
+      "syria": [
+        "arab country",
+        2.5049588828218696
+      ]
+    },
+    "score": 1.433127053547751
+  },
+  "college,university,school,hospital": {
+    "concepts": [
+      "institution"
+    ],
+    "detail": {
+      "college": [
+        "institution",
+        5.234014298993789
+      ],
+      "university": [
+        "institution",
+        4.012769090818826
+      ],
+      "school": [
+        "institution",
+        3.501662014757141
+      ],
+      "hospital": [
+        "institution",
+        3.832325909782607
+      ]
+    },
+    "score": 1.3519157742897479
+  },
+  "comb,brush,toothbrush,razor": {
+    "concepts": [
+      "toiletry"
+    ],
+    "detail": {
+      "comb": [
+        "toiletry",
+        3.8668813497633745
+      ],
+      "brush": [
+        "toiletry",
+        5.730099782973574
+      ],
+      "toothbrush": [
+        "toiletry",
+        2.659466201246466
+      ],
+      "razor": [
+        "toiletry",
+        4.289738200583408
+      ]
+    },
+    "score": 1.492118540106764
+  },
+  "comedian,magician,clown": {
+    "concepts": [
+      "entertainer"
+    ],
+    "detail": {
+      "comedian": [
+        "entertainer",
+        4.719093932306405
+      ],
+      "magician": [
+        "entertainer",
+        3.7721662309703605
+      ],
+      "clown": [
+        "entertainer",
+        4.221691328872556
+      ]
+    },
+    "score": 1.6728423522228681
+  },
+  "kitchen,attic,bedroom,basement,bathroom,closet,garage": {
+    "concepts": [
+      "room"
+    ],
+    "detail": {
+      "kitchen": [
+        "room",
+        2.447817351028722
+      ],
+      "attic": [
+        "room",
+        5.9808401254703
+      ],
+      "bedroom": [
+        "room",
+        3.034011658906478
+      ],
+      "basement": [
+        "room",
+        5.159859573400469
+      ],
+      "bathroom": [
+        "room",
+        2.6633537877691174
+      ],
+      "closet": [
+        "room",
+        5.43429641910223
+      ],
+      "garage": [
+        "room",
+        5.334212960545247
+      ]
+    },
+    "score": 1.2874848584293868
+  },
+  "lamia,scylla,harpies": {
+    "concepts": [
+      "monster"
+    ],
+    "detail": {
+      "lamia": [
+        "monster",
+        7.038783541388542
+      ],
+      "scylla": [
+        "monster",
+        7.731930721948486
+      ],
+      "harpies": [
+        "monster",
+        7.731930721948486
+      ]
+    },
+    "score": 2.3338349983240496
+  },
+  "rash,headache,fever,redness,chill": {
+    "concepts": [
+      "symptom"
+    ],
+    "detail": {
+      "rash": [
+        "symptom",
+        5.517187701627823
+      ],
+      "headache": [
+        "symptom",
+        3.3082635302302883
+      ],
+      "fever": [
+        "symptom",
+        3.5957442130932304
+      ],
+      "redness": [
+        "symptom",
+        5.930246909055581
+      ],
+      "chill": [
+        "symptom",
+        5.663574012693143
+      ]
+    },
+    "score": 1.3850435051443997
+  },
+  "loan,scholarship,grant": {
+    "concepts": [
+      "funding"
+    ],
+    "detail": {
+      "loan": [
+        "funding",
+        4.515558027298404
+      ],
+      "scholarship": [
+        "funding",
+        4.852030263919617
+      ],
+      "grant": [
+        "funding",
+        2.700268060660155
+      ]
+    },
+    "score": 1.64904437301224
+  },
+  "september,october,january,june,april,july,november": {
+    "concepts": [
+      "month"
+    ],
+    "detail": {
+      "september": [
+        "month",
+        3.1809232727758983
+      ],
+      "october": [
+        "month",
+        3.051711541295892
+      ],
+      "january": [
+        "month",
+        2.78701898706881
+      ],
+      "june": [
+        "month",
+        3.4127248868332227
+      ],
+      "april": [
+        "month",
+        2.8346470360580645
+      ],
+      "july": [
+        "month",
+        3.2160145925871686
+      ],
+      "november": [
+        "month",
+        2.884657456632726
+      ]
+    },
+    "score": 1.098517044589317
+  },
+  "storm,hurricane,earthquake,flood": {
+    "concepts": [
+      "disaster"
+    ],
+    "detail": {
+      "storm": [
+        "disaster",
+        4.7168984441730135
+      ],
+      "hurricane": [
+        "disaster",
+        2.671615821304496
+      ],
+      "earthquake": [
+        "disaster",
+        2.1959573613731305
+      ],
+      "flood": [
+        "disaster",
+        2.1548234778828195
+      ]
+    },
+    "score": 1.192102144068523
+  },
+  "stove,oven,refrigerator,washer": {
+    "concepts": [
+      "appliance"
+    ],
+    "detail": {
+      "stove": [
+        "appliance",
+        3.1835029141431153
+      ],
+      "oven": [
+        "appliance",
+        3.7691446418049175
+      ],
+      "refrigerator": [
+        "appliance",
+        2.517169074925035
+      ],
+      "washer": [
+        "appliance",
+        3.3982462633320583
+      ]
+    },
+    "score": 1.2126659013230976
+  },
+  "stroller,cradle,crib,cot,pram,bassinet": {
+    "concepts": [
+      "baby equipment"
+    ],
+    "detail": {
+      "stroller": [
+        "baby equipment",
+        2.911314931741408
+      ],
+      "cradle": [
+        "baby equipment",
+        5.262690188904886
+      ],
+      "crib": [
+        "baby equipment",
+        2.8203431535356813
+      ],
+      "cot": [
+        "baby equipment",
+        2.064017071354204
+      ],
+      "pram": [
+        "baby equipment",
+        4.0099272204095175
+      ],
+      "bassinet": [
+        "baby equipment",
+        5.955837369464831
+      ]
+    },
+    "score": 1.637036548142654
+  },
+  "dinner,party,picnic,breakfast,lunch": {
+    "concepts": [
+      "meal"
+    ],
+    "detail": {
+      "dinner": [
+        "meal",
+        4.7104306966455844
+      ],
+      "party": [
+        "SELF",
+        8.093538034257616
+      ],
+      "picnic": [
+        "meal",
+        7.418480897747794
+      ],
+      "breakfast": [
+        "meal",
+        3.4915692798258977
+      ],
+      "lunch": [
+        "meal",
+        3.723370893883222
+      ]
+    },
+    "score": 1.624469887083924
+  },
+  "diploma,degree,certificate": {
+    "concepts": [
+      "credential"
+    ],
+    "detail": {
+      "diploma": [
+        "credential",
+        4.33510971488613
+      ],
+      "degree": [
+        "credential",
+        4.276269214863197
+      ],
+      "certificate": [
+        "credential",
+        4.194031116626224
+      ]
+    },
+    "score": 1.7245971653537975
+  },
+  "purse,shoe,bag,wallet,handbag": {
+    "concepts": [
+      "leather goods"
+    ],
+    "detail": {
+      "purse": [
+        "leather goods",
+        3.154939273048373
+      ],
+      "shoe": [
+        "leather goods",
+        2.637682758952092
+      ],
+      "bag": [
+        "leather goods",
+        2.6971061794228928
+      ],
+      "wallet": [
+        "leather goods",
+        2.2984670363851283
+      ],
+      "handbag": [
+        "leather goods",
+        2.6971061794228928
+      ]
+    },
+    "score": 1.472952403794625
+  },
+  "pyramids,parthenon,acropolis,pantheon": {
+    "concepts": [
+      "monument"
+    ],
+    "detail": {
+      "pyramids": [
+        "monument",
+        7.6324011266014535
+      ],
+      "parthenon": [
+        "monument",
+        5.552959584921617
+      ],
+      "acropolis": [
+        "monument",
+        5.840641657373398
+      ],
+      "pantheon": [
+        "monument",
+        4.336564260597124
+      ]
+    },
+    "score": 1.831775327713435
+  },
+  "quilt,bedspread,comforter": {
+    "concepts": [
+      "bedding"
+    ],
+    "detail": {
+      "quilt": [
+        "bedding",
+        4.102643365036796
+      ],
+      "bedspread": [
+        "bedding",
+        4.159801778876744
+      ],
+      "comforter": [
+        "bedding",
+        3.142867521222902
+      ]
+    },
+    "score": 1.5774596106846843
+  },
+  "rainbows,cubs,guides": {
+    "concepts": [
+      "club"
+    ],
+    "detail": {
+      "rainbows": [
+        "club",
+        9.299723933110869
+      ],
+      "cubs": [
+        "club",
+        7.795646536334594
+      ],
+      "guides": [
+        "club",
+        8.201111644442758
+      ]
+    },
+    "score": 2.405500909020326
+  },
+  "rake,shovel,trowel,spade": {
+    "concepts": [
+      "garden tool"
+    ],
+    "detail": {
+      "rake": [
+        "garden tool",
+        2.3702437414678603
+      ],
+      "shovel": [
+        "garden tool",
+        2.3702437414678603
+      ],
+      "trowel": [
+        "garden tool",
+        3.884371474097636
+      ],
+      "spade": [
+        "garden tool",
+        2.4756042571256867
+      ]
+    },
+    "score": 1.6977442474876125
+  },
+  "shares,stocks,bonds,futures,options": {
+    "concepts": [
+      "security"
+    ],
+    "detail": {
+      "shares": [
+        "security",
+        7.203219491875973
+      ],
+      "stocks": [
+        "security",
+        7.896366672435918
+      ],
+      "bonds": [
+        "security",
+        8.589513852995864
+      ],
+      "futures": [
+        "security",
+        7.896366672435918
+      ],
+      "options": [
+        "security",
+        8.589513852995864
+      ]
+    },
+    "score": 2.1027666360791497
+  },
+  "shop,restaurant,bar,hotel,nightclub,pub,cafe": {
+    "concepts": [
+      "premise"
+    ],
+    "detail": {
+      "shop": [
+        "premise",
+        4.423348504235788
+      ],
+      "restaurant": [
+        "premise",
+        3.324736215567678
+      ],
+      "bar": [
+        "premise",
+        4.9623450049684745
+      ],
+      "hotel": [
+        "premise",
+        3.5409593240373143
+      ],
+      "nightclub": [
+        "premise",
+        4.711030576687569
+      ],
+      "pub": [
+        "premise",
+        4.510359881225417
+      ],
+      "cafe": [
+        "premise",
+        4.046054273094319
+      ]
+    },
+    "score": 1.3153218469219716
+  },
+  "shrimp,lobster,crab,oyster": {
+    "concepts": [
+      "shellfish"
+    ],
+    "detail": {
+      "shrimp": [
+        "shellfish",
+        2.2888014382550423
+      ],
+      "lobster": [
+        "shellfish",
+        2.239017402875756
+      ],
+      "crab": [
+        "shellfish",
+        2.110742627695054
+      ],
+      "oyster": [
+        "shellfish",
+        1.7496116074105883
+      ]
+    },
+    "score": 1.0756471684348212
+  },
+  "sedan,coupe,convertible": {
+    "concepts": [
+      "vehicle"
+    ],
+    "detail": {
+      "sedan": [
+        "vehicle",
+        6.10491862583701
+      ],
+      "coupe": [
+        "vehicle",
+        8.647644846513836
+      ],
+      "convertible": [
+        "vehicle",
+        7.09704743410267
+      ]
+    },
+    "score": 2.1307883077651746
+  },
+  "nurses,doctors,teachers": {
+    "concepts": [
+      "professional"
+    ],
+    "detail": {
+      "nurses": [
+        "professional",
+        7.2868764117507
+      ],
+      "doctors": [
+        "professional",
+        5.800882690407721
+      ],
+      "teachers": [
+        "professional",
+        7.165515554746432
+      ]
+    },
+    "score": 2.0263799650901224
+  },
+  "obedience,endurance,agility": {
+    "concepts": [
+      "virtue"
+    ],
+    "detail": {
+      "obedience": [
+        "virtue",
+        5.498721568823782
+      ],
+      "endurance": [
+        "virtue",
+        6.226960069194997
+      ],
+      "agility": [
+        "virtue",
+        6.381110749022255
+      ]
+    },
+    "score": 2.0086367646545025
+  },
+  "observation,interview,survey": {
+    "concepts": [
+      "method"
+    ],
+    "detail": {
+      "observation": [
+        "method",
+        6.251807338266401
+      ],
+      "interview": [
+        "method",
+        5.993788457638179
+      ],
+      "survey": [
+        "method",
+        6.122722141014073
+      ]
+    },
+    "score": 1.7914785484921416
+  },
+  "rhine,elbe,danube,moselle,rhone": {
+    "concepts": [
+      "river"
+    ],
+    "detail": {
+      "rhine": [
+        "river",
+        4.311617255186527
+      ],
+      "elbe": [
+        "river",
+        5.386131992275576
+      ],
+      "danube": [
+        "river",
+        4.819736517354775
+      ],
+      "moselle": [
+        "river",
+        7.044360068879108
+      ],
+      "rhone": [
+        "river",
+        5.827964744554615
+      ]
+    },
+    "score": 1.60585358955933
+  },
+  "rhododendron,camellia,gardenia,azalea": {
+    "concepts": [
+      "shrub"
+    ],
+    "detail": {
+      "rhododendron": [
+        "shrub",
+        3.9745475135009056
+      ],
+      "camellia": [
+        "shrub",
+        4.753461515818276
+      ],
+      "gardenia": [
+        "shrub",
+        6.319096805593984
+      ],
+      "azalea": [
+        "shrub",
+        4.266806252980098
+      ]
+    },
+    "score": 1.5874470288866591
+  },
+  "fans,pumps,valves": {
+    "concepts": [
+      "machinery"
+    ],
+    "detail": {
+      "fans": [
+        "machinery",
+        6.84773984657215
+      ],
+      "pumps": [
+        "machinery",
+        6.288124058636728
+      ],
+      "valves": [
+        "SELF",
+        13.64423087214185
+      ]
+    },
+    "score": 2.5682788543538675
+  },
+  "watch,jewellery,jewelry": {
+    "concepts": [
+      "valuable"
+    ],
+    "detail": {
+      "watch": [
+        "valuable",
+        3.5438362712289155
+      ],
+      "jewellery": [
+        "valuable",
+        3.2554014701002685
+      ],
+      "jewelry": [
+        "valuable",
+        1.9218271067367887
+      ]
+    },
+    "score": 1.353963582407282
+  },
+  "weaver,goldsmith,potter": {
+    "concepts": [
+      "artisan"
+    ],
+    "detail": {
+      "weaver": [
+        "artisan",
+        3.223122115749652
+      ],
+      "goldsmith": [
+        "artisan",
+        4.3652195163575005
+      ],
+      "potter": [
+        "artisan",
+        2.962395853286399
+      ]
+    },
+    "score": 1.6150306645368242
+  },
+  "wedding,birthday,anniversary,graduation": {
+    "concepts": [
+      "occasion"
+    ],
+    "detail": {
+      "wedding": [
+        "occasion",
+        2.2527728549608876
+      ],
+      "birthday": [
+        "occasion",
+        2.442362137117232
+      ],
+      "anniversary": [
+        "occasion",
+        3.2576435915972994
+      ],
+      "graduation": [
+        "occasion",
+        4.636119304599392
+      ]
+    },
+    "score": 1.1982971274713043
+  },
+  "avoidance,rationalization,denial": {
+    "concepts": [
+      "defense"
+    ],
+    "detail": {
+      "avoidance": [
+        "defense",
+        5.948470055535126
+      ],
+      "rationalization": [
+        "defense",
+        5.948470055535126
+      ],
+      "denial": [
+        "defense",
+        3.808403892038856
+      ]
+    },
+    "score": 1.8501507158915071
+  },
+  "cadillac,jaguar,dodge,chevrolet,buick,lexus,jeep,bentley,ferrari": {
+    "concepts": [
+      "marque"
+    ],
+    "detail": {
+      "cadillac": [
+        "marque",
+        4.961445049905484
+      ],
+      "jaguar": [
+        "marque",
+        3.7376696182833684
+      ],
+      "dodge": [
+        "marque",
+        5.877735781779639
+      ],
+      "chevrolet": [
+        "marque",
+        5.472270673671475
+      ],
+      "buick": [
+        "marque",
+        5.877735781779639
+      ],
+      "lexus": [
+        "marque",
+        5.472270673671475
+      ],
+      "jeep": [
+        "marque",
+        5.877735781779639
+      ],
+      "bentley": [
+        "marque",
+        4.005933604878048
+      ],
+      "ferrari": [
+        "marque",
+        3.392829131991639
+      ]
+    },
+    "score": 1.4333875732177666
+  },
+  "calendars,places,tasks": {
+    "concepts": [
+      "list"
+    ],
+    "detail": {
+      "calendars": [
+        "list",
+        8.164794804244766
+      ],
+      "places": [
+        "SELF",
+        13.017604373923467
+      ],
+      "tasks": [
+        "list",
+        5.169062530690774
+      ]
+    },
+    "score": 2.550360324830865
+  },
+  "cane,walker,wheelchair": {
+    "concepts": [
+      "mobility"
+    ],
+    "detail": {
+      "cane": [
+        "mobility",
+        2.3978952727983707
+      ],
+      "walker": [
+        "mobility",
+        2.3978952727983707
+      ],
+      "wheelchair": [
+        "mobility",
+        3.4965075614664802
+      ]
+    },
+    "score": 1.3635762615394063
+  },
+  "ham,bacon,sausage": {
+    "concepts": [
+      "meat"
+    ],
+    "detail": {
+      "ham": [
+        "meat",
+        3.241666090657855
+      ],
+      "bacon": [
+        "meat",
+        3.1621230082757514
+      ],
+      "sausage": [
+        "meat",
+        3.0691325402300635
+      ]
+    },
+    "score": 1.3281185319739235
+  },
+  "harpsichord,clavichord,spinet": {
+    "concepts": [
+      "keyboard instrument"
+    ],
+    "detail": {
+      "harpsichord": [
+        "keyboard instrument",
+        1.870402596547168
+      ],
+      "clavichord": [
+        "keyboard instrument",
+        3.3127864243181024
+      ],
+      "spinet": [
+        "keyboard instrument",
+        3.9318256327243257
+      ]
+    },
+    "score": 2.187895736620156
+  },
+  "passing,grip,stance,footwork": {
+    "concepts": [
+      "fundamental"
+    ],
+    "detail": {
+      "passing": [
+        "fundamental",
+        5.320415152070012
+      ],
+      "grip": [
+        "fundamental",
+        5.122589408740092
+      ],
+      "stance": [
+        "fundamental",
+        5.202632116413628
+      ],
+      "footwork": [
+        "fundamental",
+        5.567275230001538
+      ]
+    },
+    "score": 1.7119195754781655
+  },
+  "infants,women,children": {
+    "concepts": [
+      "program"
+    ],
+    "detail": {
+      "infants": [
+        "program",
+        7.636039978487027
+      ],
+      "women": [
+        "program",
+        8.036662462119402
+      ],
+      "children": [
+        "program",
+        7.616808616559139
+      ]
+    },
+    "score": 2.1352416297176675
+  },
+  "mohawk,shaw,armstrong": {
+    "concepts": [
+      "manufacturer"
+    ],
+    "detail": {
+      "mohawk": [
+        "manufacturer",
+        8.10711747075039
+      ],
+      "shaw": [
+        "manufacturer",
+        7.373148295670189
+      ],
+      "armstrong": [
+        "manufacturer",
+        7.413970290190445
+      ]
+    },
+    "score": 2.2109961369082676
+  },
+  "pianist,violinist,vocalist,soloist,cellist": {
+    "concepts": [
+      "instrumentalist"
+    ],
+    "detail": {
+      "pianist": [
+        "instrumentalist",
+        3.235405126819411
+      ],
+      "violinist": [
+        "instrumentalist",
+        3.155362419145875
+      ],
+      "vocalist": [
+        "SELF",
+        10.975216582787905
+      ],
+      "soloist": [
+        "SELF",
+        11.183542525004723
+      ],
+      "cellist": [
+        "instrumentalist",
+        5.0271645960474665
+      ]
+    },
+    "score": 2.017883402554835
+  },
+  "accuracy,precision,sensitivity": {
+    "concepts": [
+      "validation parameter"
+    ],
+    "detail": {
+      "accuracy": [
+        "validation parameter",
+        1.7438993934840659
+      ],
+      "precision": [
+        "validation parameter",
+        1.766485046132815
+      ],
+      "sensitivity": [
+        "validation parameter",
+        3.070007120968843
+      ]
+    },
+    "score": 1.8122939229706498
+  },
+  "adolescence,childhood,infancy": {
+    "concepts": [
+      "stage"
+    ],
+    "detail": {
+      "adolescence": [
+        "stage",
+        6.512381934440763
+      ],
+      "childhood": [
+        "stage",
+        6.060396810697706
+      ],
+      "infancy": [
+        "stage",
+        6.155706990502031
+      ]
+    },
+    "score": 2.0546932502715385
+  },
+  "county,village,town,state,city": {
+    "concepts": [
+      "municipality"
+    ],
+    "detail": {
+      "county": [
+        "municipality",
+        5.8711112468640145
+      ],
+      "village": [
+        "municipality",
+        2.6007278648498815
+      ],
+      "town": [
+        "municipality",
+        5.271490124314893
+      ],
+      "state": [
+        "SELF",
+        6.026602733243013
+      ],
+      "city": [
+        "municipality",
+        2.5608289556719623
+      ]
+    },
+    "score": 1.4223938150433721
+  },
+  "boxer,pug,bulldog": {
+    "concepts": [
+      "dog"
+    ],
+    "detail": {
+      "boxer": [
+        "dog",
+        4.556154996502362
+      ],
+      "pug": [
+        "dog",
+        4.556154996502362
+      ],
+      "bulldog": [
+        "dog",
+        5.0129133989980765
+      ]
+    },
+    "score": 1.6621630081061043
+  },
+  "brick,stone,concrete": {
+    "concepts": [
+      "masonry"
+    ],
+    "detail": {
+      "brick": [
+        "masonry",
+        1.1826954058786512
+      ],
+      "stone": [
+        "masonry",
+        2.846200539583027
+      ],
+      "concrete": [
+        "masonry",
+        3.3386770246808215
+      ]
+    },
+    "score": 1.362633080935573
+  },
+  "brides,chatelaine,mademoiselle": {
+    "concepts": [
+      "magazine"
+    ],
+    "detail": {
+      "brides": [
+        "magazine",
+        7.392852754175396
+      ],
+      "chatelaine": [
+        "magazine",
+        7.798317862283561
+      ],
+      "mademoiselle": [
+        "magazine",
+        6.987387646067232
+      ]
+    },
+    "score": 2.165897677933618
+  },
+  "accident,illness,sickness": {
+    "concepts": [
+      "suffering"
+    ],
+    "detail": {
+      "accident": [
+        "suffering",
+        5.75890177387728
+      ],
+      "illness": [
+        "suffering",
+        0.6837279586434537
+      ],
+      "sickness": [
+        "suffering",
+        2.580847943529335
+      ]
+    },
+    "score": 1.5098001275043864
+  },
+  "angles,channels,franks": {
+    "concepts": [
+      "barbarian"
+    ],
+    "detail": {
+      "angles": [
+        "barbarian",
+        3.2386784521643803
+      ],
+      "channels": [
+        "SELF",
+        12.85217961752299
+      ],
+      "franks": [
+        "barbarian",
+        3.2386784521643803
+      ]
+    },
+    "score": 2.30022639584468
+  },
+  "housekeeper,maid,gardener,nanny": {
+    "concepts": [
+      "employee"
+    ],
+    "detail": {
+      "housekeeper": [
+        "employee",
+        6.264540467170401
+      ],
+      "maid": [
+        "employee",
+        6.670005575278565
+      ],
+      "gardener": [
+        "employee",
+        5.571393286610456
+      ],
+      "nanny": [
+        "employee",
+        7.58629630715272
+      ]
+    },
+    "score": 1.9229015344917815
+  },
+  "james,john,peter": {
+    "concepts": [
+      "apostle"
+    ],
+    "detail": {
+      "james": [
+        "apostle",
+        3.607533814659984
+      ],
+      "john": [
+        "apostle",
+        1.755149723615494
+      ],
+      "peter": [
+        "apostle",
+        1.4528688517425605
+      ]
+    },
+    "score": 1.4450897901251611
+  },
+  "montana,idaho,wyoming": {
+    "concepts": [
+      "state"
+    ],
+    "detail": {
+      "montana": [
+        "state",
+        5.040512747126437
+      ],
+      "idaho": [
+        "state",
+        5.092269677694344
+      ],
+      "wyoming": [
+        "state",
+        5.163916030414974
+      ]
+    },
+    "score": 1.5991774072674936
+  },
+  "motor,valve,pump": {
+    "concepts": [
+      "actuator"
+    ],
+    "detail": {
+      "motor": [
+        "actuator",
+        3.0715703499454956
+      ],
+      "valve": [
+        "actuator",
+        4.104224670821808
+      ],
+      "pump": [
+        "actuator",
+        4.29081062640222
+      ]
+    },
+    "score": 1.601868651096373
+  },
+  "translation,transcription,rotation": {
+    "concepts": [
+      "transformation"
+    ],
+    "detail": {
+      "translation": [
+        "transformation",
+        3.3221801740097074
+      ],
+      "transcription": [
+        "SELF",
+        10.407690211093845
+      ],
+      "rotation": [
+        "transformation",
+        2.698991582056673
+      ]
+    },
+    "score": 1.9281473261409123
+  },
+  "painter,mason,carpenter,sculptor": {
+    "concepts": [
+      "artisan"
+    ],
+    "detail": {
+      "painter": [
+        "artisan",
+        4.770684624465665
+      ],
+      "mason": [
+        "artisan",
+        4.3652195163575005
+      ],
+      "carpenter": [
+        "artisan",
+        2.51939282585917
+      ],
+      "sculptor": [
+        "artisan",
+        5.1273595684043975
+      ]
+    },
+    "score": 1.566612529268964
+  },
+  "lute,lyre,zither": {
+    "concepts": [
+      "instrument"
+    ],
+    "detail": {
+      "lute": [
+        "instrument",
+        6.261707705924042
+      ],
+      "lyre": [
+        "instrument",
+        7.834104346677794
+      ],
+      "zither": [
+        "instrument",
+        8.622561707042063
+      ]
+    },
+    "score": 2.177938699303583
+  },
+  "mallard,teal,coot": {
+    "concepts": [
+      "wildfowl"
+    ],
+    "detail": {
+      "mallard": [
+        "wildfowl",
+        1.9974679587201634
+      ],
+      "teal": [
+        "wildfowl",
+        1.9260089947380183
+      ],
+      "coot": [
+        "wildfowl",
+        4.194692536056383
+      ]
+    },
+    "score": 1.5769273064177425
+  },
+  "colonel,captain,lieutenant,sergeant": {
+    "concepts": [
+      "rank"
+    ],
+    "detail": {
+      "colonel": [
+        "rank",
+        4.74493212836325
+      ],
+      "captain": [
+        "rank",
+        3.169395767604831
+      ],
+      "lieutenant": [
+        "rank",
+        3.317815772723104
+      ],
+      "sergeant": [
+        "rank",
+        3.703478253535089
+      ]
+    },
+    "score": 1.4628401580922294
+  },
+  "delphinium,foxglove,larkspur": {
+    "concepts": [
+      "flower"
+    ],
+    "detail": {
+      "delphinium": [
+        "flower",
+        5.102832630920091
+      ],
+      "foxglove": [
+        "flower",
+        5.745969390905374
+      ],
+      "larkspur": [
+        "flower",
+        5.434189766874533
+      ]
+    },
+    "score": 1.8001190003253422
+  },
+  "priest,minister,pastor": {
+    "concepts": [
+      "person"
+    ],
+    "detail": {
+      "priest": [
+        "person",
+        6.797164176407114
+      ],
+      "minister": [
+        "person",
+        7.954616965098157
+      ],
+      "pastor": [
+        "person",
+        7.340250662391326
+      ]
+    },
+    "score": 2.1004257707930196
+  },
+  "mollusc,crustacean,mollusk,crayfish": {
+    "concepts": [
+      "invertebrate"
+    ],
+    "detail": {
+      "mollusc": [
+        "invertebrate",
+        4.52069003799536
+      ],
+      "crustacean": [
+        "invertebrate",
+        3.911803201053154
+      ],
+      "mollusk": [
+        "invertebrate",
+        4.145996588553949
+      ],
+      "crayfish": [
+        "invertebrate",
+        4.7213607334575105
+      ]
+    },
+    "score": 1.5012750052297175
+  },
+  "feldspar,mica,quartz,talc": {
+    "concepts": [
+      "silicate"
+    ],
+    "detail": {
+      "feldspar": [
+        "silicate",
+        3.8114130925289174
+      ],
+      "mica": [
+        "silicate",
+        3.35942796878586
+      ],
+      "quartz": [
+        "silicate",
+        3.231594597275975
+      ],
+      "talc": [
+        "silicate",
+        3.35942796878586
+      ]
+    },
+    "score": 1.3903763315884476
+  },
+  "third,second,fourth": {
+    "concepts": [
+      "harmonic"
+    ],
+    "detail": {
+      "third": [
+        "harmonic",
+        3.4499875458315876
+      ],
+      "second": [
+        "harmonic",
+        4.143134726391533
+      ],
+      "fourth": [
+        "harmonic",
+        3.855452653939752
+      ]
+    },
+    "score": 1.6938502163040305
+  },
+  "phrygian,dorian,ionian": {
+    "concepts": [
+      "mode"
+    ],
+    "detail": {
+      "phrygian": [
+        "mode",
+        7.341645861274006
+      ],
+      "dorian": [
+        "mode",
+        6.856138045492305
+      ],
+      "ionian": [
+        "mode",
+        9.421087402953841
+      ]
+    },
+    "score": 2.3340053672281225
+  },
+  "sailfish,dorado,marlin": {
+    "concepts": [
+      "gamefish"
+    ],
+    "detail": {
+      "sailfish": [
+        "gamefish",
+        4.400603020246817
+      ],
+      "dorado": [
+        "gamefish",
+        3.484312288372662
+      ],
+      "marlin": [
+        "gamefish",
+        5.093750200806762
+      ]
+    },
+    "score": 1.9347559124412048
+  },
+  "goethe,schiller,byron": {
+    "concepts": [
+      "romantic"
+    ],
+    "detail": {
+      "goethe": [
+        "romantic",
+        3.6109179126442243
+      ],
+      "schiller": [
+        "romantic",
+        5.220355825078324
+      ],
+      "byron": [
+        "romantic",
+        4.527208644518379
+      ]
+    },
+    "score": 1.8538258060278399
+  },
+  "jerome,ambrose,cyprian": {
+    "concepts": [
+      "father"
+    ],
+    "detail": {
+      "jerome": [
+        "father",
+        4.429900628371534
+      ],
+      "ambrose": [
+        "father",
+        4.692264892839026
+      ],
+      "cyprian": [
+        "father",
+        6.994849985833071
+      ]
+    },
+    "score": 1.949937096471957
+  },
+  "schist,quartzite,gneiss": {
+    "concepts": [
+      "rock"
+    ],
+    "detail": {
+      "schist": [
+        "rock",
+        4.499809670330265
+      ],
+      "quartzite": [
+        "rock",
+        3.865158696451928
+      ],
+      "gneiss": [
+        "rock",
+        4.412798293340635
+      ]
+    },
+    "score": 1.5861823177149033
+  },
+  "theme,setting,character,characterization,plot": {
+    "concepts": [
+      "literary element"
+    ],
+    "detail": {
+      "theme": [
+        "literary element",
+        2.4826670071944954
+      ],
+      "setting": [
+        "literary element",
+        2.3104635805661258
+      ],
+      "character": [
+        "literary element",
+        2.4240182801129877
+      ],
+      "characterization": [
+        "literary element",
+        3.392268750917854
+      ],
+      "plot": [
+        "literary element",
+        2.3990169779075705
+      ]
+    },
+    "score": 1.4306545060183302
+  },
+  "pastries,cakes,chocolates,breads": {
+    "concepts": [
+      "category"
+    ],
+    "detail": {
+      "pastries": [
+        "category",
+        11.217533749448394
+      ],
+      "cakes": [
+        "category",
+        11.217533749448394
+      ],
+      "chocolates": [
+        "category",
+        11.217533749448394
+      ],
+      "breads": [
+        "category",
+        10.118921460780285
+      ]
+    },
+    "score": 2.7145665478152687
+  },
+  "melody,timbre,tonality,rhythm,harmony,tempo": {
+    "concepts": [
+      "musical element"
+    ],
+    "detail": {
+      "melody": [
+        "musical element",
+        2.458033631536904
+      ],
+      "timbre": [
+        "musical element",
+        4.2273202449129
+      ],
+      "tonality": [
+        "musical element",
+        3.8908480082916874
+      ],
+      "rhythm": [
+        "musical element",
+        1.9247351519188547
+      ],
+      "harmony": [
+        "musical element",
+        3.1067290495260154
+      ],
+      "tempo": [
+        "musical element",
+        3.1511808120968494
+      ]
+    },
+    "score": 1.4444597397486305
+  },
+  "memoir,autobiography,biography": {
+    "concepts": [
+      "nonfiction"
+    ],
+    "detail": {
+      "memoir": [
+        "nonfiction",
+        3.912023005428146
+      ],
+      "autobiography": [
+        "nonfiction",
+        4.199705077879927
+      ],
+      "biography": [
+        "nonfiction",
+        2.659260036932778
+      ]
+    },
+    "score": 1.7130715154433271
+  },
+  "provinces,forests,districts,lands,courts,highways,industries,municipalities": {
+    "concepts": [
+      "agency"
+    ],
+    "detail": {
+      "provinces": [
+        "agency",
+        11.057707979914358
+      ],
+      "forests": [
+        "agency",
+        10.364560799354413
+      ],
+      "districts": [
+        "agency",
+        10.364560799354413
+      ],
+      "lands": [
+        "agency",
+        9.67141361879447
+      ],
+      "courts": [
+        "agency",
+        8.86048340257814
+      ],
+      "highways": [
+        "agency",
+        8.492758622452822
+      ],
+      "industries": [
+        "agency",
+        9.448270067480259
+      ],
+      "municipalities": [
+        "agency",
+        10.364560799354413
+      ]
+    },
+    "score": 2.3191326821046445
+  },
+  "novel,song,story,poem": {
+    "concepts": [
+      "text"
+    ],
+    "detail": {
+      "novel": [
+        "text",
+        4.854533025623517
+      ],
+      "song": [
+        "text",
+        6.1167747380734285
+      ],
+      "story": [
+        "text",
+        5.780302501452216
+      ],
+      "poem": [
+        "text",
+        5.313279500344618
+      ]
+    },
+    "score": 1.682865535044167
+  },
+  "synagogue,temple,mosque": {
+    "concepts": [
+      "religious institution"
+    ],
+    "detail": {
+      "synagogue": [
+        "religious institution",
+        2.8978512243274572
+      ],
+      "temple": [
+        "religious institution",
+        2.658621535261623
+      ],
+      "mosque": [
+        "religious institution",
+        2.1780357966853505
+      ]
+    },
+    "score": 1.9734055941367687
+  },
+  "drama,music,dance,art,craft,poetry": {
+    "concepts": [
+      "art"
+    ],
+    "detail": {
+      "drama": [
+        "art",
+        3.8903325045042063
+      ],
+      "music": [
+        "art",
+        2.5549829449995642
+      ],
+      "dance": [
+        "art",
+        3.3054935204394296
+      ],
+      "art": [
+        "SELF",
+        7.92857200711271
+      ],
+      "craft": [
+        "art",
+        7.29817442888503
+      ],
+      "poetry": [
+        "art",
+        3.8771744199266953
+      ]
+    },
+    "score": 1.400494984523348
+  },
+  "freedom,equality,democracy,liberty,truth,justice": {
+    "concepts": [
+      "ideal"
+    ],
+    "detail": {
+      "freedom": [
+        "ideal",
+        3.459654012707651
+      ],
+      "equality": [
+        "ideal",
+        4.108998570609203
+      ],
+      "democracy": [
+        "ideal",
+        3.880156998180356
+      ],
+      "liberty": [
+        "ideal",
+        4.198610729298891
+      ],
+      "truth": [
+        "ideal",
+        4.831133288042401
+      ],
+      "justice": [
+        "ideal",
+        3.880156998180356
+      ]
+    },
+    "score": 1.3353583901116077
+  },
+  "conjuration,stalagmites,daze": {
+    "concepts": [
+      "power"
+    ],
+    "detail": {
+      "conjuration": [
+        "power",
+        8.078843255972297
+      ],
+      "stalagmites": [
+        "power",
+        8.771990436532242
+      ],
+      "daze": [
+        "power",
+        8.771990436532242
+      ]
+    },
+    "score": 2.434154825825865
+  },
+  "carnations,daisies,lilies,primulas": {
+    "concepts": [
+      "flower"
+    ],
+    "detail": {
+      "carnations": [
+        "flower",
+        6.415019019886259
+      ],
+      "daisies": [
+        "flower",
+        6.9746348078216815
+      ],
+      "lilies": [
+        "flower",
+        6.415019019886259
+      ],
+      "primulas": [
+        "flower",
+        8.766394277049736
+      ]
+    },
+    "score": 2.006856465867205
+  },
+  "ruth,esther,bathsheba,judith,jonah,deborah,joshua": {
+    "concepts": [
+      "story",
+      "prophet"
+    ],
+    "detail": {
+      "ruth": [
+        "prophet",
+        5.847161057501548
+      ],
+      "esther": [
+        "story",
+        9.468851067127684
+      ],
+      "bathsheba": [
+        "story",
+        8.370238778459575
+      ],
+      "judith": [
+        "story",
+        8.082556706007793
+      ],
+      "jonah": [
+        "prophet",
+        5.400873954873129
+      ],
+      "deborah": [
+        "prophet",
+        6.540308238061494
+      ],
+      "joshua": [
+        "prophet",
+        5.786536435685114
+      ]
+    },
+    "score": 2.1321984383031842
+  },
+  "compliments,crispness,lengths": {
+    "concepts": [
+      "sketch"
+    ],
+    "detail": {
+      "compliments": [
+        "sketch",
+        6.0112671744041615
+      ],
+      "crispness": [
+        "SELF",
+        15.86145611618474
+      ],
+      "lengths": [
+        "sketch",
+        6.0112671744041615
+      ]
+    },
+    "score": 2.7471347687819465
+  },
+  "languages,sciences,humanities": {
+    "concepts": [
+      "faculty"
+    ],
+    "detail": {
+      "languages": [
+        "faculty",
+        5.995830004617622
+      ],
+      "sciences": [
+        "faculty",
+        5.772686453303412
+      ],
+      "humanities": [
+        "faculty",
+        4.984229092939142
+      ]
+    },
+    "score": 1.9828137037462108
+  },
+  "raspberries,currants,blueberries": {
+    "concepts": [
+      "berry"
+    ],
+    "detail": {
+      "raspberries": [
+        "berry",
+        7.312998140173063
+      ],
+      "currants": [
+        "berry",
+        8.842315546841863
+      ],
+      "blueberries": [
+        "berry",
+        6.013715156042802
+      ]
+    },
+    "score": 2.2549968929240176
+  },
+  "unhappiness,indifference,apprehension": {
+    "concepts": [
+      "feeling"
+    ],
+    "detail": {
+      "unhappiness": [
+        "feeling",
+        7.01162377303819
+      ],
+      "indifference": [
+        "feeling",
+        5.497496040408414
+      ],
+      "apprehension": [
+        "feeling",
+        7.01162377303819
+      ]
+    },
+    "score": 2.062241487741499
+  },
+  "vagueness,ambiguity,synchrony": {
+    "concepts": [
+      "concept"
+    ],
+    "detail": {
+      "vagueness": [
+        "concept",
+        10.24296123269675
+      ],
+      "ambiguity": [
+        "concept",
+        9.038988428370814
+      ],
+      "synchrony": [
+        "concept",
+        10.24296123269675
+      ]
+    },
+    "score": 2.5597265081349274
+  },
+  "schooner,brig,sloop": {
+    "concepts": [
+      "vessel"
+    ],
+    "detail": {
+      "schooner": [
+        "vessel",
+        6.523235935389435
+      ],
+      "brig": [
+        "vessel",
+        6.641018971045819
+      ],
+      "sloop": [
+        "vessel",
+        6.322565239927284
+      ]
+    },
+    "score": 2.098055320967848
+  },
+  "calla,dahlias,gladioli": {
+    "concepts": [
+      "flower"
+    ],
+    "detail": {
+      "calla": [
+        "flower",
+        6.686952735369901
+      ],
+      "dahlias": [
+        "flower",
+        8.360929168941572
+      ],
+      "gladioli": [
+        "flower",
+        7.1569563646156364
+      ]
+    },
+    "score": 2.1949087656738167
+  },
+  "lapwing,snipe,plover": {
+    "concepts": [
+      "wader"
+    ],
+    "detail": {
+      "lapwing": [
+        "wader",
+        2.578838469622204
+      ],
+      "snipe": [
+        "wader",
+        3.1309070519222435
+      ],
+      "plover": [
+        "wader",
+        5.66988092298052
+      ]
+    },
+    "score": 1.695236874867947
+  },
+  "photo,photograph,picture": {
+    "concepts": [
+      "visual"
+    ],
+    "detail": {
+      "photo": [
+        "visual",
+        3.3327580667905017
+      ],
+      "photograph": [
+        "visual",
+        3.447638342788924
+      ],
+      "picture": [
+        "visual",
+        2.9043034404576384
+      ]
+    },
+    "score": 1.452249962768235
+  },
+  "illustration,diagram,map,chart,graph": {
+    "concepts": [
+      "visual"
+    ],
+    "detail": {
+      "illustration": [
+        "visual",
+        4.280547465724028
+      ],
+      "diagram": [
+        "visual",
+        3.4303965363544178
+      ],
+      "map": [
+        "visual",
+        3.372288905547137
+      ],
+      "chart": [
+        "visual",
+        2.631888840136646
+      ],
+      "graph": [
+        "visual",
+        2.9508234560925315
+      ]
+    },
+    "score": 1.2186499622604636
+  },
+  "geranium,begonia,dahlia,gladiolus": {
+    "concepts": [
+      "flower"
+    ],
+    "detail": {
+      "geranium": [
+        "flower",
+        5.399098447063262
+      ],
+      "begonia": [
+        "flower",
+        5.7218718393263135
+      ],
+      "dahlia": [
+        "flower",
+        4.970905087877543
+      ],
+      "gladiolus": [
+        "flower",
+        5.128808117323351
+      ]
+    },
+    "score": 1.639337284214532
+  },
+  "carnation,daisy,chrysanthemum,aster": {
+    "concepts": [
+      "flower"
+    ],
+    "detail": {
+      "carnation": [
+        "flower",
+        3.6943503548248375
+      ],
+      "daisy": [
+        "flower",
+        3.991481316474551
+      ],
+      "chrysanthemum": [
+        "flower",
+        4.277757907317597
+      ],
+      "aster": [
+        "flower",
+        5.0775148229358
+      ]
+    },
+    "score": 1.4303583297126476
+  },
+  "cyclamen,amaryllis,primula": {
+    "concepts": [
+      "flower"
+    ],
+    "detail": {
+      "cyclamen": [
+        "flower",
+        8.360929168941572
+      ],
+      "amaryllis": [
+        "flower",
+        6.092245627623208
+      ],
+      "primula": [
+        "flower",
+        7.380099915929846
+      ]
+    },
+    "score": 2.170137861911651
+  },
+  "glassware,silverware,crockery,utensil,cutlery,dinnerware,cookware,flatware": {
+    "concepts": [
+      "kitchenware"
+    ],
+    "detail": {
+      "glassware": [
+        "kitchenware",
+        4.119037174812472
+      ],
+      "silverware": [
+        "kitchenware",
+        4.119037174812472
+      ],
+      "crockery": [
+        "kitchenware",
+        4.301358731606427
+      ],
+      "utensil": [
+        "kitchenware",
+        4.812184355372417
+      ],
+      "cutlery": [
+        "kitchenware",
+        3.3458472865789903
+      ],
+      "dinnerware": [
+        "kitchenware",
+        4.812184355372417
+      ],
+      "cookware": [
+        "kitchenware",
+        4.524502282920636
+      ],
+      "flatware": [
+        "kitchenware",
+        5.217649463480582
+      ]
+    },
+    "score": 1.346557048338919
+  },
+  "flute,guitar,piano,trumpet,viola,violin,clarinet,cello,saxophone": {
+    "concepts": [
+      "music lesson"
+    ],
+    "detail": {
+      "flute": [
+        "music lesson",
+        2.878395566849449
+      ],
+      "guitar": [
+        "music lesson",
+        1.9621048349752939
+      ],
+      "piano": [
+        "music lesson",
+        1.8038808297603999
+      ],
+      "trumpet": [
+        "music lesson",
+        5.517452896464707
+      ],
+      "viola": [
+        "music lesson",
+        4.824305715904762
+      ],
+      "violin": [
+        "music lesson",
+        2.8094026953624978
+      ],
+      "clarinet": [
+        "music lesson",
+        2.952503539003171
+      ],
+      "cello": [
+        "music lesson",
+        2.5217206229107165
+      ],
+      "saxophone": [
+        "music lesson",
+        2.952503539003171
+      ]
+    },
+    "score": 1.2441341036897162
+  },
+  "valley,river,lake,stream,creek,mountain,pond,hill": {
+    "concepts": [
+      "landforms"
+    ],
+    "detail": {
+      "valley": [
+        "landforms",
+        2.94986885676081
+      ],
+      "river": [
+        "landforms",
+        3.1816704708181343
+      ],
+      "lake": [
+        "landforms",
+        3.5445759645075023
+      ],
+      "stream": [
+        "landforms",
+        5.6240175061873385
+      ],
+      "creek": [
+        "SELF",
+        10.48449562231759
+      ],
+      "mountain": [
+        "landforms",
+        2.013099593543114
+      ],
+      "pond": [
+        "landforms",
+        5.6240175061873385
+      ],
+      "hill": [
+        "landforms",
+        3.272642249023861
+      ]
+    },
+    "score": 1.3907440011708572
+  },
+  "velvet,taffeta,satin,lace,ribbon,brocade,crepe,chiffon": {
+    "concepts": [
+      "fabric"
+    ],
+    "detail": {
+      "velvet": [
+        "fabric",
+        3.751385892283698
+      ],
+      "taffeta": [
+        "fabric",
+        4.873903701805362
+      ],
+      "satin": [
+        "fabric",
+        3.6587038348856424
+      ],
+      "lace": [
+        "fabric",
+        4.23459975326624
+      ],
+      "ribbon": [
+        "fabric",
+        7.391600174416353
+      ],
+      "brocade": [
+        "fabric",
+        5.069212454126128
+      ],
+      "crepe": [
+        "fabric",
+        5.040224917252876
+      ],
+      "chiffon": [
+        "fabric",
+        4.014012658393332
+      ]
+    },
+    "score": 1.3310189834522679
+  },
+  "silk,linen,cotton,wool": {
+    "concepts": [
+      "fabric"
+    ],
+    "detail": {
+      "silk": [
+        "fabric",
+        2.7131795266886694
+      ],
+      "linen": [
+        "fabric",
+        3.428884054672689
+      ],
+      "cotton": [
+        "fabric",
+        2.7414566227855306
+      ],
+      "wool": [
+        "fabric",
+        3.3311571638699338
+      ]
+    },
+    "score": 1.200412059856782
+  },
+  "philosophy,geography,literature,science,history": {
+    "concepts": [
+      "humanity"
+    ],
+    "detail": {
+      "philosophy": [
+        "humanity",
+        2.6053316949072225
+      ],
+      "geography": [
+        "humanity",
+        3.991626056027113
+      ],
+      "literature": [
+        "humanity",
+        2.326618292438202
+      ],
+      "science": [
+        "humanity",
+        7.1929342212158
+      ],
+      "history": [
+        "humanity",
+        1.7478814630560007
+      ]
+    },
+    "score": 1.3243328999630983
+  },
+  "mathematics,english,physics,chemistry,statistics,math": {
+    "concepts": [
+      "subject"
+    ],
+    "detail": {
+      "mathematics": [
+        "subject",
+        4.997616678100429
+      ],
+      "english": [
+        "subject",
+        6.972514364028995
+      ],
+      "physics": [
+        "subject",
+        5.79839452285274
+      ],
+      "chemistry": [
+        "subject",
+        4.861707163070939
+      ],
+      "statistics": [
+        "subject",
+        7.377979472137159
+      ],
+      "math": [
+        "subject",
+        5.538363981731469
+      ]
+    },
+    "score": 1.5804020233888094
+  },
+  "table,sofa,desk,chair,couch": {
+    "concepts": [
+      "furniture"
+    ],
+    "detail": {
+      "table": [
+        "furniture",
+        2.373599188008931
+      ],
+      "sofa": [
+        "furniture",
+        3.029511985448833
+      ],
+      "desk": [
+        "furniture",
+        3.292168690333674
+      ],
+      "chair": [
+        "furniture",
+        2.444327794364296
+      ],
+      "couch": [
+        "furniture",
+        3.586208063280921
+      ]
+    },
+    "score": 1.0802002147297438
+  },
+  "blanket,sheet,cushion,pillow,towel,mattress": {
+    "concepts": [
+      "bedding"
+    ],
+    "detail": {
+      "blanket": [
+        "bedding",
+        2.515678308454754
+      ],
+      "sheet": [
+        "bedding",
+        2.4604156297797046
+      ],
+      "cushion": [
+        "bedding",
+        5.8944028342648505
+      ],
+      "pillow": [
+        "bedding",
+        2.387844936944869
+      ],
+      "towel": [
+        "bedding",
+        4.5081084731449605
+      ],
+      "mattress": [
+        "bedding",
+        3.857520907003811
+      ]
+    },
+    "score": 1.2174162473167371
+  },
+  "psychiatrist,psychologist,therapist": {
+    "concepts": [
+      "professional"
+    ],
+    "detail": {
+      "psychiatrist": [
+        "professional",
+        5.269825162670145
+      ],
+      "psychologist": [
+        "professional",
+        4.069291742646119
+      ],
+      "therapist": [
+        "professional",
+        5.133614957835596
+      ]
+    },
+    "score": 1.6410104455065897
+  },
+  "ohio,indiana,wisconsin,michigan,illinois,pennsylvania,minnesota": {
+    "concepts": [
+      "state"
+    ],
+    "detail": {
+      "ohio": [
+        "state",
+        3.99029038247833
+      ],
+      "indiana": [
+        "state",
+        4.622582287317
+      ],
+      "wisconsin": [
+        "state",
+        4.5039210571719295
+      ],
+      "michigan": [
+        "state",
+        4.389890371134096
+      ],
+      "illinois": [
+        "state",
+        3.8227839114695157
+      ],
+      "pennsylvania": [
+        "state",
+        4.165577912614904
+      ],
+      "minnesota": [
+        "state",
+        4.141178416670772
+      ]
+    },
+    "score": 1.1926342058369852
+  },
+  "connecticut,virginia,maryland": {
+    "concepts": [
+      "state"
+    ],
+    "detail": {
+      "connecticut": [
+        "state",
+        4.625750188593557
+      ],
+      "virginia": [
+        "state",
+        4.161248180621969
+      ],
+      "maryland": [
+        "state",
+        4.219404100779044
+      ]
+    },
+    "score": 1.4464910082514146
+  },
+  "miami,atlanta,charlotte": {
+    "concepts": [
+      "city"
+    ],
+    "detail": {
+      "miami": [
+        "city",
+        5.028979475683918
+      ],
+      "atlanta": [
+        "city",
+        4.852680562633648
+      ],
+      "charlotte": [
+        "city",
+        6.10259046214661
+      ]
+    },
+    "score": 1.6586657335806902
+  },
+  "boston,denver,baltimore,portland,chicago,seattle,detroit,pittsburgh,philadelphia": {
+    "concepts": [
+      "city"
+    ],
+    "detail": {
+      "boston": [
+        "city",
+        4.15790206034162
+      ],
+      "denver": [
+        "city",
+        5.1857300919773595
+      ],
+      "baltimore": [
+        "city",
+        4.991708080886686
+      ],
+      "portland": [
+        "city",
+        4.717721618017941
+      ],
+      "chicago": [
+        "city",
+        3.6611108907391077
+      ],
+      "seattle": [
+        "city",
+        4.398619672706747
+      ],
+      "detroit": [
+        "city",
+        4.617366475699184
+      ],
+      "pittsburgh": [
+        "city",
+        5.563119240303655
+      ],
+      "philadelphia": [
+        "city",
+        4.453493624457562
+      ]
+    },
+    "score": 1.2391772808911954
+  },
+  "robin,sparrow,blackbird,finch,canary,pigeon,starling,parakeet": {
+    "concepts": [
+      "bird"
+    ],
+    "detail": {
+      "robin": [
+        "bird",
+        4.422029016294796
+      ],
+      "sparrow": [
+        "bird",
+        4.692457840599018
+      ],
+      "blackbird": [
+        "bird",
+        5.18589172165314
+      ],
+      "finch": [
+        "bird",
+        4.679385759031665
+      ],
+      "canary": [
+        "bird",
+        5.576383287971141
+      ],
+      "pigeon": [
+        "bird",
+        4.180580138882223
+      ],
+      "starling": [
+        "bird",
+        4.833536438858923
+      ],
+      "parakeet": [
+        "bird",
+        5.7126481674913245
+      ]
+    },
+    "score": 1.3368292383877802
+  },
+  "ignorance,greed,selfishness,hatred,deceit,arrogance,cruelty": {
+    "concepts": [
+      "vice"
+    ],
+    "detail": {
+      "ignorance": [
+        "vice",
+        7.5953872788539725
+      ],
+      "greed": [
+        "vice",
+        3.534944268307553
+      ],
+      "selfishness": [
+        "vice",
+        5.649477129798659
+      ],
+      "hatred": [
+        "vice",
+        4.1296513760542455
+      ],
+      "deceit": [
+        "vice",
+        7.5953872788539725
+      ],
+      "arrogance": [
+        "vice",
+        6.4967749901858625
+      ],
+      "cruelty": [
+        "vice",
+        4.3765114539857715
+      ]
+    },
+    "score": 1.6004671692682757
+  },
+  "images,documents,pictures": {
+    "concepts": [
+      "folder"
+    ],
+    "detail": {
+      "images": [
+        "folder",
+        6.472732618631647
+      ],
+      "documents": [
+        "folder",
+        3.731892594706446
+      ],
+      "pictures": [
+        "folder",
+        3.5685675386031463
+      ]
+    },
+    "score": 1.7474337865601455
+  },
+  "tanager,warbler,cuckoo,oriole,thrush,flycatcher": {
+    "concepts": [
+      "songbird"
+    ],
+    "detail": {
+      "tanager": [
+        "songbird",
+        5.060060177423779
+      ],
+      "warbler": [
+        "songbird",
+        3.1431375652417177
+      ],
+      "cuckoo": [
+        "songbird",
+        5.976350909297934
+      ],
+      "oriole": [
+        "songbird",
+        4.723587940802566
+      ],
+      "thrush": [
+        "songbird",
+        4.47227351252166
+      ],
+      "flycatcher": [
+        "songbird",
+        4.723587940802566
+      ]
+    },
+    "score": 1.4703537314628956
+  },
+  "names,attributes,caller": {
+    "concepts": [
+      "name"
+    ],
+    "detail": {
+      "names": [
+        "name",
+        9.579399226862877
+      ],
+      "attributes": [
+        "name",
+        9.914007028326278
+      ],
+      "caller": [
+        "name",
+        10.367856587227148
+      ]
+    },
+    "score": 2.5693573463776054
+  },
+  "salads,sandwiches,desserts,biscuits,soups,jellies,entree,jams": {
+    "concepts": [
+      "food item"
+    ],
+    "detail": {
+      "salads": [
+        "food item",
+        9.006447825254085
+      ],
+      "sandwiches": [
+        "food item",
+        9.006447825254085
+      ],
+      "desserts": [
+        "SELF",
+        14.010856146933751
+      ],
+      "biscuits": [
+        "food item",
+        8.31330064469414
+      ],
+      "soups": [
+        "food item",
+        8.600982717145921
+      ],
+      "jellies": [
+        "food item",
+        9.006447825254085
+      ],
+      "entree": [
+        "food item",
+        9.69959500581403
+      ],
+      "jams": [
+        "food item",
+        9.69959500581403
+      ]
+    },
+    "score": 2.4726028841447945
+  },
+  "adagio,andante,allegro": {
+    "concepts": [
+      "word"
+    ],
+    "detail": {
+      "adagio": [
+        "word",
+        9.013587685527243
+      ],
+      "andante": [
+        "word",
+        9.013587685527243
+      ],
+      "allegro": [
+        "word",
+        8.95296306371081
+      ]
+    },
+    "score": 2.401947595031488
+  },
+  "goat,cattle,sheep,cow,horse": {
+    "concepts": [
+      "livestock"
+    ],
+    "detail": {
+      "goat": [
+        "livestock",
+        1.8669076757420358
+      ],
+      "cattle": [
+        "livestock",
+        1.6397005357119037
+      ],
+      "sheep": [
+        "livestock",
+        1.8042421650789866
+      ],
+      "cow": [
+        "livestock",
+        2.5212948664924864
+      ],
+      "horse": [
+        "livestock",
+        2.5660608803621927
+      ]
+    },
+    "score": 0.9609011892324061
+  },
+  "marten,mink,otter,weasel": {
+    "concepts": [
+      "furbearers"
+    ],
+    "detail": {
+      "marten": [
+        "furbearers",
+        2.7629268113280445
+      ],
+      "mink": [
+        "furbearers",
+        1.9156289509408406
+      ],
+      "otter": [
+        "furbearers",
+        2.842969519001581
+      ],
+      "weasel": [
+        "furbearers",
+        3.248434627109745
+      ]
+    },
+    "score": 1.3153450148907608
+  },
+  "thought,perception,emotion,feeling": {
+    "concepts": [
+      "mental process"
+    ],
+    "detail": {
+      "thought": [
+        "mental process",
+        2.912989846483937
+      ],
+      "perception": [
+        "mental process",
+        2.5010100573545793
+      ],
+      "emotion": [
+        "mental process",
+        4.205758149593004
+      ],
+      "feeling": [
+        "mental process",
+        4.8989053301529495
+      ]
+    },
+    "score": 1.871038510956851
+  },
+  "experience,skill,knowledge": {
+    "concepts": [],
+    "detail": {
+      "experience": [
+        "SELF",
+        8.176839375772323
+      ],
+      "skill": [
+        "SELF",
+        6.68964869392534
+      ],
+      "knowledge": [
+        "SELF",
+        9.04531784516931
+      ]
+    },
+    "score": 9.56472236594679
+  },
+  "value,personality,attitude,belief": {
+    "concepts": [
+      "disposition"
+    ],
+    "detail": {
+      "value": [
+        "disposition",
+        4.576999309021395
+      ],
+      "personality": [
+        "disposition",
+        4.694782344677779
+      ],
+      "attitude": [
+        "disposition",
+        6.081076705797669
+      ],
+      "belief": [
+        "disposition",
+        5.1647859739235145
+      ]
+    },
+    "score": 1.75765023764412
+  },
+  "golf,football,tennis,soccer,running,walking,swimming,baseball": {
+    "concepts": [
+      "athletics"
+    ],
+    "detail": {
+      "golf": [
+        "athletics",
+        3.5648268054439574
+      ],
+      "football": [
+        "athletics",
+        2.1377104498038118
+      ],
+      "tennis": [
+        "athletics",
+        2.466214516775848
+      ],
+      "soccer": [
+        "athletics",
+        2.7916369172104756
+      ],
+      "running": [
+        "athletics",
+        4.257973986003902
+      ],
+      "walking": [
+        "athletics",
+        5.356586274672012
+      ],
+      "swimming": [
+        "athletics",
+        3.159361697335793
+      ],
+      "baseball": [
+        "athletics",
+        2.5233729306157966
+      ]
+    },
+    "score": 1.100139415134544
+  },
+  "skating,fishing,hunting,camping,hiking,skiing": {
+    "concepts": [
+      "outdoor"
+    ],
+    "detail": {
+      "skating": [
+        "outdoor",
+        7.1276936993473985
+      ],
+      "fishing": [
+        "outdoor",
+        1.834388874622906
+      ],
+      "hunting": [
+        "outdoor",
+        2.7969603590610674
+      ],
+      "camping": [
+        "outdoor",
+        1.6102408028826907
+      ],
+      "hiking": [
+        "outdoor",
+        2.5027208860631274
+      ],
+      "skiing": [
+        "outdoor",
+        4.729798426549028
+      ]
+    },
+    "score": 1.209684890065303
+  },
+  "soup,salad,stew,sandwich": {
+    "concepts": [
+      "meal"
+    ],
+    "detail": {
+      "soup": [
+        "meal",
+        4.474041918581354
+      ],
+      "salad": [
+        "meal",
+        4.034090634402021
+      ],
+      "stew": [
+        "meal",
+        5.167189099141299
+      ],
+      "sandwich": [
+        "meal",
+        4.7104306966455844
+      ]
+    },
+    "score": 1.5355056229197956
+  },
+  "cauliflower,celery,cabbage,pepper,asparagus,lettuce,tomato,turnip,spinach": {
+    "concepts": [
+      "vegetable"
+    ],
+    "detail": {
+      "cauliflower": [
+        "vegetable",
+        3.574163261623978
+      ],
+      "celery": [
+        "vegetable",
+        3.6616930688185936
+      ],
+      "cabbage": [
+        "vegetable",
+        3.1755631690354935
+      ],
+      "pepper": [
+        "vegetable",
+        3.813978656404856
+      ],
+      "asparagus": [
+        "vegetable",
+        4.114300663792457
+      ],
+      "lettuce": [
+        "vegetable",
+        3.591414983332468
+      ],
+      "tomato": [
+        "vegetable",
+        2.91523223418161
+      ],
+      "turnip": [
+        "vegetable",
+        4.439873609955634
+      ],
+      "spinach": [
+        "vegetable",
+        3.230225881603673
+      ]
+    },
+    "score": 1.0461623836916616
+  },
+  "purple,orange,blue,green,pink,white,yellow,lemon,lime": {
+    "concepts": [
+      "colour"
+    ],
+    "detail": {
+      "purple": [
+        "colour",
+        3.6426995167003113
+      ],
+      "orange": [
+        "colour",
+        3.126692534192323
+      ],
+      "blue": [
+        "colour",
+        2.6346468050779284
+      ],
+      "green": [
+        "colour",
+        2.8805594646534143
+      ],
+      "pink": [
+        "colour",
+        3.5091681240757886
+      ],
+      "white": [
+        "colour",
+        2.9560670171615597
+      ],
+      "yellow": [
+        "colour",
+        2.8625409591507363
+      ],
+      "lemon": [
+        "colour",
+        6.600210577434105
+      ],
+      "lime": [
+        "colour",
+        6.8878926498858855
+      ]
+    },
+    "score": 1.180914944683147
+  },
+  "tan,gray,brown,beige": {
+    "concepts": [
+      "neutral"
+    ],
+    "detail": {
+      "tan": [
+        "neutral",
+        3.1822821664574668
+      ],
+      "gray": [
+        "neutral",
+        2.078036060071101
+      ],
+      "brown": [
+        "neutral",
+        3.085432340467549
+      ],
+      "beige": [
+        "neutral",
+        2.760009940032921
+      ]
+    },
+    "score": 1.2690585597258341
+  },
+  "fly,bee,beetle,moth,grasshopper,ant,mosquito,flea,wasp": {
+    "concepts": [
+      "insect"
+    ],
+    "detail": {
+      "fly": [
+        "insect",
+        3.3855035917127605
+      ],
+      "bee": [
+        "insect",
+        3.0091053273359507
+      ],
+      "beetle": [
+        "insect",
+        3.2407862595406622
+      ],
+      "moth": [
+        "insect",
+        3.7057283542872486
+      ],
+      "grasshopper": [
+        "insect",
+        3.3333007010221607
+      ],
+      "ant": [
+        "insect",
+        3.3390755005160444
+      ],
+      "mosquito": [
+        "insect",
+        2.9898607471615954
+      ],
+      "flea": [
+        "insect",
+        4.278310856228933
+      ],
+      "wasp": [
+        "insect",
+        3.6621247168051165
+      ]
+    },
+    "score": 1.0324341220936084
+  },
+  "switzerland,austria,belgium,sweden": {
+    "concepts": [
+      "european country"
+    ],
+    "detail": {
+      "switzerland": [
+        "european country",
+        3.320991848399387
+      ],
+      "austria": [
+        "european country",
+        3.2572760340132794
+      ],
+      "belgium": [
+        "european country",
+        3.1569788203119997
+      ],
+      "sweden": [
+        "european country",
+        2.8942241595873544
+      ]
+    },
+    "score": 1.5041940834886969
+  },
+  "france,spain,greece,portugal,ireland,italy": {
+    "concepts": [
+      "european country"
+    ],
+    "detail": {
+      "france": [
+        "european country",
+        1.922215898791008
+      ],
+      "spain": [
+        "european country",
+        2.6320400590695447
+      ],
+      "greece": [
+        "european country",
+        3.79195287360145
+      ],
+      "portugal": [
+        "european country",
+        3.7617619013223043
+      ],
+      "ireland": [
+        "european country",
+        3.7824199129427263
+      ],
+      "italy": [
+        "european country",
+        2.5457797147851378
+      ]
+    },
+    "score": 1.2541280416294072
+  },
+  "friend,relative,neighbor,family": {
+    "concepts": [
+      "carer"
+    ],
+    "detail": {
+      "friend": [
+        "carer",
+        3.382505248650003
+      ],
+      "relative": [
+        "carer",
+        1.7085288150783313
+      ],
+      "neighbor": [
+        "carer",
+        3.970291913552122
+      ],
+      "family": [
+        "carer",
+        4.193435464866331
+      ]
+    },
+    "score": 1.427981549350389
+  },
+  "singer,musician,dancer,actor,artist,writer": {
+    "concepts": [
+      "creative person"
+    ],
+    "detail": {
+      "singer": [
+        "creative person",
+        4.589040804058207
+      ],
+      "musician": [
+        "creative person",
+        2.3066584183816814
+      ],
+      "dancer": [
+        "creative person",
+        4.589040804058207
+      ],
+      "actor": [
+        "creative person",
+        3.4258899942525267
+      ],
+      "artist": [
+        "creative person",
+        2.0713443314472166
+      ],
+      "writer": [
+        "creative person",
+        2.3066584183816814
+      ]
+    },
+    "score": 1.5031602590326754
+  },
+  "sadness,grief,loneliness,happiness,anger,joy,stress,depression,anxiety": {
+    "concepts": [
+      "emotion"
+    ],
+    "detail": {
+      "sadness": [
+        "emotion",
+        2.846578861728843
+      ],
+      "grief": [
+        "emotion",
+        3.9779809732199434
+      ],
+      "loneliness": [
+        "emotion",
+        4.912620843762295
+      ],
+      "happiness": [
+        "emotion",
+        3.4420193761824103
+      ],
+      "anger": [
+        "emotion",
+        1.757987287622448
+      ],
+      "joy": [
+        "emotion",
+        3.5438400651351127
+      ],
+      "stress": [
+        "emotion",
+        4.396255039620689
+      ],
+      "depression": [
+        "emotion",
+        4.016910819588161
+      ],
+      "anxiety": [
+        "emotion",
+        3.076342518132659
+      ]
+    },
+    "score": 1.0577016098662366
+  },
+  "phrasing,diction,articulation": {
+    "concepts": [
+      "fundamental"
+    ],
+    "detail": {
+      "phrasing": [
+        "fundamental",
+        8.78615105486974
+      ],
+      "diction": [
+        "fundamental",
+        6.840240905814426
+      ],
+      "articulation": [
+        "fundamental",
+        8.093003874309794
+      ]
+    },
+    "score": 2.392432053398797
+  },
+  "roan,springbok,sable,oryx,waterbuck": {
+    "concepts": [
+      "antelope"
+    ],
+    "detail": {
+      "roan": [
+        "antelope",
+        3.917010546939185
+      ],
+      "springbok": [
+        "antelope",
+        2.7643310370007996
+      ],
+      "sable": [
+        "antelope",
+        3.762859867111927
+      ],
+      "oryx": [
+        "antelope",
+        3.762859867111927
+      ],
+      "waterbuck": [
+        "antelope",
+        4.3224756550473495
+      ]
+    },
+    "score": 1.3513271965944418
+  },
+  "tenor,contralto,soprano,baritone,alto": {
+    "concepts": [
+      "voice"
+    ],
+    "detail": {
+      "tenor": [
+        "voice",
+        7.568379267836522
+      ],
+      "contralto": [
+        "voice",
+        7.568379267836522
+      ],
+      "soprano": [
+        "voice",
+        7.568379267836522
+      ],
+      "baritone": [
+        "voice",
+        6.875232087276577
+      ],
+      "alto": [
+        "voice",
+        6.469766979168413
+      ]
+    },
+    "score": 1.979627248899901
+  },
+  "friendliness,courtesy,politeness": {
+    "concepts": [
+      "quality"
+    ],
+    "detail": {
+      "friendliness": [
+        "quality",
+        6.427749797556032
+      ],
+      "courtesy": [
+        "quality",
+        6.135080183593213
+      ],
+      "politeness": [
+        "quality",
+        6.784424741494765
+      ]
+    },
+    "score": 1.9719550460248034
+  },
+  "springtide,plage,spicules": {
+    "concepts": [
+      "phenomenon",
+      "french word"
+    ],
+    "detail": {
+      "springtide": [
+        "phenomenon",
+        9.825661137071622
+      ],
+      "plage": [
+        "french word",
+        4.5217885770490405
+      ],
+      "spicules": [
+        "SELF",
+        18.25935138898311
+      ]
+    },
+    "score": 4.4325799963641765
+  },
+  "festivals,concerts,parades,fairs": {
+    "concepts": [
+      "event"
+    ],
+    "detail": {
+      "festivals": [
+        "event",
+        8.700658747681244
+      ],
+      "concerts": [
+        "event",
+        8.645598970498217
+      ],
+      "parades": [
+        "event",
+        10.59150911955353
+      ],
+      "fairs": [
+        "event",
+        10.186044011445366
+      ]
+    },
+    "score": 2.36017199957113
+  },
+  "laurels,hemlocks,yews,spruces": {
+    "concepts": [
+      "evergreen"
+    ],
+    "detail": {
+      "laurels": [
+        "evergreen",
+        7.360739903058278
+      ],
+      "hemlocks": [
+        "evergreen",
+        7.360739903058278
+      ],
+      "yews": [
+        "evergreen",
+        7.360739903058278
+      ],
+      "spruces": [
+        "evergreen",
+        5.974445541938387
+      ]
+    },
+    "score": 2.110671394476192
+  },
+  "senorita,redbreast,minnows": {
+    "concepts": [
+      "fish"
+    ],
+    "detail": {
+      "senorita": [
+        "fish",
+        9.27403478695637
+      ],
+      "redbreast": [
+        "fish",
+        9.27403478695637
+      ],
+      "minnows": [
+        "fish",
+        10.37264707562448
+      ]
+    },
+    "score": 2.581801640183243
+  },
+  "shops,offices,warehouses": {
+    "concepts": [
+      "building"
+    ],
+    "detail": {
+      "shops": [
+        "building",
+        10.239638308916676
+      ],
+      "offices": [
+        "building",
+        8.447878839688622
+      ],
+      "warehouses": [
+        "building",
+        9.141026020248567
+      ]
+    },
+    "score": 2.527466682880442
+  },
+  "watches,belts,purses,wallets,handbags": {
+    "concepts": [
+      "accessory"
+    ],
+    "detail": {
+      "watches": [
+        "accessory",
+        10.560774367644997
+      ],
+      "belts": [
+        "accessory",
+        9.867627187085052
+      ],
+      "purses": [
+        "accessory",
+        10.560774367644997
+      ],
+      "wallets": [
+        "accessory",
+        10.273092295193216
+      ],
+      "handbags": [
+        "accessory",
+        10.560774367644997
+      ]
+    },
+    "score": 2.5099740382338287
+  },
+  "canes,cloudland,hawthorns": {
+    "concepts": [
+      "venue"
+    ],
+    "detail": {
+      "canes": [
+        "venue",
+        10.410847176658944
+      ],
+      "cloudland": [
+        "venue",
+        9.312234887990835
+      ],
+      "hawthorns": [
+        "venue",
+        9.717699996098998
+      ]
+    },
+    "score": 2.6633387963296467
+  },
+  "funerals,receptions,engagements,banquets": {
+    "concepts": [
+      "occasion"
+    ],
+    "detail": {
+      "funerals": [
+        "occasion",
+        6.973573223244261
+      ],
+      "receptions": [
+        "occasion",
+        8.104975334735363
+      ],
+      "engagements": [
+        "occasion",
+        9.308948139061298
+      ],
+      "banquets": [
+        "occasion",
+        10.407560427729408
+      ]
+    },
+    "score": 2.3086050892960803
+  },
+  "fox,squirrel,bear,wolf,opossum,raccoon,skunk,coyote": {
+    "concepts": [
+      "predator"
+    ],
+    "detail": {
+      "fox": [
+        "predator",
+        3.062131398808124
+      ],
+      "squirrel": [
+        "predator",
+        6.427046275288856
+      ],
+      "bear": [
+        "predator",
+        4.188540038979333
+      ],
+      "wolf": [
+        "predator",
+        3.5290408925376204
+      ],
+      "opossum": [
+        "predator",
+        5.7689904145401805
+      ],
+      "raccoon": [
+        "predator",
+        3.5777360041904656
+      ],
+      "skunk": [
+        "predator",
+        4.744486098025793
+      ],
+      "coyote": [
+        "predator",
+        3.1999286455255516
+      ]
+    },
+    "score": 1.2451712481764798
+  },
+  "dad,mom,grandma": {
+    "concepts": [
+      "relative"
+    ],
+    "detail": {
+      "dad": [
+        "relative",
+        7.126890808898808
+      ],
+      "mom": [
+        "relative",
+        7.820037989458753
+      ],
+      "grandma": [
+        "relative",
+        5.111987788356543
+      ]
+    },
+    "score": 2.1716422112304565
+  },
+  "banana,mango,pineapple": {
+    "concepts": [
+      "fruit"
+    ],
+    "detail": {
+      "banana": [
+        "fruit",
+        2.829623120453602
+      ],
+      "mango": [
+        "fruit",
+        3.454267745790403
+      ],
+      "pineapple": [
+        "fruit",
+        3.3089134352675416
+      ]
+    },
+    "score": 1.2615255487944266
+  },
+  "florence,venice,rome,london,athens,paris,istanbul,genoa": {
+    "concepts": [
+      "city"
+    ],
+    "detail": {
+      "florence": [
+        "city",
+        5.851909346109798
+      ],
+      "venice": [
+        "city",
+        5.925505765690338
+      ],
+      "rome": [
+        "city",
+        5.439814379462963
+      ],
+      "london": [
+        "city",
+        3.8893504694884142
+      ],
+      "athens": [
+        "city",
+        6.350248579224406
+      ],
+      "paris": [
+        "city",
+        4.595668113238105
+      ],
+      "istanbul": [
+        "city",
+        6.249643880103107
+      ],
+      "genoa": [
+        "city",
+        7.452517179095626
+      ]
+    },
+    "score": 1.4729362966774682
+  },
+  "warsaw,prague,budapest,vienna": {
+    "concepts": [
+      "city"
+    ],
+    "detail": {
+      "warsaw": [
+        "city",
+        7.088179362411324
+      ],
+      "prague": [
+        "city",
+        6.445923789147768
+      ],
+      "budapest": [
+        "city",
+        6.640366706474068
+      ],
+      "vienna": [
+        "city",
+        6.114051905665617
+      ]
+    },
+    "score": 1.8018834498616454
+  },
+  "singapore,russia,korea,india,vietnam,japan,china,philippines,thailand": {
+    "concepts": [
+      "economy"
+    ],
+    "detail": {
+      "singapore": [
+        "economy",
+        4.1304206186959105
+      ],
+      "russia": [
+        "economy",
+        3.50512160894118
+      ],
+      "korea": [
+        "economy",
+        4.322704168218612
+      ],
+      "india": [
+        "economy",
+        1.978929657046574
+      ],
+      "vietnam": [
+        "economy",
+        4.9442705450155735
+      ],
+      "japan": [
+        "economy",
+        3.342758697853894
+      ],
+      "china": [
+        "economy",
+        1.778628955113757
+      ],
+      "philippines": [
+        "economy",
+        4.7106556938340685
+      ],
+      "thailand": [
+        "economy",
+        4.392201962715534
+      ]
+    },
+    "score": 1.087179494826189
+  },
+  "pears,apples,cherries,plums,apricots": {
+    "concepts": [
+      "fruit"
+    ],
+    "detail": {
+      "pears": [
+        "fruit",
+        8.301893794125077
+      ],
+      "apples": [
+        "fruit",
+        7.3856030622509214
+      ],
+      "cherries": [
+        "fruit",
+        9.282723047136804
+      ],
+      "plums": [
+        "fruit",
+        8.877257939028638
+      ],
+      "apricots": [
+        "fruit",
+        8.589575866576858
+      ]
+    },
+    "score": 2.138141334691664
+  },
+  "robes,mugs,pencils,pens": {
+    "concepts": [
+      "item"
+    ],
+    "detail": {
+      "robes": [
+        "item",
+        13.39501150430202
+      ],
+      "mugs": [
+        "item",
+        10.910104854514021
+      ],
+      "pencils": [
+        "item",
+        12.296399215633912
+      ],
+      "pens": [
+        "item",
+        10.910104854514021
+      ]
+    },
+    "score": 2.7934177887439375
+  },
+  "messages,settings,favorites": {
+    "concepts": [
+      "tab"
+    ],
+    "detail": {
+      "messages": [
+        "tab",
+        7.518064181233078
+      ],
+      "settings": [
+        "tab",
+        5.438622639553242
+      ],
+      "favorites": [
+        "tab",
+        7.518064181233078
+      ]
+    },
+    "score": 2.209075359332864
+  },
+  "marietta,winthrop,randolph": {
+    "concepts": [
+      "town"
+    ],
+    "detail": {
+      "marietta": [
+        "town",
+        8.889280748467447
+      ],
+      "winthrop": [
+        "town",
+        8.706959191673493
+      ],
+      "randolph": [
+        "town",
+        8.889280748467447
+      ]
+    },
+    "score": 2.4584356530782965
+  },
+  "envelopes,labels,buttons": {
+    "concepts": [
+      "control"
+    ],
+    "detail": {
+      "envelopes": [
+        "SELF",
+        13.73756281193407
+      ],
+      "labels": [
+        "control",
+        6.5328939832875
+      ],
+      "buttons": [
+        "control",
+        7.393095248510611
+      ]
+    },
+    "score": 2.5617375766758967
+  },
+  "colleges,universities,schools,restaurants,hospitals,hotels": {
+    "concepts": [
+      "convenient facility"
+    ],
+    "detail": {
+      "colleges": [
+        "convenient facility",
+        5.976350909297934
+      ],
+      "universities": [
+        "SELF",
+        11.674559996597393
+      ],
+      "schools": [
+        "convenient facility",
+        2.7574750844297333
+      ],
+      "restaurants": [
+        "convenient facility",
+        5.688668836846153
+      ],
+      "hospitals": [
+        "convenient facility",
+        4.772378104971998
+      ],
+      "hotels": [
+        "convenient facility",
+        6.3818160174060985
+      ]
+    },
+    "score": 2.0522872398160747
+  },
+  "items,employees,customers": {
+    "concepts": [
+      "table"
+    ],
+    "detail": {
+      "items": [
+        "table",
+        7.061763091461485
+      ],
+      "employees": [
+        "table",
+        7.061763091461485
+      ],
+      "customers": [
+        "table",
+        6.368615910901539
+      ]
+    },
+    "score": 2.0822763501863224
+  },
+  "wilton,morton,sherwood": {
+    "concepts": [
+      "school"
+    ],
+    "detail": {
+      "wilton": [
+        "school",
+        9.506164210119588
+      ],
+      "morton": [
+        "school",
+        10.604776498787697
+      ],
+      "sherwood": [
+        "school",
+        8.813017029559642
+      ]
+    },
+    "score": 2.564363815743831
+  },
+  "dalmatians,dalmatian,labs": {
+    "concepts": [
+      "breed"
+    ],
+    "detail": {
+      "dalmatians": [
+        "breed",
+        5.948141553545623
+      ],
+      "dalmatian": [
+        "breed",
+        5.9687608407483586
+      ],
+      "labs": [
+        "breed",
+        6.844229578102259
+      ]
+    },
+    "score": 1.9851714247905616
+  },
+  "tiger,lion,elephant,leopard,zebra,giraffe,cheetah": {
+    "concepts": [
+      "animal"
+    ],
+    "detail": {
+      "tiger": [
+        "animal",
+        4.83157205956384
+      ],
+      "lion": [
+        "animal",
+        4.550159600125654
+      ],
+      "elephant": [
+        "animal",
+        4.231861814426538
+      ],
+      "leopard": [
+        "animal",
+        5.622532550146228
+      ],
+      "zebra": [
+        "animal",
+        5.37708324131772
+      ],
+      "giraffe": [
+        "animal",
+        5.241592984207864
+      ],
+      "cheetah": [
+        "animal",
+        6.375052004206142
+      ]
+    },
+    "score": 1.4041338302674424
+  },
+  "antelope,elk,deer,moose,bison,caribou": {
+    "concepts": [
+      "ungulate"
+    ],
+    "detail": {
+      "antelope": [
+        "ungulate",
+        4.9892981567081245
+      ],
+      "elk": [
+        "ungulate",
+        2.686713063714079
+      ],
+      "deer": [
+        "ungulate",
+        2.599007483294973
+      ],
+      "moose": [
+        "ungulate",
+        2.7468169877837845
+      ],
+      "bison": [
+        "ungulate",
+        4.073007424833969
+      ],
+      "caribou": [
+        "ungulate",
+        3.9478442818799633
+      ]
+    },
+    "score": 1.2366785460071257
+  },
+  "narcissi,daffodils,crocuses,tulips,hyacinths": {
+    "concepts": [
+      "bulb"
+    ],
+    "detail": {
+      "narcissi": [
+        "bulb",
+        5.637998734110198
+      ],
+      "daffodils": [
+        "bulb",
+        5.167995104864462
+      ],
+      "crocuses": [
+        "bulb",
+        6.554289465984353
+      ],
+      "tulips": [
+        "bulb",
+        4.60837931692904
+      ],
+      "hyacinths": [
+        "bulb",
+        5.455677177316243
+      ]
+    },
+    "score": 1.669217528996859
+  },
+  "lily,tulip,hyacinth,daffodil": {
+    "concepts": [
+      "bulb"
+    ],
+    "detail": {
+      "lily": [
+        "bulb",
+        4.0904362253941855
+      ],
+      "tulip": [
+        "bulb",
+        2.207242550206498
+      ],
+      "hyacinth": [
+        "bulb",
+        2.871679624884012
+      ],
+      "daffodil": [
+        "bulb",
+        2.270702904123724
+      ]
+    },
+    "score": 1.243940821547414
+  },
+  "peach,pear,apple,cherry,grape,apricot,strawberry,plum": {
+    "concepts": [
+      "fruit"
+    ],
+    "detail": {
+      "peach": [
+        "fruit",
+        3.3135893205138345
+      ],
+      "pear": [
+        "fruit",
+        3.2239893354937177
+      ],
+      "apple": [
+        "fruit",
+        2.3237994815802665
+      ],
+      "cherry": [
+        "fruit",
+        2.9182591931702335
+      ],
+      "grape": [
+        "fruit",
+        3.3438684503011182
+      ],
+      "apricot": [
+        "fruit",
+        3.7029932211505807
+      ],
+      "strawberry": [
+        "fruit",
+        2.5931237779578367
+      ],
+      "plum": [
+        "fruit",
+        4.053398552075718
+      ]
+    },
+    "score": 0.9754775520517313
+  },
+  "rosewood,teak,mahogany,ebony": {
+    "concepts": [
+      "hardwood"
+    ],
+    "detail": {
+      "rosewood": [
+        "hardwood",
+        5.115534164750884
+      ],
+      "teak": [
+        "hardwood",
+        3.7552152900342546
+      ],
+      "mahogany": [
+        "hardwood",
+        3.4658898318387434
+      ],
+      "ebony": [
+        "hardwood",
+        5.78336353732654
+      ]
+    },
+    "score": 1.543618709781417
+  },
+  "corn,rice,wheat,bread,potato,pasta": {
+    "concepts": [
+      "starch"
+    ],
+    "detail": {
+      "corn": [
+        "starch",
+        3.0168940583818626
+      ],
+      "rice": [
+        "starch",
+        2.3802254819823885
+      ],
+      "wheat": [
+        "starch",
+        3.826380231025958
+      ],
+      "bread": [
+        "starch",
+        2.8971860943158947
+      ],
+      "potato": [
+        "starch",
+        2.278541441053871
+      ],
+      "pasta": [
+        "starch",
+        2.939077036025055
+      ]
+    },
+    "score": 1.0477446428721735
+  },
+  "cake,pie,pastry,biscuit": {
+    "concepts": [
+      "sweet"
+    ],
+    "detail": {
+      "cake": [
+        "sweet",
+        2.7573025792849557
+      ],
+      "pie": [
+        "sweet",
+        4.371606681370229
+      ],
+      "pastry": [
+        "sweet",
+        4.024735737528117
+      ],
+      "biscuit": [
+        "sweet",
+        4.9941362947162204
+      ]
+    },
+    "score": 1.4511419252015714
+  },
+  "ruby,sapphire,emerald": {
+    "concepts": [
+      "gemstone"
+    ],
+    "detail": {
+      "ruby": [
+        "gemstone",
+        2.3649809092192564
+      ],
+      "sapphire": [
+        "gemstone",
+        2.488775126565921
+      ],
+      "emerald": [
+        "gemstone",
+        2.5736745703524067
+      ]
+    },
+    "score": 1.3479028852444577
+  },
+  "doctor,lawyer,nurse,designer,engineer,physician,architect": {
+    "concepts": [
+      "professional"
+    ],
+    "detail": {
+      "doctor": [
+        "professional",
+        2.6089355529251064
+      ],
+      "lawyer": [
+        "professional",
+        2.7633362140050726
+      ],
+      "nurse": [
+        "professional",
+        3.766224751354858
+      ],
+      "designer": [
+        "professional",
+        5.868833352316229
+      ],
+      "engineer": [
+        "professional",
+        3.6425220366781748
+      ],
+      "physician": [
+        "professional",
+        4.119633497506969
+      ],
+      "architect": [
+        "professional",
+        3.917358358627508
+      ]
+    },
+    "score": 1.149021644735638
+  },
+  "references,methods,results": {
+    "concepts": [
+      "subheading"
+    ],
+    "detail": {
+      "references": [
+        "subheading",
+        5.08965183441448
+      ],
+      "methods": [
+        "subheading",
+        3.192531849528599
+      ],
+      "results": [
+        "subheading",
+        3.5492067934673313
+      ]
+    },
+    "score": 1.7690103123374326
+  },
+  "greenwood,vernon,davenport": {
+    "concepts": [
+      "author"
+    ],
+    "detail": {
+      "greenwood": [
+        "author",
+        8.384763712470185
+      ],
+      "vernon": [
+        "author",
+        8.915391963532356
+      ],
+      "davenport": [
+        "author",
+        7.326156758415776
+      ]
+    },
+    "score": 2.283618734993889
+  },
+  "waters,weeks,bowers": {
+    "concepts": [
+      "case"
+    ],
+    "detail": {
+      "waters": [
+        "case",
+        10.385903413661655
+      ],
+      "weeks": [
+        "case",
+        11.0790505942216
+      ],
+      "bowers": [
+        "case",
+        9.405074160649928
+      ]
+    },
+    "score": 2.63920016601603
+  },
+  "maple,oak,beech,almond,walnut,ash,birch,sycamore": {
+    "concepts": [
+      "hardwood"
+    ],
+    "detail": {
+      "maple": [
+        "hardwood",
+        2.2054156439198853
+      ],
+      "oak": [
+        "hardwood",
+        1.649798261951158
+      ],
+      "beech": [
+        "hardwood",
+        3.130121572719325
+      ],
+      "almond": [
+        "hardwood",
+        7.6804835222124215
+      ],
+      "walnut": [
+        "hardwood",
+        3.315264005854921
+      ],
+      "ash": [
+        "hardwood",
+        2.9530957035000807
+      ],
+      "birch": [
+        "hardwood",
+        3.470828113479326
+      ],
+      "sycamore": [
+        "hardwood",
+        5.195576872424421
+      ]
+    },
+    "score": 1.143414146639601
+  },
+  "poplar,willow,cottonwood": {
+    "concepts": [
+      "tree"
+    ],
+    "detail": {
+      "poplar": [
+        "tree",
+        4.190504991838515
+      ],
+      "willow": [
+        "tree",
+        3.814715651876467
+      ],
+      "cottonwood": [
+        "tree",
+        4.486407897435153
+      ]
+    },
+    "score": 1.5209811431882678
+  },
+  "topaz,aquamarine,chalcedony,amethyst,jasper,agate,carnelian,garnet,tourmaline": {
+    "concepts": [
+      "gemstone"
+    ],
+    "detail": {
+      "topaz": [
+        "gemstone",
+        3.4466148613529484
+      ],
+      "aquamarine": [
+        "gemstone",
+        4.213093314998443
+      ],
+      "chalcedony": [
+        "gemstone",
+        5.208521367431322
+      ],
+      "amethyst": [
+        "gemstone",
+        2.8487778605973277
+      ],
+      "jasper": [
+        "gemstone",
+        4.997212273764115
+      ],
+      "agate": [
+        "gemstone",
+        4.378173065357892
+      ],
+      "carnelian": [
+        "gemstone",
+        5.269145989247757
+      ],
+      "garnet": [
+        "gemstone",
+        3.5758265928329545
+      ],
+      "tourmaline": [
+        "gemstone",
+        4.071442797935417
+      ]
+    },
+    "score": 1.247115830311375
+  },
+  "toes,knees,shoulders,heads": {
+    "concepts": [
+      "song"
+    ],
+    "detail": {
+      "toes": [
+        "song",
+        9.662689065983198
+      ],
+      "knees": [
+        "song",
+        9.662689065983198
+      ],
+      "shoulders": [
+        "song",
+        9.151863442217207
+      ],
+      "heads": [
+        "song",
+        10.068154174091362
+      ]
+    },
+    "score": 2.473814071559512
+  },
+  "rooms,suites,locations,packages": {
+    "concepts": [
+      "bedroom"
+    ],
+    "detail": {
+      "rooms": [
+        "bedroom",
+        2.5649493574615367
+      ],
+      "suites": [
+        "bedroom",
+        2.4471663218051534
+      ],
+      "locations": [
+        "bedroom",
+        3.0349529867072724
+      ],
+      "packages": [
+        "bedroom",
+        2.6984807500860595
+      ]
+    },
+    "score": 1.2335714070408579
+  },
+  "rubies,garnets,sapphires,emeralds,opals,sardonyx,amethysts": {
+    "concepts": [
+      "gemstone"
+    ],
+    "detail": {
+      "rubies": [
+        "gemstone",
+        6.095824562432225
+      ],
+      "garnets": [
+        "SELF",
+        15.86145611618474
+      ],
+      "sapphires": [
+        "gemstone",
+        6.432296799053438
+      ],
+      "emeralds": [
+        "gemstone",
+        6.432296799053438
+      ],
+      "opals": [
+        "gemstone",
+        5.739149618493492
+      ],
+      "sardonyx": [
+        "gemstone",
+        8.041734711487537
+      ],
+      "amethysts": [
+        "gemstone",
+        8.041734711487537
+      ]
+    },
+    "score": 2.0852133438866085
+  },
+  "tenements,canals,steppes": {
+    "concepts": [
+      "map"
+    ],
+    "detail": {
+      "tenements": [
+        "map",
+        8.197263371414335
+      ],
+      "canals": [
+        "map",
+        7.504116190854391
+      ],
+      "steppes": [
+        "map",
+        8.197263371414335
+      ]
+    },
+    "score": 2.339551960915909
+  },
+  "oranges,lemons,limes": {
+    "concepts": [
+      "citrus"
+    ],
+    "detail": {
+      "oranges": [
+        "citrus",
+        4.7106556938340685
+      ],
+      "lemons": [
+        "citrus",
+        4.844187086458591
+      ],
+      "limes": [
+        "citrus",
+        6.790097235513905
+      ]
+    },
+    "score": 1.9208168059698807
+  },
+  "galatea,daphnis,variants": {
+    "concepts": [
+      "moon"
+    ],
+    "detail": {
+      "galatea": [
+        "moon",
+        5.0689042022202315
+      ],
+      "daphnis": [
+        "moon",
+        5.0689042022202315
+      ],
+      "variants": [
+        "SELF",
+        15.694402031521573
+      ]
+    },
+    "score": 2.6059471672104237
+  },
+  "spaniel,spaniels,setters,hounds,retriever,collies,shepherds,retrievers,pointers": {
+    "concepts": [
+      "dog"
+    ],
+    "detail": {
+      "spaniel": [
+        "dog",
+        5.472445728376517
+      ],
+      "spaniels": [
+        "dog",
+        6.347914465730417
+      ],
+      "setters": [
+        "dog",
+        7.264205197604572
+      ],
+      "hounds": [
+        "dog",
+        7.957352378164517
+      ],
+      "retriever": [
+        "dog",
+        5.216512354239316
+      ],
+      "collies": [
+        "dog",
+        6.165592908936462
+      ],
+      "shepherds": [
+        "dog",
+        5.8779108364846815
+      ],
+      "retrievers": [
+        "dog",
+        7.041061646290363
+      ],
+      "pointers": [
+        "dog",
+        8.650499558724462
+      ]
+    },
+    "score": 1.688797478861652
+  },
+  "sparrows,pigeons,starlings": {
+    "concepts": [
+      "bird"
+    ],
+    "detail": {
+      "sparrows": [
+        "bird",
+        7.4971348773903
+      ],
+      "pigeons": [
+        "bird",
+        7.231431711657294
+      ],
+      "starlings": [
+        "bird",
+        6.700803460595123
+      ]
+    },
+    "score": 2.0912203797924214
+  },
+  "diaries,blueprints,hints": {
+    "concepts": [
+      "document"
+    ],
+    "detail": {
+      "diaries": [
+        "document",
+        11.46969432077795
+      ],
+      "blueprints": [
+        "document",
+        10.776547140218005
+      ],
+      "hints": [
+        "document",
+        11.46969432077795
+      ]
+    },
+    "score": 2.873337370153163
+  },
+  "carrots,potatoes,turnips": {
+    "concepts": [
+      "root"
+    ],
+    "detail": {
+      "carrots": [
+        "root",
+        6.270988431858299
+      ],
+      "potatoes": [
+        "root",
+        6.964135612418245
+      ],
+      "turnips": [
+        "root",
+        6.964135612418245
+      ]
+    },
+    "score": 2.1608196052103747
+  },
+  "satire,irony,parody,pun": {
+    "concepts": [
+      "humor"
+    ],
+    "detail": {
+      "satire": [
+        "humor",
+        4.276666119016055
+      ],
+      "irony": [
+        "humor",
+        4.276666119016055
+      ],
+      "parody": [
+        "humor",
+        4.969813299576001
+      ],
+      "pun": [
+        "humor",
+        4.276666119016055
+      ]
+    },
+    "score": 1.6045305535838903
+  },
+  "ex,shovels,binoculars": {
+    "concepts": [
+      "band"
+    ],
+    "detail": {
+      "ex": [
+        "band",
+        9.721545923560459
+      ],
+      "shovels": [
+        "band",
+        10.820158212228568
+      ],
+      "binoculars": [
+        "band",
+        10.820158212228568
+      ]
+    },
+    "score": 2.7594289536055188
+  },
+  "apartments,houses,villas,condos": {
+    "concepts": [
+      "property"
+    ],
+    "detail": {
+      "apartments": [
+        "property",
+        8.394087683165662
+      ],
+      "houses": [
+        "property",
+        8.694192275615999
+      ],
+      "villas": [
+        "property",
+        8.554430333240841
+      ],
+      "condos": [
+        "SELF",
+        15.04047556411491
+      ]
+    },
+    "score": 2.535361114357632
+  },
+  "reverence,delight,modesty,piety,wonder,awe,chastity": {
+    "concepts": [
+      "emotion",
+      "virtue"
+    ],
+    "detail": {
+      "reverence": [
+        "virtue",
+        8.17287021825031
+      ],
+      "delight": [
+        "emotion",
+        7.243376813723037
+      ],
+      "modesty": [
+        "virtue",
+        5.667344281259575
+      ],
+      "piety": [
+        "virtue",
+        6.301068041348719
+      ],
+      "wonder": [
+        "emotion",
+        7.029802713424978
+      ],
+      "awe": [
+        "emotion",
+        6.0683915462703535
+      ],
+      "chastity": [
+        "virtue",
+        6.614725600203761
+      ]
+    },
+    "score": 2.0139944166274115
+  },
+  "rhododendrons,azaleas,camellias": {
+    "concepts": [
+      "plant"
+    ],
+    "detail": {
+      "rhododendrons": [
+        "plant",
+        8.19010226690204
+      ],
+      "azaleas": [
+        "plant",
+        7.670226807616131
+      ],
+      "camellias": [
+        "plant",
+        8.642087390645097
+      ]
+    },
+    "score": 2.264760515056858
+  },
+  "birches,magnolias,dogwoods": {
+    "concepts": [
+      "shrub"
+    ],
+    "detail": {
+      "birches": [
+        "shrub",
+        8.958154135209242
+      ],
+      "magnolias": [
+        "shrub",
+        8.265006954649296
+      ],
+      "dogwoods": [
+        "shrub",
+        6.760929557873022
+      ]
+    },
+    "score": 2.371367008828652
+  },
+  "banners,postcards,posters,brochures,flyers": {
+    "concepts": [
+      "print product"
+    ],
+    "detail": {
+      "banners": [
+        "print product",
+        5.288267030694535
+      ],
+      "postcards": [
+        "print product",
+        4.189654742026425
+      ],
+      "posters": [
+        "print product",
+        4.59511985013459
+      ],
+      "brochures": [
+        "print product",
+        3.6788291182604347
+      ],
+      "flyers": [
+        "print product",
+        4.189654742026425
+      ]
+    },
+    "score": 1.9381179699387976
+  },
+  "meat,milk,fish,egg,poultry": {
+    "concepts": [
+      "food"
+    ],
+    "detail": {
+      "meat": [
+        "food",
+        3.9211030624065972
+      ],
+      "milk": [
+        "food",
+        4.163330649425523
+      ],
+      "fish": [
+        "food",
+        3.933156241674153
+      ],
+      "egg": [
+        "food",
+        3.9450837346634247
+      ],
+      "poultry": [
+        "food",
+        5.222696131971101
+      ]
+    },
+    "score": 1.2544078814247315
+  },
+  "lamb,chicken,beef,pork": {
+    "concepts": [
+      "meat"
+    ],
+    "detail": {
+      "lamb": [
+        "meat",
+        3.3659638073354325
+      ],
+      "chicken": [
+        "meat",
+        2.3253753587837003
+      ],
+      "beef": [
+        "meat",
+        2.5142115965988485
+      ],
+      "pork": [
+        "meat",
+        2.7896809669147977
+      ]
+    },
+    "score": 1.1163863929652562
+  },
+  "summers,winters,noel,glover": {
+    "concepts": [
+      "researcher"
+    ],
+    "detail": {
+      "summers": [
+        "researcher",
+        8.600851333545032
+      ],
+      "winters": [
+        "researcher",
+        8.937323570166246
+      ],
+      "noel": [
+        "researcher",
+        9.8536143020404
+      ],
+      "glover": [
+        "researcher",
+        10.546761482600346
+      ]
+    },
+    "score": 2.457447233278643
+  },
+  "opportunities,programs,galleries,features,courses": {
+    "concepts": [
+      "tab"
+    ],
+    "detail": {
+      "opportunities": [
+        "tab",
+        6.824917000673133
+      ],
+      "programs": [
+        "tab",
+        6.419451892564968
+      ],
+      "galleries": [
+        "SELF",
+        14.132217003938019
+      ],
+      "features": [
+        "tab",
+        6.824917000673133
+      ],
+      "courses": [
+        "tab",
+        7.518064181233078
+      ]
+    },
+    "score": 2.2437873491704785
+  },
+  "bianca,beth,katie": {
+    "concepts": [
+      "child"
+    ],
+    "detail": {
+      "bianca": [
+        "child",
+        8.074960359115858
+      ],
+      "beth": [
+        "child",
+        7.381813178555913
+      ],
+      "katie": [
+        "child",
+        6.976348070447749
+      ]
+    },
+    "score": 2.2402597050922286
+  },
+  "merits,duchy,contadina": {
+    "concepts": [
+      "brand"
+    ],
+    "detail": {
+      "merits": [
+        "brand",
+        10.688461580408601
+      ],
+      "duchy": [
+        "brand",
+        8.855880116660291
+      ],
+      "contadina": [
+        "SELF",
+        15.956766295989064
+      ]
+    },
+    "score": 2.955752072050989
+  },
+  "patience,generosity,compassion,kindness,humility": {
+    "concepts": [
+      "virtue"
+    ],
+    "detail": {
+      "patience": [
+        "virtue",
+        3.368849173517054
+      ],
+      "generosity": [
+        "virtue",
+        3.816161391560719
+      ],
+      "compassion": [
+        "virtue",
+        3.4723898524578947
+      ],
+      "kindness": [
+        "virtue",
+        3.678631592969501
+      ],
+      "humility": [
+        "virtue",
+        3.924374976200952
+      ]
+    },
+    "score": 1.2796024281212068
+  },
+  "integrity,respect,responsibility,honesty": {
+    "concepts": [
+      "value"
+    ],
+    "detail": {
+      "integrity": [
+        "value",
+        3.6546978408228696
+      ],
+      "respect": [
+        "value",
+        3.523004950820807
+      ],
+      "responsibility": [
+        "value",
+        4.336310868137528
+      ],
+      "honesty": [
+        "value",
+        3.437293853857214
+      ]
+    },
+    "score": 1.2904063926460667
+  },
+  "personification,metaphor,simile,rhyme,allusion,allegory,alliteration,juxtaposition": {
+    "concepts": [
+      "poetic device"
+    ],
+    "detail": {
+      "personification": [
+        "poetic device",
+        2.639057329615259
+      ],
+      "metaphor": [
+        "poetic device",
+        2.0386918825062796
+      ],
+      "simile": [
+        "poetic device",
+        2.3263739549580604
+      ],
+      "rhyme": [
+        "poetic device",
+        2.9141606198601795
+      ],
+      "allusion": [
+        "poetic device",
+        4.81128060474606
+      ],
+      "allegory": [
+        "poetic device",
+        5.90989289341417
+      ],
+      "alliteration": [
+        "poetic device",
+        2.2723067336877847
+      ],
+      "juxtaposition": [
+        "poetic device",
+        7.00850518208228
+      ]
+    },
+    "score": 1.4045004383800344
+  },
+  "marriages,deaths,births": {
+    "concepts": [
+      "database"
+    ],
+    "detail": {
+      "marriages": [
+        "database",
+        9.582248696555505
+      ],
+      "deaths": [
+        "database",
+        8.88910151599556
+      ],
+      "births": [
+        "database",
+        9.582248696555505
+      ]
+    },
+    "score": 2.5963328013970726
+  },
+  "poughkeepsie,bennington,winona": {
+    "concepts": [
+      "city"
+    ],
+    "detail": {
+      "poughkeepsie": [
+        "city",
+        9.88393514393264
+      ],
+      "bennington": [
+        "city",
+        10.864764396944366
+      ],
+      "winona": [
+        "city",
+        9.66079159261843
+      ]
+    },
+    "score": 2.620348442449441
+  },
+  "pendants,earrings,necklaces,bracelets": {
+    "concepts": [
+      "fashion accessory"
+    ],
+    "detail": {
+      "pendants": [
+        "fashion accessory",
+        6.4692503167957724
+      ],
+      "earrings": [
+        "fashion accessory",
+        5.216487348300404
+      ],
+      "necklaces": [
+        "fashion accessory",
+        4.965172920019499
+      ],
+      "bracelets": [
+        "SELF",
+        14.45268889921279
+      ]
+    },
+    "score": 2.6620658192585154
+  },
+  "fools,snowflakes,bruises": {
+    "concepts": [
+      "single"
+    ],
+    "detail": {
+      "fools": [
+        "single",
+        7.8655717576847906
+      ],
+      "snowflakes": [
+        "single",
+        6.4792773965649
+      ],
+      "bruises": [
+        "single",
+        7.8655717576847906
+      ]
+    },
+    "score": 2.306676461302096
+  },
+  "rowena,roxana,straits,aromas": {
+    "concepts": [
+      "community"
+    ],
+    "detail": {
+      "rowena": [
+        "community",
+        10.304654548089152
+      ],
+      "roxana": [
+        "community",
+        10.710119656197318
+      ],
+      "straits": [
+        "community",
+        11.403266836757261
+      ],
+      "aromas": [
+        "community",
+        10.304654548089152
+      ]
+    },
+    "score": 2.650072756807243
+  },
+  "pretension,bewilderment,chromosomes": {
+    "concepts": [
+      "cause"
+    ],
+    "detail": {
+      "pretension": [
+        "cause",
+        10.504108175418333
+      ],
+      "bewilderment": [
+        "cause",
+        10.504108175418333
+      ],
+      "chromosomes": [
+        "cause",
+        9.405495886750224
+      ]
+    },
+    "score": 2.72246042013046
+  },
+  "rabbits,elephants,leopards,squirrels,rats,giraffes,zebras": {
+    "concepts": [
+      "animal"
+    ],
+    "detail": {
+      "rabbits": [
+        "animal",
+        8.145758064236365
+      ],
+      "elephants": [
+        "animal",
+        7.568442699201541
+      ],
+      "leopards": [
+        "animal",
+        8.903443765933881
+      ],
+      "squirrels": [
+        "animal",
+        9.126587317248092
+      ],
+      "rats": [
+        "animal",
+        9.21359869423772
+      ],
+      "giraffes": [
+        "animal",
+        8.145758064236365
+      ],
+      "zebras": [
+        "animal",
+        8.520451513677775
+      ]
+    },
+    "score": 2.072539140689664
+  },
+  "ware,pyre,orchestrations,lances": {
+    "concepts": [
+      "artifact"
+    ],
+    "detail": {
+      "ware": [
+        "artifact",
+        9.625557771527026
+      ],
+      "pyre": [
+        "artifact",
+        9.625557771527026
+      ],
+      "orchestrations": [
+        "artifact",
+        9.625557771527026
+      ],
+      "lances": [
+        "artifact",
+        8.93241059096708
+      ]
+    },
+    "score": 2.4965923515527937
+  },
+  "wares,bunches,alleys,timepieces": {
+    "concepts": [
+      "family"
+    ],
+    "detail": {
+      "wares": [
+        "family",
+        8.892748769118258
+      ],
+      "bunches": [
+        "family",
+        8.892748769118258
+      ],
+      "alleys": [
+        "family",
+        8.892748769118258
+      ],
+      "timepieces": [
+        "SELF",
+        16.87305702786322
+      ]
+    },
+    "score": 2.7570467966789445
+  },
+  "mornings,oddities,apostrophes,elucidation": {
+    "concepts": [
+      "television show"
+    ],
+    "detail": {
+      "mornings": [
+        "television show",
+        9.039670667922676
+      ],
+      "oddities": [
+        "television show",
+        9.039670667922676
+      ],
+      "apostrophes": [
+        "television show",
+        9.039670667922676
+      ],
+      "elucidation": [
+        "SELF",
+        15.956766295989064
+      ]
+    },
+    "score": 3.112310600933358
+  }
+}

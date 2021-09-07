@@ -14,7 +14,6 @@ from keras.models import Model,load_model
 from keras.optimizers import Adam
 from keras.callbacks import ModelCheckpoint
 from keras_bert import load_trained_model_from_checkpoint,Tokenizer
-from keras_lr_multiplier import LRMultiplier
 import matplotlib.pyplot as plt
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -29,7 +28,7 @@ MODEL_DIR = "./model"
 EPOCHS = 100
 
 token_dict = {}
-with open(dict_path,"r") as rf:
+with open(dict_path,"r",encoding="utf-8") as rf:
     for line in rf:
         token = line.strip()
         token_dict[token] = len(token_dict)
@@ -39,14 +38,14 @@ tokenizer = Tokenizer(token_dict)
 def load_data(mode="train",filename=None):
     data = []
     if mode in ["train","valid","test"]:
-        with open(os.path.join(DATA_DIR,"{}_prob.csv".format(mode)),"r") as rf:
+        with open(os.path.join(DATA_DIR,"{}_prob.csv".format(mode)),"r",encoding="utf-8") as rf:
             for i,line in enumerate(rf):
                 if i == 0:
                     continue
                 adj,noun,label,pan,pna,rep = line.strip().split(",")
                 data.append((adj+" " +noun,int(label),float(pan),float(pna),float(rep)))
     else:
-        with open(filename,"r") as rf:
+        with open(filename,"r",encoding="utf-8") as rf:
             for i,line in enumerate(rf):
                 if i == 0:
                     continue
@@ -150,7 +149,8 @@ def build_bert_model():
 
 def train_model(model,train_data,valid_data,plot=True):
     save_best = ModelCheckpoint(
-        "./model/prob_encoder12Wq_model_{epoch:02d}_{val_loss:.2f}_{val_acc:.2f}.h5",
+        # "./model/prob_encoder12Wq_model_{epoch:02d}_{val_loss:.2f}_{val_acc:.2f}.h5",
+        "./model/classifier_model.h5",
         monitor="val_loss",
         mode="min",
         save_best_only=True,
@@ -267,8 +267,8 @@ def cal_p_r_f1():
     print("f1-value:{}".format(str(2*r*p/(p+r))))
 
 if __name__ == '__main__':
-    train_data = load_data("train_prob")
-    valid_data = load_data("valid_prob")
+    train_data = load_data("train")
+    valid_data = load_data("valid")
 
     model = build_bert_model()
     train_model(model,train_data,valid_data)
